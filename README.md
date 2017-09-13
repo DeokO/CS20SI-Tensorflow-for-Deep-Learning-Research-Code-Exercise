@@ -3,8 +3,6 @@ CS 20SI: Tensorflow for Deep Learning Research url: https://web.stanford.edu/cla
 
 -----------------------------------------------------------
 
-업로드중입니다
-
 CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리한 내용입니다.
 
 ## notes01: Overview of Tensorflow
@@ -21,3 +19,9 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 2. slides_03.pdf
 3. ex03_1_regression – 기본 회귀 모형 적합. 1차 함수 fitting, 2차 함수 fitting, plotting, optimizer 종류
 4. ex03_2_logisticRegression – 기본 분류 모형 적합. softmax_cross_entropy_with_logits 이용한 학습
+
+## notes04: StructModel
+1. notes_04.pdf
+2. slides_04.pdf
+3. ex04_ex04_structModel.py – word2vec(skip-gram) 구축 연습. Tensorboard에 임베딩 결과물 시각화
+
