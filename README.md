@@ -3,6 +3,8 @@ CS 20SI: Tensorflow for Deep Learning Research url: https://web.stanford.edu/cla
 
 -----------------------------------------------------------
 
+업로드중입니다
+
 CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리한 내용입니다.
 
 ## notes01: Overview of Tensorflow
