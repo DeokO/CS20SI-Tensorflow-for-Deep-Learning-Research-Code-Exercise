@@ -313,6 +313,8 @@ model = SkipGramModel(VOCAB_SIZE, EMBED_SIZE, BATCH_SIZE, NUM_SAMPLED, LEARNING_
 #model 내의 여러 정의할 부분을 하나의 메소드로 모두 실행
 model.build_graph()
 #http://mattmahoney.net/dc/ 에서 데이터 불러오기. (text8.zip)
+#build_vocab 메소드에 의해 vocab_1000.tsv가 생성된다.
+#이를 tensorboard를 켰을 때 embedding tab에서 load data에 넣어주면 임베딩된 결과물에 매칭해서 확인할 수 있다.
 batch_gen = process_data(VOCAB_SIZE, BATCH_SIZE, SKIP_WINDOW)
 #model을 훈련시키고, 해당 parameter를 저장까지 한다.
 train_model(model, batch_gen, NUM_TRAIN_STEPS)
