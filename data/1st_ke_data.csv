@@ -1,0 +1,1240 @@
+고유번호,문법번호,영어예문,번역문,질문,관련문,참조문,출처
+1,10101010000,A small wooden box emerged.,작은 나무상자 하나가 나왔다.,"""A small wooden box ""가 [작은 나무상자 하나가]로 ""a""가 ""하나""로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+2,10101010000,There is a policeman at the door.,문에 어떤 경찰관이 있다.,"""a policeman""이 [어떤 경찰관]로 번역되었습니까?",,,문법책-Hornby
+3,10101010000,They were much of a size.,그들은 거의 같은 사이즈였다.,"""a size""가[같은 사이즈]로, ""a""가 [같은]으로 번역되었습니까?",,,문법책-Hornby
+4,10101010000,I've never heard of a Mr. Clark in this office.,나는 이 사무실에서 클라크씨라는 사람에 대해 들은 적이 없다.,"""a Mr.Clark""가 [클라크씨라는 사람]으로, 부정관사의 특수용법으로 번역되었습니까?",,,문법책-Hornby
+5,10101010000,I've never read a Shakespeare.,나는 셰익스피어의 작품을 읽은 적이 없다.,"""a Shakespeare""가 [셰익스피어의 작품]으로, 부정관사의 특수용법으로 번역되었습니까?",,,문법책-Hornby
+6,10101020000,I was the taxi driver.,제가 바로 그 택시 운전사였습니다.,"""the taxi driver""가 [그 택시 운전사]라고 ""the""가 해석이 되어 번역되었습니까?",,,영어교과서-고교ii-a-1
+7,10101020000,The sky was blue.,하늘은 파랬다.,"""the sky""가 [하늘]로, 정관사 the의 번역이 생략되어 번역되었습니까?",,,문법책-Hornby
+8,10101020000,The rich often lead frugal lives.,부자는 종종 검소한 인생을 보낸다.,"""the rich""가[부자]로, 보통명사로 번역되었습니까?",,,문법책-Hornby
+9,10101020000,The Smiths went out in the morning.,스미스 일가는 아침에 외출했다.,The Smiths이 [스미스 일가]로 번역되었습니까?,,,문법책-Hornby
+10,10101020000,The beautiful is not always good.,미가 항상 좋은 것만은 아니다.,"""the beautiful""이 [美]로, 추상명사로 번역되었습니까?",,,문법책-Hornby
+11,10101020000,The dog is a faithful animal.,개는 충실한 동물이다.,"""The dog""가 [개]로, 정관사가 생략되어 종족을 나타내는 표현으로 번역이 되었습니까?",,,문법책-성문기본
+12,10101030000,I gave her a white and blue apron.,나는 그녀에게 흰색과 청색이 섞인 앞치마를 주었다.,"“a white and blue apron""이 [색이 두 색인 한 개의 앞치마]의 의미로 번역되었습니까?",,,문법책-Hornby
+13,10101030000,Go to school.,공부하러 가다,"""Go to school""이 [공부하러 가다]로, 본래의 목적을 의미하도록 번역이 되었습니까",,,문법책-성문기본
+14,10101030000,A poet and novelist is present.,시인이며 소설가인 분이 참석했다.,"""A poet and novelist""가 [시인이며 소설가인 분]과 같이, ""poet"" 과 ""novelist"" 가 동일 인물로 번역이 되었습니까?",,,문법책-성문기본
+15,10101030000,A poet and a novelist are present.,한 시인과 한 소설가가 참석했다.," ""A poet and a novelist ""가 [한 시인과 한 소설가]로 ""poet""과 ""novelist""가 각각 다른 인물임을 의미하도록 번역이 되었습니까?",,,문법책-성문기본
+16,10102010000,"Next, there is reading for information and knowledge.",다음으로는 정보와 지식을 위한 독서가 있다.,"""there is reading""이 [독서가 있다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+17,10102010000,There is a paper on the table.,테이블 위에 신문이 있다.,"""paper""가 [신문, 논문]으로 번역되었습니까?",,,문법책-Hornby
+18,10102010000,The suns energy can be used in your own house for heating and cooking.,태양 에너지는 난방과 요리를 위해서 당신 자신의 집에서 이용될 수 있다.,"""heating and cooking""이 [난방과 요리]로 보통명사로 번역이 되었습니까?",,,문법책-맨투맨
+19,10102020000,Martin drops Ramsays glass on the floor.,마틴은 램지의 잔을 마루에 떨어뜨린다.,"""glass""가 [잔]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+20,10102030000,But this natural liberty of private thinking is of little value.,그러나 이러한 개인적인 사고의 천부적인 자유는 별로 가치가 없다.,"liberty[자유], thinking[사고]와 같이 눈에 보이지 않는 추상적인 것의 이름으로 번역되었습니까?",,,문법책-맨투맨
+21,10102040000,Admiral Yi Sun-shin was a man of honor.,이순신 장군은 신의를 지키는 사람이었다.,"""Admiral Yi Sun-shin""가 [이순신 장군]으로 고유명사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+22,10102040000,I wanted to go to Kings Cross Station to catch a train.,나는 기차를 타기 위해서 킹스 크로스 역까지 가기를 원했거든요.,"""King's Cross Station""이 [킹스크로스역]이라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+23,10102040000,That girl was Irene Crane.,그 소녀는 아이린 크레인이었다.,"""Irene Crane""이 [아이린 크레인]으로 고유명사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+24,10102040000,He was reading The Times.,그는 타임즈지를 읽고 있었다.,"“The Times""가 고유명사라고 인정되며, [타임즈 誌]로 번역되었습니까?",,,문법책-Hornby
+25,10102040000,Bush doesn't like this.,부시는 이것을 좋아하지 않는다.,"""Bush""가 [부시]로, 고유명사로 번역되었습니까?",,,문법책-Hornby
+26,10102040000,His name is John R. Smith.,그의 이름은 죤 R.스미스이다.,"""John R. Smith""가 [죤R.스미스]로 번역이 되었습니까?",,,문법책-Hornby
+27,10102040000,George Washington was very punctual.,조지 워싱턴은 시간을 매우 잘 지켰다.,"""George Washington""이 [조지워싱턴]와 같이  사람이름을 나타내는 「고유명사」로 번역되었습니까?",,,문법책-맨투맨
+28,10102050000,This book is Marys.,이 책은 메리의 것이다.,"“Mary's""가 [메리의 것]으로 번역되었습니까?",,,문법책-Hornby
+29,10102050000,I read Dickens book.,나는 디킨즈의 책을 읽었다.,"""Dickens' book""이 [디킨즈의 책]으로 번역되었습니까?",,,문법책-Hornby
+30,10102050000,I called at the teacher of Englishs house.,나는 영어 선생님 집을 방문하였다.,"""the teacher of English""가 [영어 선생님]으로, 한 단어로 번역되었습니까?",,,문법책-Hornby
+31,10102050000,It was Grandma and Grandpas 50th wedding anniversary.,할머니와 할아버지의 50주년 결혼 기념일이었다.,"""Grandma and Grandpa's 50th wedding anniversary""가 [할머니와 할아버지의 50주년 결혼 기념일]로 번역되었습니까?",,,문법책-맨투맨
+32,10102060000,I found some rat nests.,나는 쥐의 집을 몇 개인가 발견했다.,"“rat house""가 [쥐집]과 같이, [쥐의집]을 의미하도록 번역하였습니까?",,,문법책-Hornby
+33,10102060000,Watch imports were denied such duty-free treatment.,시계상품의 수입은 무관세 취급품에서 제외되었다.,"“Watch imports ""가 [시계상품의 수입]과의 의미로 번역하였습니까?",,,문법책-Hornby
+34,10102060000,Look at the computer display.,컴퓨터의 진열을 보세요,"“computer display""가 [컴퓨터의 진열]을 나타내도록 번역하였습니까?",,,문법책-Hornby
+35,10102060000,Communication is a basic human activity.,통신은 인간의 기본적인 활동이다.,"""basic human activity""가 [인간의 기본적인 활동]과 같이 「의」를 삽입하여 번역하였습니까?",,,문법책-맨투맨
+36,10102070000,She dreamed a happy dream.,그녀는 유쾌한 꿈을 꾸었다.,"“dream a happy dream""이 [유쾌한 꿈을 꾸다]와 같이 [꿈]이 중복되지 않고 번역되었습니까?",,,문법책-Hornby
+37,10102070000,She smiled a warm smile at me.,그녀는 나에게 따뜻한 미소를 지었다.,"“smile a warm smile ""이 [따뜻한 미소를 지다]와 같이 [미소]가 중복되지 않고 번역되었습니까?",,,문법책-Hornby
+38,10102070000,He lived his spiritual life without any communion with others.,그는 다른 사람들과 아무런 친교도 없이 자기의 정신적인 삶을 영위했다.,"""He lived his spiritual life""가 [정신적인 삶을 영위하다]와 같이 「삶」이 중복되지 않고 번역되었습니까?",,,문법책-맨투맨
+39,10102080000,"At last he found somebody - Dr. Akram, a young Pakistani doctor.","마침내 그는 사람을 구했는데, 아크람이라는 젊은 파키스탄인 의사였다.","""Dr. Akram, a young Pakistani doctor""가 [아크람이라는 의사]와 같이 동격으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+40,10102080000,August 15 is an unforgettable day to us Koreans.,8월 15일은 우리 한국인에게는 잊을 수 없는 날이다.,"""us Korean""이 [우리 한국인]으로 동격으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+41,10102080000,"Yesterday, I met Mr. Smith, chairman of the committee.",어제 나는 위원회 의장인 스미스씨를 만났다.,[스미스씨]와 [위원회 의장]이 동일인물로 번역되었습니까?,,,문법책-Hornby
+42,10102080000,You can visit many time-honored temples in the City of Seoul.,당신은 서울시에서 많은 유서 깊은 사원을 방문할 수 있습니다.,"""City of Seoul""가 [서울시]로 번역되었습니까?",,,문법책-Hornby
+43,10102080000,"The article appeared on Fortune, a magazine published in America.",그 기사는 미국에서 발행된 잡지인  Fortune 에 실렸다.,"""a magazine published in America"" 와 ""Fortune""이 동일물로 번역되었습니까?",,,문법책-Hornby
+44,10102090000,Her family are all very well.,그녀의 가족들은 모두 아주 건강하다.,"""Her family""가 [그녀의 가족들]로, ""family""가 복수의 인간으로 구성된다는 것을 의미하도록 번역되었습니까?",,,문법책-Hornby
+45,10102090000,The committee has prepared a report.,그 위원회는 보고서를 작성했다.,"""The committee""가 [그 위원회]는과 같이 집단, 단체로 번역이 되었습니까?",,,문법책-성문기본
+46,10102090000,The committee do not agree about the report.,위원들은 그 보고에 대해 의견이 같지 않다.,"""The committee""가 [위원들]과 같이 단체를 구성하고 있는 개체를 표현하도록 번역이 되었습니까?",,,문법책-성문기본
+47,10103010100,They speak English in New Zealand.,뉴질랜드에서는 영어를 말한다.,"인칭대명사 “they""가 생략되어 번역되었습니까?",,,문법책-Hornby
+48,10103010100,We had a lot of snow last year.,작년에 많은 눈이 내렸다.,"인칭대명사 “we""가 생략되어 번역되었습니까?",,,문법책-Hornby
+49,10103010100,Would you please show me your identification card?,신분증명서를 보여주시겠습니까?,"인칭대명사 ""you"", ""me"", ""your""가 생략되어 번역되었습니까?",,,문법책-Hornby
+50,10103010200,She looks forward to his coming.,그녀는 그가 오는 것을 기대하고 있다.,"""his coming""이 [그가 오는]으로, 의미상의 주어가 되도록 번역되었습니까?",,,문법책-Hornby
+51,10103010200,This is my own house.,이것은 내 자신의 집이다.,"""my own""이 [내 자신]으로, 소유의 의미를 강조하여 번역되었습니까?",,,문법책-Hornby
+52,10103010200,I thought of his being guilty.,나는 그가 유죄라는 것을 생각했다.,"“his being guilty""가 [그가 유죄라는 것]으로 번역되었습니까?",,,문법책-Hornby
+53,10103010200,The party went to his rescue.,그 당원은 그를 구조하기 위하여 갔다.,"""his rescue""이 [그를 구조하다]로, 의미상의 목적어가 되도록 번역되었습니까?",,,문법책-Hornby
+54,10103010200,His radio was broken.,그의 라디오가 부서졌던 것이다.,"""his radio""가 [그의 라디오]로 「소유의 의미」를 강조하도록 번역되었습니까?",,,문법책-맨투맨
+55,10103010300,"Is this yours, sir?","선생님, 이것이 당신의 것입니까?","""yours""가 [당신의 것]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+56,10103010300,A friend of mine visited me yesterday.,내 친구가 어제 찾아왔다.,"""a friend of mine""이 [내 친구]로 번역되었습니까?",,,문법책-Hornby
+57,10103010300,This exercise of yours is free from mistakes.,너의 이 실습은 실수가 없다.,"""This exercise of yours ""가 [너의 이 실습]로 번역되었습니까?",,,문법책-Hornby
+58,10103010300,Bring me that book of hers.,그녀의 책을 나에게 주세요.,"""hers""가 [그녀의 책]과 같이「소유의 의미」로 번역되었습니까?",,,문법책-맨투맨
+59,10103010400,He proved himself to be innocent.,그는 자신이 무죄라는 것을 증명했다.,"""himself""가 「자신이」로, TO부정사의 주어를 나타내는 재귀대명사로 번역되었습니까?",,,문법책-Hornby
+60,10103010400,I carried the box myself.,나는 스스로 그 상자를 날랐다.,"""myself""가 [스스로]로와 같이 해석이 명시되어 번역되었습니까?",,,문법책-Hornby
+61,10103010400,This machine works by itself.,이 기계는 저절로 작동한다.,"""by itself""가 [ 저절로 ]로 번역되었습니까?",,,문법책-Hornby
+62,10103010400,And then I order the same for myself.,그리고 나서 제 자신을 위해서 그와 똑같은 식사를 주문합니다.,"""for myself""가 [나 자신을 위해서]와 같이 「재귀대명사」가 「나 자신」으로 번역되었습니까?",,,문법책-맨투맨
+63,10103010500,George and Mary love each other.,죠지와 메리는 서로 사랑하고 있다.,"""each other""가 [서로, 함께 ∼하다]로, 상호 동작을 나타내도록 번역되었습니까?",,,문법책-Hornby
+64,10103010500,We sent presents to one another.,우리는 서로에게 선물을 보냈다.," ""one another""가 [서로, 함께 ∼하다]로, 상호 동작을 나타내도록 번역되었습니까?",,,문법책-Hornby
+65,10103010500,To survive a nuclear war we should tolerate each other.,핵전쟁에서 살아 남기 위해서는 우리는 서로 참아야 한다.,"""each other""가 [서로~하다]로 「상호동작」을 나타내도록 번역되었습니까?",,,문법책-맨투맨
+66,10103020000,At last it was September 17.,드디어 9월 17일이 되었다.,"[9월 17일이 되었다]로 비인칭주어 ""it""이 생략되어 번역되었습니까?",,,영어교과서-고교ii-a-1
+67,10103020000,How goes it with you today?,오늘은 어떠니?,"""it"" 이 [상황, 경기, 모습]을 나타내며 ""it""이 생략되어 번역되었습니까?",,,문법책-Hornby
+68,10103020000,It is fine today.,오늘 날씨가 좋다.,"""It is fine today""가 [오늘 날씨가 좋다]와 같이 it이 생략되어 번역이 되었습니까?",,,문법책-성문기본
+69,10103020000,It was sunset when we arrived.,"우리가 도착했을 때, 일몰이었다.","비인칭대명사 ""it""가 생략되어 번역되었습니까?",,,문법책-Hornby
+70,10103030100,"""That will leave us shorthended.""",그러면 우리 일손이 모자라게 될 텐데.,"""that""이 어떤 상황을 지시하는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+71,10103030100,This is a great day for me.,오늘은 나에게는 대단히 기분 좋은 날이오.,"""this""가 [오늘]처럼 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+72,10103030100,There are those who don't have common sense.,상식을 갖고 있지 않은 사람들이 있다.,"""those""가 [사람들]로 사람들을 나타내도록 번역되었습니까?",,,문법책-Hornby
+73,10103030100,"Work and play are both necessary to health; this gives us rest, and that give us energy.","일하는 것과 노는 것은 둘다 건강에 필요하다. 왜냐하면 후자는 우리에게 휴식을 주고, 전자는 우리에게 활력을 주기 때문이다.","""this"" 와 ""that""이  [전자]와[후자]로, 각각 앞에 나온  ""work""와 ""play""를 의미하도록  번역이 되었습니까?",,,문법책-맨투맨
+74,10103030100,Youll be in trouble before you know it.,당신이 그것을 알기전에 당신은 곤란에 빠질 것이다.,"""it""이 [그것]으로 앞에 언급된 무엇을 지시하도록 번역되었습니까?",,,문법책-맨투맨
+75,10103030200,I don't think so.,나는 그렇게 생각하지 않아요.,"""so""가 [그렇게]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+76,10103030200,"If you will not do so, neither will I.",네가 그렇게 하지 않으면 나도 역시 안 하겠다.,""" you will not do so""가 [니가 그렇게 하다]와 같이 ""so""가 앞에 나온 것을 지시하는 지시대명사로 번역이 되었습니까?",,,문법책-성문기본
+77,10103030200,"""So do I,"" Jeff said, looking past Burke.","나도 그래, 하고 제프는 버크를 지나쳐 바라보면서 말했다.","""so do I ""가 [나도 그래]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+78,10103040100,One must keep the rules.,사람은 규칙을 지켜야 한다.,"""one""이 사람을 나타내도록 번역되었습니까?",,,문법책-Hornby
+79,10103040100,There are good lies and bad ones.,좋은 거짓말과 나쁜 거짓말이 있다.,"bad ones가 [나쁜 거짓말]로, 대명사 ""one""의 지시물을 동정(同定)하여 번역되었습니까?",,,문법책-Hornby
+80,10103040200,None of the books were interesting.,어느 책도 재미있지 않았다.,"""none of the books""이 [(어느∼도∼아니다)/∼의 어느 것도 ∼아니다)]와 같이 번역되었습니까?",,,문법책-Hornby
+81,10103040200,He is none the wiser for his university education.,그는 대학교육을 받았다고 하기에는 현명하지 못하다.,"""none the wiser""가 [현명하지 못하다]로 번역되었습니까?",,,문법책-Hornby
+82,10103040200,The price is none too high.,그 가격은 결코 비싸지 않다.," [none too high]가 ""조금도 비싸지 않다""의 의미로 번역되었는가?",,,문법책-Hornby
+83,10103040300,Burke said nothing.,버크는 아무 말도 하지 않았다.,문장이 [아무말도 하지않았다]로 부정으로 번역되었습니까?,,,영어교과서-고교ii-a-1
+84,10103040300,But nobody wanted to go to the Pakistani doctor.,그러나 아무도 그 파키스탄인 의사에게 가기를 원치 않았다.,[아무도 ~ 원하지 않았다]로 문장전체가 부정으로 번역되었습니까?,,,영어교과서-고교ii-a-1
+85,10103040300,His machines had wings or propellers - or both.,"그의 기계는 날개나 프로펠러, 또는 이 두 가지를 다 갖고 있었다.","""both""가 [두가지 다]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+86,10103040300,Some of you may say that this is the only reason for reading.,여러분 중에는 이것이 독서를 하는 유일한 이유라고 말하는 사람이 있을런지 모른다.,"""some of you""가 [여러분 중 몇몇]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+87,10103050000,The wisest man does not know everything.,아무리 현명한 사람이라도 모든 것을 다 알 수는 없다.,"""does not know everything""가 [모든 것을 다 알 수는 없다]와 같이 [일부만을 안다]는 의미로 번역이 되었습니까?",,,문법책-성문기본
+88,10103060000,"""I remember them all,"" I said.",그들 모두를 기억하지라고 나는 말했다.,"""them all""이 [그들 모두]와 같이 동격으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+89,10103060000,They all bend rays of light.,그것들 모두는 광선을 굴절시킨다.,"""they all""이 [그것(그들) 모두]로 동격으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+90,10104010100,I'm glad to be out of that taxi alive.,그 택시에서 살아나와서 기쁘군요.,"""alive""가 [살아서]라고 서술적으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+91,10104010100,The king was present.,국왕이 참석했다.,"""The king was present.""가 [국왕이 참석했다]와 같이 번역이 되었습니까?",,,문법책-성문기본
+92,10104010200,"""Has he said anything important yet?""",무슨 중요한 얘기를 했니?,"""anything important""가 [어떤 중요한 것]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+93,10104010200,Alone I looked down at the Japanese at my feet.,나는 혼자서 나의 발치에 있는 일본인을 내려다 보았다.,"""alone I""가 [나 혼자서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+94,10104010200,There was something wrong with the name on them.,그 우표에는 이름에 어딘가 잘못된 것이 있었습니다.,"""something wrong""이 [어떤 잘못된 것]으로 ""wrong""이 후위에서 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+95,10104010200,He had a box full of toys.,그는 장난감이 가득 든 상자를 가지고 있었다.,"""a box full of toys""가 [장난감이 가득 든 상자]로, ""full of toys""가 ""a box""를 수식하는 형태로 번역되었습니까?",,,문법책-Hornby
+96,10104010200,I met a boy seven years old.,나는 7살짜리 소년을 만났다.,"""a boy seven years old""가 [ 7살짜리 소년]로, ""seven years old""가 ""a boy""를 수식하는 형태로 번역되었습니까?",,,문법책-Hornby
+97,10104010200,There is nothing new under the sun.,이세상에 새로운 것은 없다.,"""nothing new""가 [새로운 것]과 같이 ""new""가 ""nothing""을 수식하도록 번역이 되었습니까?",,,문법책-성문기본
+98,10104010300,The judge will pass the judgement on the accused.,재판관은 피고인을 판결할 것입니다.," ""the accused""이 피고인으로 번역되었습니까?",,,문법책-Hornby
+99,10104010300,The rich are not always happy.,부자라고 항상 행복한 것은 아니다.,"""The rich""가 [부자]와 같이 보통명사로 번역이 되었습니까?",,,문법책-성문기본
+100,10104010300,"The true, the good and the beautiful were the ideals of the Greeks.","진,선,미는 그리이스 사람의 이상이었다.","""The true, the good and the beautiful""이 [진,선,미]와 같이 추상명사로 번역이 되었습니까?",,,문법책-성문기본
+101,10104010400,The poem is set in such a simple situation.,이 시는 그러한 단순한 상황을 배경으로 한 것이다.,"""such a""가 [그러한]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+102,10104010400,"Yes, it's the lost stamp.","예, 잃어버렸던 우표입니다.","""lost""가 [잃어버린]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+103,10104010400,The present government started in September.,현 정부는 9월에 출범하였다.,"“present""가 [현재의]라는 의미로 번역되었습니까?",,,문법책-Hornby
+104,10104010400,The sum total was just $10.,총 합계가 10달러이다.,"""sum total"" 가 [총 합계]로 ""total""이 ""sum""을 수식하는 형태로 번역되었습니까?",,,문법책-Hornby
+105,10104010400,We like ten mile runs.,우리들은 10마일 경주를 좋아한다.,[10마일 경주]로 번역되었습니까?,,,문법책-Hornby
+106,10104020100,Children are easy to please.,아이들을 기쁘게 하는 것은 간단하다.,[기쁘게 하다]의 목적어가 [아이들]이 되도록 번역되었습니까?,,,문법책-Hornby
+107,10104020100,Children are eager to please their teacher.,아이들은 그들의 선생님을 기쁘게 해주고 싶어한다.,[선생님을 기쁘게 하는(것을 바라고 있다)]는 의미로 번역되었습니까?,,,문법책-Hornby
+108,10104020100,She is certain to win.,그녀는 틀림없이 이길 것이다.,"""is certain to~""가 [이길 것을 (화자가) 확신하고 있다]로 번역되었습니까?",,,문법책-Hornby
+109,10104020100,He is wrong to leave.,"떠나다니, 그는 잘못을 저지르고 있다.","""is wrong to~""가 [떠나는 것은 그의 잘못이다]라고 하는 의미로 번역되었습니까?",,,문법책-Hornby
+110,10104020200,He is afraid of being bitten by the dog.,그는 그 개에게 물릴 것을 두려워하고 있다.,"""be afraid of~""가 [물릴 것을 두려워하고 있다]라고 번역되었습니까?",,,문법책-Hornby
+111,10104020200,He was shocked at her marriage.,그는 그녀의 결혼소식에 충격을 받았다.,"""be shocked at~""의 형용사와 전치사로 결합된 형태가 [~에 충격을 받다]라고 번역되었는가?",,,문법책-Hornby
+112,10104020200,I said I'm proud of you.,난 당신이 자랑스럽다고 말했다.,"""be proud of you""가 [당신이 자랑스럽다]라는 의미로 번역이 되었습니까?",,,문법책-맨투맨
+113,10104020300,He is busy searching for a key.,그는 열쇠를 찾는데 바쁘다.,[열쇠를 찾는데 바쁘다]라고 번역되었습니까?,,,문법책-Hornby
+114,10104020400,I am not aware of how much you earned.,나는 당신이 어느 정도 돈을 벌었었는지 모른다.,[어는 정도 돈을 벌었는지를]이라고 번역되었습니까?,,,문법책-Hornby
+115,10104020400,He must be mad that he should cry out at this time of night.,밤 늦은 이런 시각에 울부짖다니 그는 미쳤음에 틀림없다.,"""He must be mad that ~""이 [~하다니 미쳤음에 틀림없다]와 같이 ""mad""가 이끄는 절이 이유 판단의 근거로 번역이 되었습니까?",,,문법책-성문기본
+116,10104020400,"She got better, but the doctor was glad that I telephoned.","그녀는 나았지만, 의사는 제가 전화를 해서 다행이었다고 했습니다.","""was glad that I telephoned""이 [전화했다는 것을 기쁘게 생각했다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+117,10104030100,Now various people made longer and longer flights.,그리고 나서 많은 사람들이 점점 더 긴 비행을 했다.,"""longer and longer""가 [점점 더 긴]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+118,10104030100,Tom is taller than John.,톰은 죤보다 키가 크다.,[톰은 죤보다 키가 크다]라고 번역되었습니까?,,,문법책-Hornby
+119,10104030100,The new telephone is more troublesome than convenient.,그 새 전화는 편리하다기보다 번거롭다.,"[전화는 편리하다기보다 번거롭다]로""troublesome""과 ""convenient""가 함께 ""telephone""의 성질로 해석되며, 또 그들이 비교되는 형태로 번역되었습니까?",,,문법책-Hornby
+120,10104030100,The boys feel better now.,소년들은 지금은 훨씬 기분이 좋아졌다.,"[지금은 훨씬 기분이 좋아졌다]로, 지금 이외의 시점(과거)과 비교해 좋아졌다고 하는 의미를 포함한 형태로 번역되었습니까?",,,문법책-Hornby
+121,10104030100,Burke Blairs not much older than I am.,버크 블레어는 저보다 나이가 별로 많지도 않다.,"""older""가 [나이가 더 많은]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+122,10104030200,It was the biggest project imaginable.,그것은 생각할 수 있는 범위 내에서 가장 큰 프로젝트였다.,"“the biggest""가 [가장큰]으로, ”big""의 최상급으로 번역되었습니까?",,,문법책-Hornby
+123,10104040000,I see some stamps on the desk.,책상 위에 우표가 몇 개인가 보인다.,"“some""이 [몇 개]와 같이 수를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+124,10104040000,I have little money.,나는 돈을 거의 가지고 있지 않다.,"""little""이 [거의 없다]로, 부정적으로 번역되었습니까?",,,문법책-Hornby
+125,10104040000,I don't have any authority.,나는 조금도 권한을 가지고 있지 않다.,"""any""가 [조금도]로, ""not""과 관련된 형태로 번역되었습니까?",,,문법책-Hornby
+126,10104040000,"It was a lonely place, and she felt a little timid.",그곳은 인적이 드문 곳이어서 그녀는 약간 겁이 났다.,"""felt a little timid""이 [약간 겁이 나다]로, 「수량형용사 」""a little""이 [약간]으로 번역이 되었습니까?",,,문법책-맨투맨
+127,10104040000,You have quite a lot of time.,당신에게는 충분한 많은 시간이 있는 것이다.,"""quite a lot of time""이[충분한 많은 시간]으로, ""a lot of""가 [많은]의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+128,10104040000,Only a few  generations have been granted  the role of defending  freedom.,단지 몇 세대만이 자유를 수호할 역할을 부여받아 왔습니다.,"""a few  generations""이 [몇세대]로 ""afew""가 [몇몇]으로 번역이 되었습니까?",,,문법책-맨투맨
+129,10104050000,It is a big red planet.,그것은 크고 붉은색의 혹성이다.,"[크고 붉은색의 혹성이다]로, ""big""과 ""red""가 함께 혹성을 형용하는 형태로 번역되었습니까?",,,문법책-Hornby
+130,10104050000,The United States has a major racial problem on its hands.,미국은 그네들 수중에 다루어야 할 중대한 인종 문제를 지니고 있다.,"""a major racial problem""이 [중요한 인종문제]로 번역이 되었습니까?",,,문법책-맨투맨
+131,10104050000,His shoes and clothing were wet and icy cold.,그의 구두와 옷은 젖어 있었고 얼음처럼 차가웠어.," ""be wet and icy cold""가 [젖어 있었고 얼음처럼 차가웠어]로 두형용사가 모두 「서술적」으로 번역이 되었습니까?",,,문법책-맨투맨
+132,10104050000,A true sponge is really the dried outer skeleton of a sea animal.,진짜 스폰지는 사실은 어느 바다 동물의 건조된 외부의 해골이다.," ""the dried outer skeleton of a sea animal"" [ 바다 동물의 건조된 외부의 해골]로 ""the dried와 outer"" [해골]을 수식하는 형태로 번역이 되었습니까?",,,문법책-맨투맨
+133,10104050000,There were beautiful red curtains on the wall.,벽에 아름다운 붉은 커튼이 쳐져 있었다.," ""beautiful red curtains""이 [아름다운 붉은 커튼]의 으로  번역이 되었습니까?",,,문법책-맨투맨
+134,10104060000,It is clear where he goes.,그가 어디에 가는가 하는 것은 명확하다.,[어디에 가는가]가 [분명한] 내용으로 번역되었습니까?,,,문법책-Hornby
+135,10105010100,"""Oh, thank you, Doctor!"" she cried gratefully.","오, 의사 선생님, 감사합니다, 하고 그녀는 감사하는 마음으로 소리쳤다.","""gratefully""가 ""cry""를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+136,10105010100,He wanted very much to study at Harvard.,그는 하버드에서 공부하고 싶은 마음은 무척 많았다.,"""very much""가 [매우]로 ""want""를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+137,10105010100,"In the third stanza, however, the horse acts definitely.",그러나 셋째 연에서는 그 말이 분명하게 행동한다.,"""definitely""가 ""act""를 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+138,10105010100,The driver nearly killed me.,운전기사가 나를 거의 죽일 뻔했습니다.,"""nealy""가 [거의 ~뻔 하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+139,10105010100,He protected his family inadequately.,그는 가족을 충분하게는 지키지 못했다.,"""inadequately""가 [충분하게는 ∼하지 않는다]로 번역되었습니까?",,,문법책-Hornby
+140,10105010100,I also go to school.,나도 또 학교에 간다.,"""also""가 [나도 또]로, ""I""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+141,10105010100,I can only see him in the room.,나는 그 방에서 그를 만날 수 있을 뿐이다.,"""only see""가 [만날 수 있을 뿐이었다]와 같이 ""only""가 ""see""를 수식하도록 번역이 되었습니까?",,,문법책-성문기본
+142,10105010200,"Fortunately, I got a ticket.",다행히도 나는 차표를 얻을 수 있었다.,"""fortunately""가 [다행스럽게]로, 이어지는 문 전체에 대한 평가를 나타내도록 번역되었습니까?",,,문법책-Hornby
+143,10105010202,Happily he did not die.,다행히도 그는 죽지 않았다.,"""Happily"" 가 [다행히도]로, 문 전체를 수식하도록 번역되었습니까?",,,문법책-Hornby
+144,10105010202,He did not die happily.,그는 행복하게 죽지 않았다.,"""happily""가 [행복하게 ]로 ""die""를 수식하도록 번역되었습니까?",,,문법책-Hornby
+145,10105010201,"Separately, the court rejected his proposal.",개별적으로 그 법원은 그의 제안을 기각했다.,"""Separately""가 [개별적으로]으로와 같이 문 전체를 수식하도록 번역되었습니까?",,,문법책-Hornby
+146,10105010201,She speaks English naturally.,물론 그녀는 영어를 말한다.,"""naturally""가 [물론]으로, 문 전체를 수식하도록 번역되었습니까?",,,문법책-Hornby
+147,10105010201,"Frankly, he is stupid.",솔직히 말하면 그는 어리석다.,"""Frankly""가 [솔직히 말하면]로, 이어지는 문 전체에 대한 평가를 나타내도록 번역되었습니까?",,,문법책-Hornby
+148,10105010203,"I couldn't trust him, so I got out to look for another taxi.",나는 그를 믿을 수가 없어서 차에서 내려 다른 택시를 찾아보았지요.,"[그를 믿을 수가 없어서, 나갔다]로 ""so""가 문장을 접속하도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+149,10105010203,"The real surprise, however, was what Korea had achieved.",그러나 정말 놀라운 것은 한국이 성취한 것이었다.,"""however""가 [그러나]와 같이 역접의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+150,10105010203,"He made many mistakes, yet he was a great man.",그는 많은 실수를 저질렀지만 그래도 위대한 인물이었다.,"""yet""이 [~지만]으로 양보를 나타내는 접속부사로서 번역되었습니까?",,,문법책-Hornby
+151,10105010203,Its too cold to go out; and besides its snowing.,너무 추워서 밖으로 나갈수가 없었다. 그리고 게다가 눈까지 내리고 있었다.,"""besides""가 전치사 이외에 접속사적 의미로[그 외에~]로 번역되었습니까?",,,문법책-Hornby
+152,10105010203,"You smoke, but otherwise you are good.",당신은 흡연을 합니다. 그러나 그렇지 않는다면 당신의 건강은 좋습니다.,"""otherwise""가 [그렇지 않으면]으로 접속사적 의미로 번역되었습니까?",,,문법책-Hornby
+153,10105010203,"Once the decision is made, let there be no change.","일단 결정이 내려지면, 어떠한 변경도 없도록 해라.","""Once""가 [일단~하면]으로 접속사적 의미로 번역이 되었습니까?",,,문법책-맨투맨
+154,10105010203,"Even so, Hawaii produces large quantities of farm products.",그렇지만 하와이는 많은 양의 농산물을 생산한다.,"""Even so""가 [그렇지만]으로 역접의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+155,10105020100,America is truly a cosmopolitan country.,미국은 진정 범세계적인 나라이다.,"""truly""가 [진정]으로 ""a cosmopolitan country""를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+156,10105020100,And most stars are very much farther away than the sun.,그리고 대부분의 별들은 태양보다도 훨씬 더 떨어져 있다.,"""very much farther""가 [훨씬 더 멀리]로 ""very much""가 ""farther""를 강조하여 번역되었습니까?",,,영어교과서-고교ii-a-1
+157,10105020100,At first there were only separate colonies.,처음에는 단지 개별적인 식민지들만이 있었다.,"""only separate colonies""가 [단지 개별적인 식민지]로 ""only""가 명사를 수식하여 번역되었습니까?",,,영어교과서-고교ii-a-1
+158,10105020100,Nearly everybody went to see Dr. Cook.,거의 모든 사람들은 쿡 의사에게 갔다.,"""nearly""가 ""everybody""를 수식하여 [거의 모든사람]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+159,10105020100,He left shortly after she arrived.,그는 그녀가 도착한 직후에 출발했다.,"""shortly after~""가 [~한 직후에]로 번역되었습니까?",,,문법책-Hornby
+160,10105020100,I travel entirely around the world.,나는 전세계를 빠짐없이 여행할 것이다.,"""entirely around the world""가 [전세계를 빠짐없이]로, ""entirely""가 ""around""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+161,10105020100,The then president refused our invitation.,당시의 대통령이 우리의 개혁을 반대하였습니다.,"위에 진술한 부사 ""then""이 명사 ""president ""를 수식하도록 번역되었습니까?",,,문법책-Hornby
+162,10105020200,But the dark moments were over now.,그러나 어두운 순간들은 이제 지나갔다.,"""be over""가 [끝나다]로  번역되었습니까?",,,영어교과서-고교ii-a-1
+163,10105020200,Put your hat on.,모자를 쓰세요.,[모자를 쓰세요]로 번역되었습니까?,,,문법책-Hornby
+164,10105020200,He is away.,그는 떠났다.,"""He is away""가 [그는 떠났다]와 같이 ""he""의 상태가 ""away""하다는 의미로 번역이 되었습니까?",,,문법책-성문기본
+165,10105020200,She turned the gas on.,그녀는 가스를 점화하였다.,"[가스를 점화하였다]로, 기능이 실현된 것을 나타내도록 번역되었습니까?",,,문법책-Hornby
+166,10105020300,"""Next year,"" Grandfather had said.","내년에, 라고 할아버지께서 말씀하셨었다.","""next year""가 [내년에]로 부사처럼 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+167,10105020300,I lost a stamp that day.,나는 그 날 우표 한 장을 잃어버렸거든요.,"""that day""가 [그 날]이라고 부사적으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+168,10105020300,The factory started production Tuesday.,공장은 화요일에 조업을 개시하였다.,"""Tuesday""가 [화요일에]로 부사적으로 번역되었습니까?",,,문법책-Hornby
+169,10105020300,They drove downtown quickly this morning.,그들은 오늘 아침에 빨리 시내로 운전했다.,""" this morning""이 [오늘 아침에]와 같이 부사로 번역이 되었습니까?",,,문법책-성문기본
+170,10105020300,One day an Irishman arrived in New York.,어느 날 어떤 아일랜드 사람이 뉴욕에 도착했다.,"""One day""가 [어느날]로 번역이 되었습니까?",,,문법책-맨투맨
+171,10105020400,There arose a big problem.,큰 문제가 발생했다.,[∼이 발생했다]라는 표현으로 번역되었습니까?,,,문법책-Hornby
+172,10105020400,There is an example.,예가 있다.,[예가 있다]로 존재를 나타내는 문장으로 번역되었습니까?,,,문법책-Hornby
+173,10105020400,There is no one there.,거기엔 아무도 없다.,"""There is no one""이 [아무도 없다]와 같이 ""there is"" [있다]의 부정의 의미로 번역이 되었습니까?",,,문법책-성문기본
+174,10105030100,John knows him better than she does.,그녀보다도 죤 쪽이 그를 잘 알고 있다.,"[그녀보다도 죤 쪽이]로, ""she""와 ""john""이 비교되는 형태로 번역되었습니까?",,,문법책-Hornby
+175,10105030100,He works harder than his brother.,그는 그의 형제보다 열심히 일한다.,"""harder than""이 [보다 열심히]와 같이  ""he""와 ""his brothers""을 비교하여 ""he""가 더 열심히 일한다는 의미로번역이 되었습니까?",,,문법책-성문기본
+176,10105030200,Mary drives most carefully of all her family.,메리는 그녀의 가족 중에서 가장 조심스럽게 운전한다.,"""most carefully of all her family""가 [그녀의 가족중에서 가장 조심스럽게]와 같이 최상급의 의미로 번역이 되었습니까?",,,문법책-성문기본
+177,10105030200,He works hardest of all his brothers.,그는 그의 형제들 중에서 가장 열심히 일한다.,"""hardest of all his brothers""가 [그의 형제들 중에서 가장 열심히]와 같이 최상급의 의미로 번역이 되었습니까?",,,문법책-성문기본
+178,10105040100,six weeks later Dr. Akram still had only a few patients.,6주 후에도 아크람 의사는 여전히 단지 몇 명의 환자를 받은 정도였다.,"""six weeks later""가 [6주 후]로 시간의 경과를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+179,10105040100,Once in the small hours of the night a stranger came to his house.,언젠가 한번은 한밤중에 어떤 한 낯선 사람이 그의 집에 왔다.,"""Once""가, [언젠가 한번은]으로 「시간의 의미」로 번역이 되었습니까?",,,문법책-맨투맨
+180,10105040100,The accident occurred two days ago.,그 사건은 이틀전에 일어났다.,"""two days ago""가 [이틀전에]로 시간의 의미로 번역이 되었습니까?",,,문법책-성문기본
+181,10105040100,I also went to the beach two weeks earlier.,나도 2주일 빨리 그 해안에 갔다.,"""two weeks earlier""가 [2주일 빨리]의 의미로 번역되었습니까?",,,문법책-Hornby
+182,10105040200,Here are a few practical tips for you.,여기에 여러분을 위한 몇 가지 실제적인 조언이 있다.,"""here is~""가 [여기에 ~있습니다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+183,10105040200,He has forced larger animals to seek shelter elsewhere.,큰 동물들에게 다른 곳에서 서식처를 찾도록 했다.,"""elsewhere""가 [다른곳에서]로, 장소를 나타내도록 번역되었습니까?",,,문법책-맨투맨
+184,10105040200,People came from miles around to consult him.,사람들이 그에게 상의하러 인근 수마일 떨어진 곳에서 왔다.,"""miles around""가  [인근 수마일 떨어진곳]으로, 번역이 되었습니까?",,,문법책-맨투맨
+185,10105040200,Plants and animals live there.,식물과 동물이 그곳에 서식한다.,"""there""가 [그곳에]로, 장소를 나타내도록 번역되었습니까?",,,문법책-맨투맨
+186,10105040300,Photography is a skill that I find rather difficult.,사진술은 내겐 꽤 어려운 기술이다.,"""rather""가 [꽤]로 정도를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+187,10105040300,The car was going much too fast.,그 자동차는 너무도 빨리 달리고 있었다.,"""much too""가 [너무도]로 정도를 나타내는 부사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+188,10105040300,Those stamps cost even more.,그 우표들은 값이 훨씬 더 나갑니다.,"""even""이 [훨씬]으로 ""more""를 수식하여 정도를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+189,10105040300,She slept well.,그녀는 충분히 잤다.,"""sleep well""이 [충분히 잤다]로 ""well""이 정도를 나타내도록 번역되었습니까?",,,문법책-Hornby
+190,10105040400,Mary drives carefully.,메리는 조심스럽게 운전한다.,"""carefully""가 [조심스럽게]와 같이 행동의 양태를 표현하도록 번역이 되었습니까?",,,문법책-성문기본
+191,10105040400,"Sometimes he does so, unwisely.",때때로 그는 어리석게도 그렇게 한다.,"""unwisely""이 [어리석게도]라는 의미로 사람의 성격적 양상으로 번역이 되었습니까?",,,문법책-맨투맨
+192,10105040400,This gradually developed into the handshake.,이것이 점차 악수로 발전된 것이다.,"""gradually"" [점차로]로 일이 되어가는 양태의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+193,10105040400,"""I'm glad to hear that,"" replied the doctor warmly.",그 말을 들으니 기쁘군요. 하고 의사는 다정하게 대답했다.,"""warmly""가 [다정하게]와 같이 사람의 성격적 양상을 나타내도록 번역이 되었습니까?",,,문법책-맨투맨
+194,10105040500,She is sometimes a little late with the dinner.,그녀는 이따금 저녁 준비가 늦을 때가 있다.,"""sometimes""가 [때때로]로 빈도를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+195,10105040500,Quite often I have a break at four.,나는 4시에 매우 자주 휴식을 갖는다.,"""Quite often""이 [꽤 자주]로 번역되었습니까?",,,문법책-Hornby
+196,10105040500,These meetings take place monthly.,이러한 모임은 매월 열린다.,"""monthly""가 [매월]로, 빈도를 나타내도록 번역되었습니까?",,,문법책-Hornby
+197,10105040600,I'll never forget her words.,나는 그 분의 말을 결코 잊을 수가 없을 것이다.,"""never""가 [결코 ~수 없다]라고 문장전체가 부정으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+198,10105040600,I scarcely know her.,나는 그녀를 거의 알지 못한다.,"""scarcely know""가 [거의 알지 못한다]로 번역되었습니까?",,,문법책-Hornby
+199,10105040600,"They were inventors, not airmen.",그들은 발명가이지 비행사는 아니었다.,"""not airmen""이 [비행사가 아니라]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+200,10105040700,"Yes, I do.","예, 하겠습니다.","""yes""가 [예]로 번역되었습니까?",,,문법책-Hornby
+201,10105040700,"No, I don't.","아니오,그렇지 않습니다.","""No""가 [아니오]로 번역되었습니까?",,,문법책-Hornby
+202,10105040900,"They do it for pleasure, especially in the United States and Europe.",특히 미국과 유럽에서는 재미로 그 일을 한다.,"""especially""가 [특히]로 [미국과 유럽]에 초점을 두는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+203,10105041000,They leaned away from the loudspeaker.,식물들은 확성기를 피해 한쪽으로 기울어졌다.,"""away""가 [다른방향으로]라고 방향을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+204,10106010100,It is obviously of no value to his neighbours.,그러한 사실은 자기의 이웃들에게도 전혀 가치가 없다는 것은 명백한 일이다.,"""of no value ""가 [가치가 없다]로 형용사구로 번역이 되었습니까?",,,문법책-맨투맨
+205,10106010200,"""What's all this?"" asked Ralp in surprise.",도대체 웬 야단들이지? 라고 랠프는 놀라서 물었다.,"""in surprise""가 [놀라서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+206,10106010200,He could tell the weather with mysterious accuracy.,그는 신비스러울 정도로 정확하게 일기를 말할 수 있었다.,"""with mysterious accuracy""가 [신비스러울 정도로 정확하게]로, 부사적으로 번역이 되었습니까?",,,문법책-맨투맨
+207,10106020500,"In learning a foreign language, it is necessary to advance step by step.",외국어를 배우는데 있어서 단계적으로 나아가는 것이 필요하다.,"""In learning ~""이 [~을 배우는데 있어서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+208,10106020500,She is sure of succeeding.,그녀는 그녀 자신이 성공한다는 것을 확신했다.,"""succeeding""이 [성공한다는것]으로 전치사 ""of""의 목적어로 번역되는가?",,,문법책-Hornby
+209,10106020700,She has been working since then.,그녀는 그 이후로 일하고 있다.,"""since then""이 [그 이후]로 번역되었습니까?",,,문법책-Hornby
+210,10106020700,"Until recently, the company was in the red.",최근까지 회사는 적자였다.,"""until recently""가 [최근까지]로 번역되었습니까?",,,문법책-Hornby
+211,10106020900,I have no idea of how tall the mountain is.,나는 그 산의 높이가 어느 정도인지 짐작이 안간다.,[어느 정도의 높이인가(라고 하는 생각)]으로 번역되었습니까?,,,문법책-Hornby
+212,10106020900,He has changed a good deal from when I used to know him.,내가 그를 알곤 했을 때부터 그는 많이 달라졌다.,"""from when~"" 이 [내가 그를 알곤 했을 때부터]와 같이 ""when""이하가 ""from""의 목적어로 번역이 되었습니까?",,,문법책-성문기본
+213,10106030100,"""In a few minutes, Grandfather,"" I said.","""'몇 분 있으면요, 할아버지""하고 나는 말했다.","""in a few minutes""가 [몇분있으면]으로 ""in""이 시간의 경과를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+214,10106030100,Can you submit the paper by tomorrow?,내일까지 그 논문을 제출할 수 있습니까?,"""by""가 [∼까지]로 기한을 나타내도록 번역되었습니까?",,,문법책-Hornby
+215,10106030100,I will stay there for two weeks.,나는 그곳에 2주일간 체류할 것입니다.,"""for two weeks""가 기간을 나타내도록 번역되었습니까?",,,문법책-Hornby
+216,10106030100,I met him at two in the afternoon.,나는 오후 2시에 그를 만났다.,"""at two""가 [2시]로, 시간으로 번역되었습니까?",,,문법책-Hornby
+217,10106030100,"On arriving in Seoul, I called his office.",서울에 도착해서 바로 나는 그의 사무소를 방문했다.,"""on""이 [∼해서 바로]로 시간적 근접, 동시동작을 나타내도록 번역되었습니까?",,,문법책-Hornby
+218,10106030100,"""I could read from my childhood when I was four.""",""" 나는 4살 된 어릴 적부터 읽을 수 있었다네.""","""from my childhood ""가 [어릴적 부터]로 번역이 되었습니까?",,,문법책-맨투맨
+219,10106030200,"""The baby fell in the pond!""","""'아기가 연못에 빠졌어요!""","""in the pond""가 [연못에]로 ""in""이 장소를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+220,10106030200,He was born at a house by the seaside.,그는 바닷가에서 태어났다.,"""by""가 [∼의 옆]으로, 근접한 장소를 나타내도록 번역되었습니까?",,,문법책-Hornby
+221,10106030200,I went to the park with him.,나는 그와 함께 공원에 갔다.,""" to the park""가 [공원에]와 같이 ""to""가 장소를 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+222,10106030200,On the ship he thought about the conversation with his friend.,배 위에서 그는 자기 친구와 나눈 대화를 곰곰이 생각했다.,"""On the ship""이 [배 위에서]로, ""on""이 [의 위에서]로 번역이 되었습니까?",,,문법책-맨투맨
+223,10106030200,The chair under the table is big.,그 테이블 아래의 의자가 크다.,"""under""가 [∼아래의]로 번역되었습니까?",,,문법책-Hornby
+224,10106030300,My voice was shaking with anger.,나의 목소리는 분노로 떨리고 있었다.,"""with anger""가 ""was shaking"" 의 이유를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+225,10106030300,She was astonished at the news.,그 소식에 그녀는 놀랐다.,"""be astonished at""이 [∼(에/을 듣고) 놀라다]로 번역되었습니까?",,,문법책-Hornby
+226,10106030300,Her mother died of cancer.,그녀의 모친은 암으로 죽었다.,"""of""가 [∼로]로, 원인을 나타내도록 번역되었습니까?",,,문법책-Hornby
+227,10106030300,His father died from overwork.,그의 아버지는 과로로 돌아가셨다.,"""from""이 [∼에 의해]으로 번역되었습니까?",,,문법책-Hornby
+228,10106030300,"With an eye bandaged, he could not write properly.","한 눈을 붕대로 감았기 때문에, 그는 글을 잘 쓸 수 없었다.","""With an eye bandaged""가 [한 눈을 붕대로 감았기 때문에]와 같이 ""with""가 이유, 원인의 의미로 번역이 되었습니까?",,,문법책-성문기본
+229,10106030400,This bridge is built of wood.,이 다리는 나무로 만들어졌다.,""" of wood""가 [나무로]와 같이 ""of""가 원료, 재료의 의미로 번역이 되었습니까?",,,문법책-성문기본
+230,10106030400,There is a cover of rich topsoil.,비옥한 토양이 땅 위에 덮여 있다.,""" of rich topsoil"" 이 [비옥한 토양으로]로, 원료 재료의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+231,10106030500,But a lot of people still go up in balloons.,그러나 많은 사람들은 아직도 기구를 타고 올라간다.,"""in balloons""가 [기구를 타고]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+232,10106030500,I had to get some money with my taxi.,저는 택시로 돈을 벌어야 했습니다.,"""with my taxi""가 [택시로]라고 수단으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+233,10106030500,Mrs. Retallack started her tests with piano tones.,레텔랙 부인은 피아노 소리로 자신의 실험을 시작했다.,"""with piano tones""가 [피아노 소리로]라고  번역이 되었습니까?",,,영어교과서-고교ii-a-1
+234,10106030500,I like to travel by plane.,나는 비행기로 여행하는 것을 좋아한다.,“by plane”이 [비행기로]와 같이 이동수단을 나타내도록 번역되었습니까?,,,문법책-Hornby
+235,10106030500,Please speak in English.,영어로 말해 주세요.,"""in""이 [∼로]로, 도구, 수단을 나타내도록 번역되었습니까?",,,문법책-Hornby
+236,10106030600,Sugar is sold by the pound.,설탕은 pound 단위로 팔린다.," ""by the pound"" 가 [pound 단위로]와 같이, 단위의 의미로 번역이 되었습니까?",,,문법책-성문기본
+237,10106030700,We made towards the island.,우리는 그섬을 향해 갔다.,"""towards the island""가 [그 섬을 향해서]와 같이 방향성을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+238,10106030700,He started for Paris.,그는 파리를 향해 출발했다.,"""for Paris""가 [파리를 향해서]와 같이 ""for""가 [~을 향해서]로 방향성을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+239,10106030700,The water he drinks may have come originally from volcanoes.,마시는 물이 본래 화산으로부터 유래되었을지도 모른다.,""" from""이 [~로 부터 ]와 같이 방향성의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+240,10106030700,And the old man of the sea walked away into the night.,그리고는 바다의 노인은 어둠 속으로 걸어가버렸다.,""" into the night"" [어둠속으로]와 같이, 번역되었습니까?",,,문법책-맨투맨
+241,10106030800,Martin listens with a troubled face.,마틴은 난처한 듯한 얼굴로 듣고 있다.,"""with a troubled face""가 [난처한 얼굴로]로 ""with""가 부대상황으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+242,10106030800,Mr. Armory is standing with his back to the fire.,아모리 씨는 등을 벽난로쪽으로 돌린 채 서 있다.,"""with 이하""가 [등을 벽난로 쪽으로 돌리고]라고 부대상황으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+243,10106030800,Don't speak with your mouth full.,입에 음식을 가득 넣은 상태로 말하지 말아라,"""with""가 부대상황을 나타내도록 번역되었습니까?",,,문법책-Hornby
+244,10106030800,He was standing with his hands in his pockets.,그는 그의 손을 그의 주머니에 집어 넣고 서 있었다.,"""with his hands in his pockets""가 [그의 손을 그의 주머니에 집어 넣고]와 같이 부대상황의 의미로 번역이 되었습니까?",,,문법책-성문기본
+245,10106030900,Look at the picture on the wall.,벽의 그림을 보세요.,"""on the wall""가  [벽의]와 같이 접촉면을 나타내도록 번역되었습니까?",,,문법책-Hornby
+246,10106030900,The ice gave way beneath our feet.,우리 발 밑에 얼음이 떨어졌다.,"""beneath our feet""가 [우리의 발밑에]와 같이 ""beneath""가 [접해서 바로밑에]와 같은 접촉면의 의미로 번역이 되었습니까?",,,문법책-성문기본
+247,10106030900,Presently Louisa sat down on the wall.,Louisa는 곧 돌담 위에 앉았다.,"""on the wall""이 [돌담위에]로 번역이 되었습니까?",,,문법책-맨투맨
+248,10106031000,The employees are on strike.,종업원들은 데모중이다.,"""on""이 [∼하고 있다. ∼중이다]로 상태를 나타내도록 번역되었습니까?",,,문법책-Hornby
+249,10106031000,The question under discussion is significant.,의논중인 문제는 중요하다.,"""under discussion""이 [의논중인]으로 번역되었습니까?",,,문법책-Hornby
+250,10106031000,The hotel was on fire.,그 호텔은 불타고 있었다.,"""on""이 [∼하고 있다. ∼중이다]로 상태를 나타내도록 번역되었습니까?",,,문법책-Hornby
+251,10106031000,The new bridge is under construction.,새로운 다리는 건설중에 있다.,"""under construction""이 [건설중인]으로 번역되었습니까?",,,문법책-Hornby
+252,10106031100,He works for money.,그는 돈 때문에 일한다.,"""for""가 [∼때문에]로, 목적을 나타내도록 번역되었습니까?",,,문법책-Hornby
+253,10106031100,He went out for a walk.,그는 산책하러 나갔습니다.,"""for""가 [∼하러]로, 목적을 나타내도록 번역되었습니까?",,,문법책-Hornby
+254,10106031100,He was frozen to death.,그는 얼어 죽었다.,"""to""가 결과를 나타내도록 번역되었습니까?",,,문법책-Hornby
+255,10106031100,He needs it for growing food.,인간은 식량을 재배하기 위해 물을 필요로 한다.,"""for growing food""가 [식량을 재배하기 위해서]로, ""for""가 목적의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+256,10106031100,My house was burnt to ashes.,우리 집은 타서 재가 되어버렸다.,"""to""가 결과를 나타내도록 번역되었습니까?",,,문법책-Hornby
+257,10106031200,He is on a murder case.,그는 살인사건을 담당하고 있다.,"""on""이 종사(從事)하는 대상을 나타내도록 번역되었습니까?",,,문법책-Hornby
+258,10106031300,He is older than Jim by ten years.,그는 짐보다 10세 연상이다.,[10세 연상이다]라고 하는 의미로 번역되었습니까?,,,문법책-Hornby
+259,10106031300,His theory is different from yours.,그의 이론은 당신의 것과는 다르다.,"""from""이 [∼와]로, 구별을 나타내도록 번역되었습니까?",,,문법책-Hornby
+260,10106031400,The light from the lightning reaches us in almost no time at all.,번갯불에서 나온 빛은 거의 즉각적으로 우리에게 도달한다.,"""the light from the lightening""가 [번개로 부터 나온 빛]으로 ""from""이 출처로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+261,10106031400,She entered the house at the front door.,그녀는 정문으로 집에 들어왔다.,"“at""이 그 지점에서 집에 들어왔다고 하는 사실을 나타내도록 번역되었습니까?",,,문법책-Hornby
+262,10106031400,He hoped a quick recovery from the bullet wound.,그는 총알 상처의 신속한 회복을 바랬다.,"""from""이 [∼로부터의]로 번역되었습니까?",,,문법책-Hornby
+263,10106031400,"In a perfectly healthy spirit, kindness is the natural thing.","완벽하게 건전한 정신에서, 친절함은 저절로 생기는 것이다.","""In a prefectly healthy spirit""가 [건강한 정신에서(으로부터)]로, 출처, 근원의 지점을 의미하도록 번역이 되었습니까?",,,문법책-맨투맨
+264,10106031500,We walked for two miles.,그는 2마일을 걸었습니다.,"""for two miles""가 거리을 나타내도록 번역되었습니까?",,,문법책-Hornby
+265,10106031600,"Here is a poem, by one of the best-known American poets.",여기에 가장 잘 알려진 미국 시인 중의 한 사람이 쓴 시 한 편을 소개한다.,"""by~""이하가 동작주를 가리켜 시를 쓴 사람으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+266,10106031600,That declaration by the president surprised everyone.,대통령에의한 그 선언은 모든 사람을 놀라게 했다.," ""declaration""의 행위주체가 ""by the president""로 번역되는가?",,,문법책-Hornby
+267,10106031700,Clear the table of the dishes.,테이블에서 접시를 정리해주세요.,"""of the dishes""가 정리할 대상을 나타내도록 번역되었습니까?",,,문법책-Hornby
+268,10106031700,I was robbed of my bag.,나는 나의 가방을 강탈당했다.,"""of my bag""가  박탈의 대상으로 번역되었습니까?",,,문법책-Hornby
+269,10106031800,"""Forgive me!"", said the man in a weak voice.",저를 용서해 주십시오! 라고 그는 나지막한 목소리로 말했다.,"""in a weak voice""가 [나약한 목소리로]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+270,10106031800,They sat in a circle.,그들은 원모양으로 앉았다.,"""in a circle""이 「원모양으로」로, 형상을 나타내도록 번역되었습니까?",,,문법책-Hornby
+271,10106031900,He may give me two or three hundred pounds for this stamp.,그가 이 우표값으로 나에게 이삼백 파운드를 줄지도 몰라.,"""for stamp""가 [우표값으로]와 같이 대가, 가격을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+272,10106031900,He sold his old car at a good price.,그는 낡은 차를 좋은 가격에 팔았다.,"""at""이 가격을 나타내도록 번역되었습니까?",,,문법책-Hornby
+273,10106031900,He estimated the crowd at 300.,그는 군중의 수를 300명으로 어림잡았다.,"""at""이 수량을 나타내도록 번역되었습니까?",,,문법책-Hornby
+274,10106032000,Korea depends on other countries for oil.,한국은 석유를 다른 국가에 의존하고 있다.,"""on""이 의존의 대상을 나타내도록 번역되었습니까?",,,문법책-Hornby
+275,10106032000,I can't live on my present salary.,나는 내 현재의 봉급으로 살아갈수 없다.,"""on""이 의존의 대상을 나타내도록 번역되었습니까?",,,문법책-Hornby
+276,10106032100,He's a Pakistani with a lot of children.,그는 많은 아이들이 있는 파키스탄 사람이래요.,"""with a lot of children"" 이 [많은 아이들을 가진]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+277,10106032100,I went to the park with him.,나는 그와 함께 공원에 갔다.,"""with him""이 [그와함께]와 같이 [그를 동반하여]로 수반,동반의 의미로 번역이 되었습니까?",,,문법책-성문기본
+278,10106032100,She placed these groups of plants in big closed cabinets on wheels.,그녀는 이 식물들을 바퀴가 달린 큰 밀폐된 캐비넷들 속에 넣었다.,"""on wheels""가 [바퀴가 달린]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+279,10106032100,To pass in science she was required to do some tests with plants.,과학 과정을 통과하기 위해서 그녀는 식물을 가지고 어떤 실험을 하도록 요구받았다.,"""with plants""가 [식물을 가지고]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+280,10106032200,On Reading.,독서에 대하여,"문장이 [독서에 대하여]로 ""on""이 대상을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+281,10106032200,She killed plants by playing rock music for them.,그녀는 식물에게 록 음악을 들려주어 식물을 죽였다.,"""for them""이 [그들에게]로 대상을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+282,10106032200,Money is everything to her.,그 여자는 돈밖에 모른다.(돈은 그녀에게 모든것이다.),"""to her""가 [그녀에게]와 같이 ""to""가 대상을 의미하도록 번역이 되었습니까?",,,문법책-성문기본
+283,10106032200,They asked the reason for his decision.,사람들은 그의 결정에 대한 이유를 물었다.,""" for his decision""가 [그의 결정에 대한]과 같이 ""for""가 대상을 나타내도록 번역이 되었습니까?",,,문법책-맨투맨
+284,10106032300,Burke knows a lot about cattle for his age.,버크는 나이에 비해 소에 관해서 아는 게 많아.,"""for his age""가 [나이에 비해]와 같이 ""for""가 비교의 의미로 번역되었습니까?",,,영어교과서-고교ii-a-1
+285,10106032400,We often form judgments about people from looking at their faces.,우리는 흔히 얼굴을 보고 사람들에 대한 판단을 내린다.,"""from looking~""이 판단의 근거를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+286,10106032400,"We often form opinions about people from their age, nationality, etc.","우리는 흔히 사람들의 나이, 국적 등을 보고 그들에 관한 의견을 형성한다.","""from their age~""이 판단의 근거를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+287,10311030000,"""Take her across the road to Dr. Cook. Quick!"" said Mrs. Green with great concern.",그 아이를 길 건너 쿡 의사에게 데려가요. 빨리! 그린 부인이 크게 염려하면서 말했다.,"""across the road to Dr. Cook""이 [길건너 쿡 의사에게]로 나열된 전치사구가 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+288,10311030000,I was alone in the house with my grandfather.,집에는 할아버지와 나만이 있었다.,"""in the house with my granfather""이 [할아버지와 함께 집에]라고 나열된 전치사구가 번역되었습니까?",,,영어교과서-고교ii-a-1
+289,10311030000,"It came down, nearly an hour later in a village near the outskirts of Paris.",거의 한 시간 후에 그것은 파리 교외 근처에 있는 어느 마을에 내려왔다.,"""in a village near the outskirts of Paris""이 [파리 교외 근처에 있는 어느 마을에]로 나열된 전치사구가 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+290,10311030000,Martin returns with an envelope in his hand.,마틴은 그의 손에 봉투를 하나 가지고 돌아온다,"""with envelop in his hand""가 [그의 손에 봉투를 하나가지고 ]로 나열된 전치사구가 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+291,10311030000,Ralph enrolled as a freshman in September.,랠프는 9월에 1학년으로 등록했다.,"""as a freshman in September"" 가 [9월에 1학년으로]라고 나열된 전치사구가 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+292,10311030000,They can choose between different winds at different heights.,그들은 고도에 따라서 다른 바람을 선택할 수가 있다.,"전치사 나열구가 ""between different winds at different heights""가 [고도에 따라서 다른바람을]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+293,10106040000,The moon came out from behind a cloud.,달이 구름 뒤에서 나왔다.,"나열된 두개의 전치사 “from behind""가 [～의 뒤에서]로 번역되었습니까?",,,문법책-Hornby
+294,10106040000,The boat is sailing  in between the two islands.,그 보트는 2개의 섬사이 안으로 나아가고 있다.,"나열된 두개의 전치사 “in between""가 [～사이 안으로]로 번역되었습니까?",,,문법책-Hornby
+295,10106040000,Water will start to come up around to you.,물이 당신 주위로 차 올라오기 시작할 것이다.,"나열된 두개의 전치사 ""around to""가  [~주위로]와 같이, 번역이 되었습니까?",,,문법책-맨투맨
+296,10106040000,A servant put her head out of an upper window and called.,하인 한 사람이 위층 창문 밖으로 머리를 내밀고서는 소리쳤다.,"""out of"" 가  [~밖으로]와 같이 하나의 전치사로 번역이 되었습니까?",,,문법책-맨투맨
+297,10106050000,We have a lot of things to talk about.,우리들은 할 말이 많다.,"“about""이 ""things""에 대한 전치사로서 인정되고 있습니까?",,,문법책-Hornby
+298,10107010101,You must wait.,당신은 기다리지 않으면 안된다.,"""must wait""가 [기다리지 않으면 안된다]로 하나의 술어로서 번역되었습니까?",,,문법책-Hornby
+299,10107010101,A breeze stirs.,산들바람이 분다.,"[산들바람이 분다]로, ""stir""가 주어의 상태를 나타내도록 번역이 되었습니까?",,,문법책-맨투맨
+300,10107010101,He has to study hard.,그는 열심히 공부하지 않으면 안된다.,"""He""가 주어로 ""has to study""가 [공부하지 않으면 안된다]와 같이 하나의 술어로 번역되었습니까?",,,문법책-Hornby
+301,10107010101,He sighed.,그는 한숨을 쉬었다.,"문장이 [그가 한숨을 쉬었다]로 ""he""가 주어로 ""sighed""가 술어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+302,10107010102,Harvard was all the way across the country.,하버드는 멀리 대륙의 맞은편에 있었다.,"""Harvard""가 문의 주어이면서 ""be""가 [있다]와 같이 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+303,10107010201,But Grandmother looked stern.,그러나 할머니는 근엄해 보이셨다,"""look stern""이 [근엄해보이다]로 ""stern""이 주어의 상태를 나타내는 보어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+304,10107010201,But he felt ashamed.,그러나 그는 부끄러움을 느꼈다.,"""felt ashamed""가 [부끄러움을 느끼다]로 ""ashamed""가 주어의 상태를 나타내는 보어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+305,10107010201,Did your wife get better?,부인은 좀 나아지셨나요?,"""get better"" 가 [더나아지다]로 ""better""가 보어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+306,10107010201,The surrounding scene seems familiar.,주변의 풍경이 눈에 익은 듯하다.,"""seem familiar""가 [눈에 익은듯 보이다]로 ""familiar""가 주어의 상태를 나타내는 보어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+307,10107010201,She died young.,그녀는 젊어서 죽었다.,"""young""이 [젊어서 죽다] 또는 [죽었을 때 젊었다]로, 죽었을 때의 상태를 나타내도록 번역되었습니까?",,,문법책-Hornby
+308,10107010201,She will make a good wife.,그녀는 훌륭한 아내가 될 것이다.,"""She will make a good wife.""가 [그녀는 훌륭한 아내가 될 것이다.]와 같이 ""she""와 ""a good wife""가 equal인 보어관계로 번역이 되었습니까?",,,문법책-성문기본
+309,10107010202,He awoke to find his bag stolen.,그는 눈을 뜨자 가방을 잊어버렸다는 것을 발견하였다.,"[눈을 뜨자][발견했다]가, [∼하자∼했다][∼하고 ∼했다]로, 일련의 동작으로서 번역되었습니까?",,,문법책-Hornby
+310,10107010202,He seemed to be surprised at the news.,그는 뉴스에 놀라고 있는 것 같았다.,"""seemed to""가 [∼인 것 같다]로, 주관적 판단이나 추정의 의미로 번역되었습니까?",,,문법책-Hornby
+311,10107010202,He is to come.,그는 오기로 되어 있다.,"BE동사+TO부정사(구)가 [∼하기로 되어 있다]로, 예정의 의미를 나타내도록 번역되었습니까?",,,문법책-Hornby
+312,10107010202,She happened to meet him.,그녀는 우연히 그와 만났다.,"""happened to""가 [우연히 ∼하다]로 번역되었습니까?",,,문법책-Hornby
+313,10107010301,"""My baby fell in the pond, and she's stopped breathing.""","우리 아기가 연못에 빠졌었는데, 그 애가 숨을 안 쉬어요.","""stopped breathing""가 [숨쉬는 것을 멈추다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+314,10107010301,He enjoys playing golf.,그는 골프하는 것을 즐긴다.,"""playing golf""라고 하는 동명사구가 [즐긴다]의 대상이 되도록 번역되었습니까?",,,문법책-Hornby
+315,10107010301,That boy needs washing.,그 소년은 씻을 필요가 있다.,"need+동명사가 [∼을 받을(당할) 필요가 있다]로, 수동태의 의미로 번역되었습니까?",,,문법책-Hornby
+316,10107010301,Have you finished reading the book?,당신은 책 읽는 것을 끝마쳤습니까?,"""reading the book""라고 하는 동명사구가 [끝마치다]의 대상이 되도록 번역되었습니까?",,,문법책-Hornby
+317,10107010301,Soybeans provide a complete source of protein.,콩은 완전한 단백질 원을 제공해주고 있다.,"""a complete source of protein""이 [완전한 단백질 원을]로,[제공하다]의 대상이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+318,10107010302,He promised to post her letter.,그는 그녀의 편지를 보낼 것을 약속했다.,"""to post her letter""가 [약속하다/∼의 전망이 있다]의 내용으로서 번역되었습니까?",,,문법책-Hornby
+319,10107010302,The ruler of  an ancient  kingdom wanted  to disprove  the statement.,고대 어느 왕국의 임금님은 사실이 아님을 반증하고자 했다.,"""to disprove  the statement""가 [원하다/∼하고자 했다]의 내용으로서 번역되었습니까?",,,문법책-맨투맨
+320,10107010302,I forgot to write a letter to him.,나는 그에게 편지를 쓸 것을 잊었다.,"“to write a letter ""가 [편지를 쓸 것을]로, ""forget""의 내용으로 번역되었습니까?",,,문법책-Hornby
+321,10107010302,"If I complain, it is that I want to get justice.",내가 불평한다면 그것은 공평함을 얻기를 원하기때문이다..,"""want to get justice""이 [공평함을 얻기를 원하기때문이다]와 같이 ""to get justice""가 ""want""의 내용이 되도록 번역이 되었습니까?",,,문법책-성문기본
+322,10107010303,He didn't know how to handle the situation.,그는 그 상황을 어떻게 처리해야 할지를 몰랐다.,"의문사+to부정사 절이 [어떻게 해야할지]와 같이 ""know""의 목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+323,10107010303,You decide on what to do next.,당신은 다음에 무엇을 할지 정한다.,"""what to do next""가 [다음에 무엇을 해야할지]와 같이 [정하는] 일의 대상으로서 번역되었습니까?",,,문법책-Hornby
+324,10107010303,I don't know where to take a bath.,나는 어디에서 목욕을 해야 좋을지 모르겠다.,"“where to take a bath""가 [어디에서 목욕을 해야 좋을지]로, ""know""의 내용으로 번역되었습니까?",,,문법책-Hornby
+325,10107010303,I don't know when to do it.,나는 그것을 언제 해야 할지를 모른다.,"""when to do it""이 [ 언제 해야 할지를(해야할 때를)]과 같이 ""the time when~""의 의미로, ""know""의 대상(목적어)이 되는 명사절로 번역이 되었습니까?",,,문법책-성문기본
+326,10107010304,I think that it will rain.,비가 올 거라고 생각한다.,"""that it will rain""이라고 하는 절이 [생각하다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+327,10107010304,The man answered that storks never have more than one leg.,황새는 다리가 하나 뿐이라고 하인은 대답했다.,"""that"" 이하의 절이[대답하다]의 내용이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+328,10107010304,The guest in the next room says he can't read.,옆방에 계시는 손님께서 읽을 수가 없다고 말씀하십니다.,"""say"" 이하의 절이[말하다]의 내용(목적어)이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+329,10107010304,The young man explained that it was the effect of the advice.,그 젊은이는 그것이  충고 때문이었다고 설명했다.,"""that"" 이하의 절이[설명하다]의 내용(목적어)이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+330,10107010305,I know how it happened.,나는 그것이 어떻게 일어났는지를 알고 있다.,"""how it happened""라고 하는 절이 [알고 있다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+331,10107010305,They told me how much a car cost.,그들은 나에게 차가 얼마 하는지를 가르쳐 주었다.,"""how much a car cost""가 [나에게 차가 얼마 하는지를]로 [가르치다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+332,10107010305,Please see what I've done.,제가 했던 것을 보세요,"""what I've done""라고 하는 절이 [내가 했던 것을]과 같이 ""see""의 내용으로 번역되었습니까?",,,문법책-Hornby
+333,10107010305,People often forget how necessary water is for industry.,사람들은 산업에 물이 어떻게 필요한가를 때때로 망각하고 있다.,"""how necessary water is for industry""의 절이 [망각하다]의 내용(목적어)으로 번역이 되었습니까?",,,문법책-맨투맨
+334,10107010306,I convinced him that she was happy.,나는 그녀가 행복할 것을 그에게 확신시켰다.,"[∼한 것을 그에게 확신시켰다]로, ""him""이 확신시킨 상대, ""that she was happy""라고 하는 절이 확신시킨 내용으로 번역되었습니까?",,,문법책-Hornby
+335,10107010307,He sold his bike to his sister.,그는 누나에게 오토바이를 팔았다.,"[누나에게 오토바이를]로 직접목적어와 전치사구가 하나로 ""sold""의 내용이 되도록 번역되었습니까?",,,문법책-Hornby
+336,10107010307,I spend a lot of money on books.,나는 책에 많은 돈을 쓴다.,"[책에 돈을]로 직접목적어와 전치사구가 하나로 ""spend""의 내용이 되도록 번역되었습니까?",,,문법책-Hornby
+337,10107010307,She made a new doll for her daughter.,그녀는 그녀의 딸에게 새 인형을 만들어 주었다.," ""for her daughter""이 [그녀의 딸에게] 로 직접목적어와 전치사구가 ""made""의 내용이 되도록 번역되었습니까?",,,문법책-Hornby
+338,10107010307,Her grandmother spoils her like a child.,그녀늬 할머니는 어린아이처럼  그녀를 다루어 버릇없이 만든다.,"[어린아이처럼  그녀를 다루어 버릇없이 만든다]로 직접목적어와 전치사구가 ""spoil""의 내용이 되도록 번역되었습니까?",,,문법책-Hornby
+339,10107010307,God gives all things to the industrious., 신은 근면한 사람들에게 모든 것을 가져다준다.,"""all things to the industrious""  [근면한 사람들에게 모든 것을]로 직접목적어와 전치사구가 ""give""의 내용이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+340,10107010308,He put the picture in the yard.,그는 그 그림을 뜰에 갖다 놓았다.,""" the picture in the yard"" [그 그림을 뜰에]로 직접목적어와 전치사구가 하나로 ""put""의 내용이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+341,10107010401,The following story tells us many interestings about balloon flights.,다음 이야기는 기구 비행에 관한 많은 재미있는 일들을 우리에게 말해 준다.,"""tell us many interestings""가 [우리에게 많은 재미있는 일들을 말해준다]와 같이두개의 목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+342,10107010401,I envy you your good fortune.,나는 당신의 행운이 부럽습니다.,"""envy you your good forturn""이 [당신의 행운이 부럽다]로 번역되었습니까?",,,문법책-성문기본
+343,10107010401,It gives us light and warmth each day.,그것은 매일 우리에게 빛과 따뜻함을 준다.,""" us light and warmth""이 [우리에게 빛과 따뜻함을]로 두개의 목적어로 번역이 되었습니까?",,,문법책-맨투맨
+344,10107010401,The customer handed him a photo.,그 손님은 그에게 사진을 한 장 건네주었다.,"""him a photo ""이 [그에게 사진한장을]로 두개의 목적어로 번역이 되었습니까?",,,문법책-맨투맨
+345,10107010401,He sent her a letter.,그는 그녀에게 편지를 보냈다.,"[그녀에게 편지를]로, 이중목적어로서 번역되었습니까?",,,문법책-Hornby
+346,10107010402,I asked my grandfather what we should do.,나는 할아버지께 어떻게 해야 되느냐고 여쭈어 보았다.,"""what we should"" 가 명사절로 ""ask""의 직접목적어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+347,10107010402,The following story tells us why this is wrong.,다음의 이야기는 이것이 왜 잘못인가를 우리에게 말해 준다.,"""tell us why~""가 [우리에게 왜 ~인지를 말해준다]로 ""us""가 간접목적어 ""why""이하가 직접목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+348,10107010402,He warned us that there were pickpockets in the crowd.,그는 사람들중에 소매치기가 있다는 것을 우리에게 알렸다.,"[∼한 것을 우리에게 알렸다]로, ""us""가 확신시킨 상대, ""that there were pickpockets in the crowd""라고 하는 절이 확신시킨 내용으로 번역되었습니까?",,,문법책-Hornby
+349,10107010402,"""I asked him if there was any news from the sea; that's all,"" replied the negro.","""나는 생선에게 혹시 바다로부터 무슨 소식이 있는지를 물어 보았오.그게 전부요."" 하고 그 흑인이 대답했다.","""I asked him if ~"" 가 [~는지를 그에게 물어 보았오]로, ""if~""이하가 [물어보다]의 내용(목적어)이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+350,10107010501,I told him to go on.,나는 그에게 계속 가라고 말했습니다.,"""to go on""의 행동주가 ""him""이 되도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+351,10107010501,I consider him to be innocent.,나는 그가 무죄라고 생각한다.,"[그가 무죄라고 생각한다]로 ""to be innocent""한 주체가 ""him""으로 번역되었습니까?",,,문법책-Hornby
+352,10107010501,I cannot allow you to buy this car.,나는 당신이 이 차를 사도록 내버려 둘수가 없다.,"[당신이 이 차를 사도록 내버려 둘수가 없다]로 ""to buy~""하는 주체가 ""you""로 번역되었습니까?",,,문법책-Hornby
+353,10107010501,"Talking relieves the strain, helps you to see the problem objectively.","그것은 긴장을 누그러지게 하며, 당신으로 하여금 문제를 객관적으로 보도록 도와줄것이다.",""" you to see the problem"" [당신이 문제를 객관적으로 보다]로  ""to see""하는 주체가 ""you""로 번역이 되었습니까?",,,문법책-맨투맨
+354,10107010502,Then I saw the priests wife slide in through the gate.,그 때 나는 그 제관의 아내가 대문으로 미끄러지듯 들어오는 것을 보았다.,"""saw priest's wife slide in""가 [제관의 아내가 미끄러지듯 들어오는것을 보았다]로 ""slide in""하는 주체가 ""priest's wife""가 되도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+355,10107010502,We have learned to use them to make things look larger or nearer.,우리는 사물을 좀 더 크게 보이거나 보다 더 가까이 보이게 하기 위해서 그것들을 이용하게 되었다.,"""make things look larger or nearer""가 [사물을 더 크게 또는 더 가깝게 보이게 하다]로 사역의 5형식 문장으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+356,10107010502,Why not let Burke take the blame?,버크가 야단을 맞게 놔두어서 안 될 게 뭐 있는가?,"""let Burke take the blame""가 [버크가 야단을 맞게 놔두다]로 사역의 5형식문장으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+357,10107010502,I felt the house shake.,나는 집이 흔들리는 것을 느꼈다.,[집이 흔들리는 것을]로 번역되었습니까?,,,문법책-Hornby
+358,10107010502,I have the committee manage all my copyright.,나는 위원회가 모든 나의 저작권을 관리하도록 했다.,"""the committee manage""가「위원회가  관리하다」로 ""manage""한 주체가 ""committee""가 되도록 번역되었습니까?",,,문법책-Hornby
+359,10107010503,"At that moment, I heard someone calling my fathers name in Japanese.",그 순간 나는 누군가가 일본말로 아버지의 이름을 부르는 소리를 들었다.,"문장이 [누군가 아버지의 이름을 부르다]로 ""someone""이 ""calling""의 의미상의 주어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+360,10107010503,Often we hear someone talking around a corner when we cannot see him.,종종 우리는 사람이 보이지 않는데도 누군가가 길모퉁이 근처에서 이야기하고 있는 소리를 듣게 된다.,"""talk""가 ""someone""의 동작을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+361,10107010503,I felt the house shaking.,나는 집이 흔들리고 있는 것을 느꼈다.,[집이 흔들리고 있는 것을]로 번역되었습니까?,,,문법책-Hornby
+362,10107010503,I can't understand your leaving so early.,나는 당신이 그렇게 일찍 떠나는 것을 이해할수 없습니다.,[당신이 그렇게 빨리 출발하는 것을]로  현재분사의 의미상의 주어가 나타나도록 번역되었습니까?,,,문법책-Hornby
+363,10107010503,She had her book stolen.,그녀는 그녀의 책을 도난당했다.,"[그녀의 책을 도난당하다]라고 ""stolen""된 주체가 ""book""이 되도록 번역되었습니까?",,,문법책-Hornby
+364,10107010503,I found them satisfied.,나는 그들이 만족하고 있는 것을 알았다.,"""found them satisfied""가 [그들이 만족하고 있는 것을 알았다]로 ""satisfied""된 주체가 ""them""이 되도록 번역되었습니까?",,,문법책-Hornby
+365,10107010505,He painted the walls red.,그는 벽을 붉게 칠했다.,[벽을 붉게 칠하다]로 5형식 문장으로 번역되었습니까?,,,문법책-Hornby
+366,10107010505,She made him an excellent wife.,그녀는 그를 위해 훌륭한 아내가 되었다.,[그를 위해 훌륭한 아내가 되었다]로 번역되었습니까?,,,문법책-Hornby
+367,10107010505,They named their son Richard.,그들은 아들을 리차드라고 이름지었다.,"[아들을 리차드라고 이름짓다]로 ""his  son""과 ""Richard""가 동격관계인 5형식 문장으로 번역되었습니까?",,,문법책-Hornby
+368,10107010505,I want the work finished by Sunday.,나는 그 일은 일요일까지 완성했으면 한다.,"[그 일을 완성할 것을 바란다]로 ""finished""되는 주체가 ""the work""로 번역되었습니까?",,,문법책-Hornby
+369,10107010506,My little horse must think it queer.,내 작은 말이 이상하다 여길 게다.,"""queer""가 ""it""의 보어로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+370,10107010506,She's getting your dinner ready now.,그녀는 지금 식사 준비를 하고 있습니다.,"""get your dinner ready""가 [당신의 식사준비를 하다]와 같이 ""get ""이 [~의 상태로 되게 하다]의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+371,10107010506,"He did not answer the letter, and this made me all the more angry.",그가 편지에 답장하지 않았던 것이 나를 더 화나게 만들었다.,""" made me all the more angry""가 [나를 더 화나게 만들었다]와 같이 ""me""를 ""angry""한 상태가 되게 하다라는 의미로 번역이 되었습니까?",,,문법책-성문기본
+372,10107010506,I consider him innocent.,나는 그가 무죄라고 생각한다.,"[그가 무죄라고 생각한다]로 ""innocent""한 주체가 ""him""이 되도록 번역되었습니까?",,,문법책-Hornby
+373,10107010600,"""Do you think you could take Burke's place?""",너는 버크를 대신할 수 있을 것으로 생각하니?,"""take one's place""가 [~를 대신하다]로 하나의 관용어구로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+374,10107010600,Do you go by first impressions?,당신은 첫 인상에 의해 판단을 하는가?,"""go by""가 [~에 의거해 판단하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+375,10107010600,He couldn't tell on his best friend.,그는 그의 가장 친한 친구에 대해서 고자질 할 수가 없었다.,"""tell on""가 [고자질하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+376,10107010600,The citizens were willing to put up with traffic and other inconveniences.,시민들은 교통과 기타 불편한 것들을 감수했다.,"""put up with~""이 [~을 참다]로 관용적으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+377,10107010600,I am free with my advice.,나는 조언을 아끼지 않는다.,"""free with""가 [∼을 아끼지 않다]로 번역되었습니까?",,,문법책-Hornby
+378,10107010600,"But he is at the mercy of the elements, and is very conscious of his dependence.",그러나 그는 자연의 힘에 좌우되며 자기가 의존하고 있다는 것을 잘 인식하고 있다.,""" be at the mercy of""가 [~에 좌우되다]로, 번역이 되었습니까?",,,문법책-맨투맨
+379,10107010700,"He tried to explain this to her, but she refused to listen.",그는 이것을 설명하려 했지만 그녀는 들으시려고도 하지 않으셨다.,"""try to explain ""가 [설명하려고 하다]로 하나의 동사처럼 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+380,10107010700,The Faradays managed to get public relief.,패러디 가족은 공공 구호품을 가까스로 얻어냈다.,"""managed to get""가 [가까스로 얻어내다]로 ""manage to""가 [가까스로 ~하다]로 번역되었습니까?",,,문법책-맨투맨
+381,10107010700,He seemed to be in a very strange state of mind.,그는 아주 이상한 정신 상태에 있는 것 같았습니다.,"""seem to~""가 [~ 인것 처럼 보인다]로 하나의 동사처럼 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+382,10107010700,"I am apt to judge my fellow men in comparison with myself, a wrong and foolish thing to do.","내가 동료들을 나 자신과 비교하여 판단하기 쉬운데, 그것은 잘못된 바보짓이다.","""am apt to ""가 [~기 쉽다]와 같이 하나의 동사처럼 번역이 되었습니까?",,,문법책-성문기본
+383,10107020101,Passengers shall not converse with the driver.,승객은 운전수에게 말을 걸어서는 안된다.,"[말을 걸어서는 안된다]로, 규칙을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+384,10107020101,I shall never forget you.,나는 당신을 결코 잊지 않을 것이다.,"""shall never forget""이 [결코 잊지 않을 것이다]로 화자의 강한 의지를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+385,10107020101,It is natural that he should say so.,그가 그렇게 말하는 것은 당연하다.,"전체적으로 [∼하는 것은 당연하다]로, 화자의 감정을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+386,10107020101,"According to this map, this should be our route.",이 지도에 의하면 이것이 우리의 루트일 것이다.,"""should be""가 [∼일 것이다]로, 추량을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+387,10107020101,Shall I be able to pass the examination?,나는 시험에 통과할 수 있을까?,"""Shall ~?""이 [~을까?]와 같이 단순히 미래의 의미로 번역이 되었습니까?",,,문법책-성문기본
+388,10107020102,He would have to get along without her.,그는 할머니 없이 살아가야 할 것이다.,"""would""가 [~일 것이다]로 미래로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+389,10107020102,She would play music for plants.,그녀는 식물에게 음악을 들려 주기로 했다.,"""would""가 [~기로 했다]와 같이 과거의 주어의 의지를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+390,10107020102,He will often take a walk in the morning.,그는 오전 중에 자주 산책을 한다.,"""will""이 [자주 ∼한다]로, 습관적 동작을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+391,10107020102,Will you have a drink?,한 잔 하시겠어요?,"""Will you have a drink?""가 [한잔하시겠습니까?]로 의향을 묻는 표현으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+392,10107020102,The window will not open.,창문은 아무리해도 열리지 않는다.,"""will not""이 [아무리해도 ∼하지 않다]로, 주어의 강한 거절을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+393,10107020102,You will leave here at once.,곧장 나가라는 것이예요.,"""will""이 [당연히 ∼하는 것]으로, 지시를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+394,10107020103,Could it be you?,그것이 당신일 수 있을까?,"""could""가 가능성을 나타내도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+395,10107020103,You can go now.,이제 가도 좋아요.,"""can""이 [∼해도 좋다]로, 허가를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+396,10107020103,Can you show me the way to the post office?,우체국까지의 길을 알려주지 않겠습니까?,"""Can you∼?""가 [∼해주지 않겠습니까?]로, 의뢰를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+397,10107020103,You cannot go now.,지금 가면 안되요.,"""cannot""이 [∼해서는 안된다]로, 금지를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+398,10107020104,It may rain in the afternoon.,오후에 비가 올지도 모른다.,"""may""가 [∼일지도 모른다]로, 추량의 표현으로 번역되었습니까?",,,문법책-Hornby
+399,10107020104,You may not smoke in this room.,당신은 이방에서 담배를 피워서는 안된다.,"""may not"" 이 [∼해서는 안된다]로 금지를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+400,10107020104,May he live long!,만수무강하소서!,"""May he live long!""가 [만수무강 하소서]와 같이  기원하는 표현으로 번역이 되었습니까?",,,문법책-성문기본
+401,10107020104,You might bring me a cup of coffee.,미안하지만 커피 한 잔 가져 다 주십시오.,""" might bring ""가 [~가져 다 주십시오]와 같이 공손하게 남에게 무언가를 청하도록  번역이 되었습니까?",,,문법책-성문기본
+402,10107020105,You must be tired after a long journey.,긴 여행을 했으니 피곤함에 틀림없다.,"""must""가 [~임에 틀림없다]와 같이 추측의 의미로 번역이 되었습니까?",,,문법책-성문기본
+403,10107020105,He must needs have his own way.,그는 꼭 자기 생각대로 해야 한다.,"""must needs have his own way""가 [자기 생각대로 해야 한다]와 같이 주장, 고집을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+404,10107020105,"Soybeans must be planted in a warm, frost-free soil.",콩은 따뜻하고 서리가 내리지 않는 땅에서 재배되어야 한다.,"""must""가 [~해야한다]로, 의무, 명령의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+405,10107020105,You must not go now.,지금 가서는 안되요.,"""must not"" 이 [∼해서는 안된다]로 금지를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+406,10107020106,You ought to be thankful to him.,당신은 그에게 감사해야 한다.,"""ought to""가 [∼해야만 한다]로 의무를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+407,10107020106,You ought not to say so.,당신은 그렇게 말해서는 안된다.,"""ought not to""가 [∼해서는 안된다]로  ""ought  to""의 부정으로 번역되었습니까?",,,문법책-Hornby
+408,10107020106,We ought to decide upon a point of attack.,우리는 착수할 지점을 결정하여야 한다.,ought to가 [∼해야만 한다]로 의무를 나타내는 표현으로 번역되었습니까?,,,문법책-맨투맨
+409,10107020107,He used to take a walk in the morning.,그는 오전 중에 종종 산책을 하곤 했다.,"""used to""가 [종종 ∼을 하곤 했다]로 과거의 습관적 행위를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+410,10107020108,She need not have come so early.,그녀는 그렇게 빨리 올 필요가 없었다(없었는데).,"""need not have come""이 [올 필요가 없었다]로 과거의 불필요성을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+411,10107020109,She dare not tell it to you.,그녀는 감히 그것을 당신에게 말하지 않을 것이다.,"""dare no""은 [감히 ∼하지 않다]로 번역되었습니까?",,,문법책-Hornby
+412,10107020109,I dare say it is true.,아마 그것은 진실일 것이다.,"""I dare say""가 [아마∼일 것이다]로 추량을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+413,10107020110,"Of course, Mrs. Evans had to tell all her friends about it.",물론 에반스 부인은 그것에 관해서 자기의 모든 친구들한테 말하지 않을 수 없었다.,"""had to""가 조동사 [~해야 했다]로 조동사 ""have to""의 과거시제로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+414,10107020110,"She does not have to stand up in introductions, either.",여자는 또 소개받을 때 일어설 필요가 없다.,"""does not have to""가 [∼할 필요는 없다]로, 불필요성을 나타내는 표현으로 번역되었습니까?",,,문법책-맨투맨
+415,10107020110,He had to make this last for a week.,그는 이 빵 한 덩어리로 일 주일 동안을 지탱해야만 했다.,"""had to""가 [~해야한다]로, 의무, 명령의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+416,10107020111,"""I do hope he isn't in some kind of trouble.""",랠프에게 정말 무슨 일이나 없었으면 좋겠는데요.,"""I do hope""가 [정말로 바라다]로 ""do""가 동사를 강조하여 일반동사와 구별되어 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+417,10107020111,Light does not bend around corners as sound does.,빛은 소리처럼 모퉁이를 휘어 돌지는 않는다.,"""do""가 [그러하다]라는 의미로 앞의 동사를 받는 대동사로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+418,10107020111,"Then, you will be able to read all the classics of the world fluently in English just as you do in Korean.",그러면 여러분은 세계의 모든 고전들을 한국어로 읽는 것처럼 거침없이 영어로 읽을 수 있게 될 것이다.,"""as you do in Korean""의 ""do""가 앞의동사 ""read""를 받는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+419,10107020201,"Plants seemed to be able to show fear, worry, and even love.","식물이 두려움, 걱정, 그리고 심지어는 애정조차도 보일 수 있는 것 같았다.","""be able to""가 ""can""의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+420,10107020201,Shall I be able to pass the examination?,나는 시험에 통과할 수 있을까?,"""be able to pass ""가 [통과할 수 있다]와 같이 가능의 의미로 번역이 되었습니까?",,,문법책-성문기본
+421,10107020201,He is able to drive a car.,그는 차를 운전할 수 있다.,"""is able to""가 [∼할 수 있다]로, 능력을 나타내도록 번역되었습니까?",,,문법책-Hornby
+422,10107020202,I could not but get angry.,나는 화를 내지 않고는 있을 수 없었다.,"""could not but get angry""가 [화를 내지 않고는 있을 수 없었다]로 번역되었습니까?",,,문법책-Hornby
+423,10107020203,The ice is going to crack.,얼음이 깨지려고 합니다.,""" is going to crack""이 [얼음이 깨지려고 한다]와 같이,  곧 진행될 상황에 대한 표현으로 번역이 되었습니까?",,,문법책-성문기본
+424,10107020203,"""One of these days I'm going to get my high school diploma."""," ""나는 근간에 고등 학교 졸업장을 받게 될 것이다.""","""be going to""가 [~ㄹ것이다]와 같이 미래의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+425,10107020205,"""Youd better turn the radio on,"" he said anxiously.","라디오를 틀어 봐라,라고 할아버지께서는 초조하게 말씀하셨다.","""had better""가 [~는게 낫다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+426,10107020206,I should like to make a tour round the world.,나는 세계 일주 여행을 하고 싶다.,"""should like to""가  [~하고 싶다]와 같이 번역이 되었습니까?",,,문법책-성문기본
+427,10108010101,"I found him here, which was the last place I met him.","나는 그를 여기에서 발견했는데, 그 곳은 내가 그를 만난 마지막 장소였다.","""which ""이하가 [그 곳은 내가 그를 만난 마지막 장소였다]로 [여기]를 설명하는 독립된 문장으로 번역되었습니까?",,,문법책-Hornby
+428,10108010101,"He tried to eat an apple, which was not allowed by his mother.",그는 사과를 먹으려고 했으나 그것은 그의 어머니에게 허락되지 않았다.,"""which"" 이하가 [그것은 그의 어머니에게 허락되지 않았다]로 [사과를 먹는]것을 설명하는 독립된 문장으로 번역되었습니까?",,,문법책-Hornby
+429,10108010101,"I will employ a man, who is not clever.",나는 남자(현명하지 않은[않지만])를 고용할 것이다.,"""who"" 이하가 [현명하지 않은[않지만]]으로, [남자]를 설명해주는 말로 번역되었습니까?",,,문법책-Hornby
+430,10108010101,"I found him in the park, which was quite unexpected.","나는 공원에서 그를 발견했는데, 그것은 전연 의외였다.","""which"" 이하가 [그것은 전연 의외였다]로 [내가 공원에서 그를 발견한]것을 설명하는 독립된 문장으로 번역되었습니까?",,,문법책-Hornby
+431,10108010101,"We stop before a quiet, little inn, whose host, a very aged man, comes forth to salute us.","우리가 어느 조용한 작은 여인숙 앞에 서니, 그 여인숙 주인인 매우 나이 든 분이 나와서 우리에게 인사를 한다.","""whose host""이하가[ 그 여인숙 주인인 매우 나이 든 분이 나와서 우리에게 인사를 한다]로 [여인숙]을 설명하는 독립된 문장으로 번역되었습니까?",,,문법책-맨투맨
+432,10108010201,The number which had begun at 365 was running down steadily.,365에서 시작한 숫자는 꾸준히 줄어들고 있었다.,"""which""이하의 절이 ""the number""를 수식하는 형용사절로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+433,10108010102,"The Seoul Olympics, which ended with a colorful closing ceremny on October 2, were a great success.",10월 2일에 매우 다채로운 폐막식과 함께 끝난 서울 올림픽은 매우 성공적이었다.,"""which~""가 [서울올림픽]을 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+434,10108010201,The pencil which he found on his table was not mine.,그가 그의 테이블 위에서 발견한 연필은 나의 것이 아니었다.,"“which"" 이하가 [그가 그의 테이블 위에서 발견한]과 같이 [연필]의 수식어구로 번역되었습니까?",,,문법책-Hornby
+435,10108010201,This is the book which everybody thinks is very interesting.,이것이 모든사람이 매우 재미있다고 생각하는 책이다.,""" which everybody thinks""가 [모든 사람이 생각하는]과 같이 ""the book""을 수식하는 형태로 번역이 되었습니까?",,,문법책-성문기본
+436,10108010201,He has a dog which barks furiously.,그는 무섭게 짖는 개를 한 마리 가지고 있다.,"“which"" 이하가 [무섭게 짖는]과 같이 [개]의 수식어구로 번역되었습니까?",,,문법책-성문기본
+437,10108010202,A symbol is something that stands for something else.,상징이란 그것 아닌 다른 어떤 것을 의미하는 무엇이다.,"관계절 ""that~""가 ""something""을 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+438,10108010202,She felt that maybe there were sounds that would help man.,그녀는 인간에게 도움이 될 소리가 어쩌면 있을 것이라고 생각했다.,"""that would~""의 ""that~""이하가 ""sounds""를 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+439,10108010202,The plants that had piano tones for just a short time grew well.,단지 짧은 시간 동안만 피아노 소리를 들은 식물들은 잘 자랐다.,"""that had piano tones""가 관계대명사절로 ""the plants"" 를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+440,10108010203,"""I'm still the one who left the chain off the gate.""",사슬을 문에서 벗긴 채로 놔둔 것은 그래도 저인 걸요.,"""the one who~""가 [~한 사람]으로 ""who""이하가 ""the one""을 수식하는 형태로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+441,10108010203,The lady who is sitting there is our teacher.,저기 앉아 있는 숙녀는 우리 선생님이시다.,"“who"" 이하가 [저기 앉아 있는 숙녀는]과 같이 [우리 선생님]의 수식어구로 번역되었습니까?",,,문법책-성문기본
+442,10108010203,A man who had common sense would not do that.,상식이 있는 사람이라면 그런 짓은 안할 것이다.,"""who had common sense""가 [상식을 가진]과 같이 ""a man""을 수식하는 형태로 번역이 되었습니까?",,,문법책-성문기본
+443,10108010203,He who wants to do everything will never do anything.,모든 일을 다하려고 하는 사람은 아무런 일도 하지 못할 것이다.,"“who"" 이하가 [그모든 일을 다하려고 하는]과 같이 [사람]의 수식어구로 번역되었습니까?",,,문법책-맨투맨
+444,10108010204,Show me what you have in your hand.,네 손에 갖고 있는 것을 내게 보여다오.,"""what""절이 [네손에 갖고 있는 것]으로 ""what""이 선행사를 포함한 관계 대명사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+445,10108010204,He knew what I wanted.,그는 내가 원하는 것을 알고 있다.,"“what"" 이하가 [내가 원하는 것]으로, ""what""이 선행사를 포함한 관계대명사로 번역되었습니까?",,,문법책-Hornby
+446,10108010204,He gave me what I wanted.,그는 내가 원하는 것을 내게 주었다.,"“what"" 이하가 [내가 원하는 것]으로, ""what""이 선행사를 포함한 관계대명사로 번역되었습니까?",,,문법책-Hornby
+447,10108010205,We hate whoever is dishonest.,우리들은 부정직한 사람은 누구라도 미워한다.,"""whoever""가 [누구라도]로 번역되었습니까?",,,문법책-Hornby
+448,10108010206,Light must come to our eyes from whatever we see.,빛은 우리가 보는 어떤 것에서나 나와 반드시 우리의 눈에 와 닿는다.,"""from whatever we see""가 [우리가 보는 어떤 것으로 부터나]처럼 선행사를 포함한 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+449,10108010206,"Whatever he may say, nobody listens to him.",그가 무슨 이야기를 하든 아무도 그가 말하는 것을 듣지 않는다.,"""whatever he may say""가 [그가 무슨 이야기를 하든]으로, 양보의 의미로 번역되었습니까?",,,문법책-Hornby
+450,10108010206,He eats whatever I give him.,그는 내가 그에게 준 것은 무엇이든 먹는다.,"""whatever""가 [무엇이든]으로 번역되었습니까?",,,문법책-Hornby
+451,10108010208,There is no rule but has some exceptions.,예외 없는 규칙은 없다.,"""but"" 이 [~가 아닌]의 의미로 번역되는가?",,,문법책-Hornby
+452,10108010300,"He is what is called ""the man in the news"".",그가 이른바 「당대의 인물」이다.,"""what is called""가 [이른바]로 [당대의 인물]을 수식하도록 번역되었습니까?",,,문법책-Hornby
+453,10108010400,But their balloon lifted a man named de Rozier about 25 meters in the air.,그러나 그들의 기구는 드 로지에라는 이름을 가진 사람을 공중으로 25미터쯤 들어 올렸다.,"""named de Rozier""가 ""a man""을 수식하여 [~라는 이름의]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+454,10108010400,He'd taken the credit so easily for a lot of work he hadn't done.,그는 자기가 하지 않은 많은 일에 대한 공을 아주 쉽게 차지했던 것이다.,"""he hadn't done""이 관계대명사가 생략되어 ""work""를 수식하는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+455,10108010400,The plants given soft music were strong and healthy.,부드러운 음악을 들려 준 식물들은 강하고 건강했다.,"""given soft music""가 the plants""를 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+456,10108010400,But the part we saw was beautiful.,그러나 우리가 본 곳은 아름다웠다.,"""we saw""가 [우리가 본]과 같이 [곳]을 수식하도록 번역이 되었습니까?",,,문법책-맨투맨
+457,10108010400,A boy ten years old.,10살 먹은 소년.,"""a boy ten years old""가 [10살 먹은 소년]과 같이 ""is ten years old""가 ""a boy""를 수식하는 형태로 번역이 되었습니까?",,,문법책-성문기본
+458,10108010500,He criticized a man who they thought was his enemy.,그는 그의 적이라고 그들이 생각하고 있던 남자를 비난했다.,"""who ""이하가 [그의 적이라고 그들이 생각하고 있던]으로, [남자]의 수식어구로서 번역되었습니까?",,,문법책-Hornby
+459,10108010500,This is a flower whose name we do not know.,이것은 우리들이 이름을 알지 못하는 꽃이다.,"""whose"" 이하가 [우리들이 이름을 알지 못하는]으로, [꽃]의 수식어구로서 번역되었습니까?",,,문법책-Hornby
+460,10108010500,The boy whom you met there is my brother.,네가 거기서 만난 소년은 나의 동생이다.,"“whom"" 이하가 [네가 거기서 만난]과 같이 [소년]의 수식어구로 번역되었습니까?",,,문법책-성문기본
+461,10108010500,Who steals my purse steals trash.,내 지갑을 훔치는 자는 쓰레기를 훔치는 것과 같다.,"""Who steals my purse""가 [내 지갑을 훔치는 자]와 같이 번역이 되었습니까?",,,문법책-성문기본
+462,10108010500,Whom the gods love die young.,신이 사랑하는 사람은 일찍 죽는다.," ""Whom the gods love""가 [신이 사랑한 사람]과 같이 번역이 되었습니까?",,,문법책-성문기본
+463,10108010600,This is the book about which I was telling you.,이것이 내가 당신에게 이야기했던 책입니다.,"“about which"" 이하가 [내가 당신에게 이야기했던]으로, [이야기했던] 것이 [책]이라는 것을 나타내도록 번역되었습니까?",,,문법책-Hornby
+464,10108010600,"She met my uncle, from whom she got the news of my promotion.","그녀는 나의 숙부를 만나, 그에게서 나의 승진 소식을 들었다.","""from whom ""이하가 [그(=나의 숙부)로부터 나의 승진 소식을 들었다]로, 그녀가 소식을 들은 것은 [나의 숙부로부터]라는 사실을 나타내도록 번역되었습니까?",,,문법책-Hornby
+465,10108010600,It dries to the dull yellow color with which we are familiar.,그것은 건조되어 우리가 잘 알고 있는 흐릿한 노란 색으로 된다.,"“with which"" 이하가 [ 우리가 잘 알고 있는]으로, [잘알고 있는것]이 [흐릿한 노랑색]이라는 것을 나타내도록 번역되었습니까?",,,문법책-맨투맨
+466,10108010600,The notebook the cover of which is blue is mine.,표지가 파란 색인 그 노트는 나의 것입니다.,"""the notebook the cover of which""가 [표지가 파란 색인 그 노트]로, [노트]의 [표지가 파란색]임을 보충설명하도록 번역되었습니까?",,,문법책-Hornby
+467,10108010600,"My parents, both of whom live abroad, send me letters every week.","나의 부모님은 둘 다 외국에 살고 있는데, 매주 나에게 편지를 보내온다.","""both of whom live abroad""가 [둘 다 외국에 살고 있는데]로 [나의 부모님]이 [외국에 살고 있다]는 것을 보충하는 설명이 되도록 번역되었습니까?",,,문법책-Hornby
+468,10108020104,You may use whichever pen you think best.,당신은 당신이 최고로 생각하는 어느 펜이든지 사용해도 좋다.,"“whichever""이 ""pen""을 수식하는 것으로 번역되었습니까?",,,문법책-Hornby
+469,10108030101,Jun. 1 is the day when I was born.,6월 1일은 내가 태어난 날이다.,"“when"" 이하가 [내가 태어난]으로, [날]을 수식하도록 번역되었습니까?",,,문법책-Hornby
+470,10108030101,I like to climb the mountain where there is some snow.,나는 약간의 눈이 있는 산을 오르고 싶다.,""" where there is some snow.""가 [약간의 눈이 있는 산]과 같이 ""the mountain""를 수식하는 형용사절로 번역이 되었습니까?",,,문법책-성문기본
+471,10108030101,There is no reason why you should go.,네가 가야할 어떤 이유도 없다.,"""why you should go""가 [네가 가야할]과 같이 ""reason""을 수식하는 형용사절로 번역이 되었습니까?",,,문법책-성문기본
+472,10108030101,He died on the day that I arrived.,내가 도착한 그날에 그가 죽었다.,""" the day that I arrived""가 [도착한 그날에]로 ""that""이 ""when""의 의미로 번역이 되었습니까?",,,문법책-성문기본
+473,10108030101,Tell me how it is to be attained.,나에게 어떻게 그것을 달성했는지 알려주시오.,"""how it is to be attained.""가 [그것을 달성했는지]와 같이 ""the way how~""의 의미로, ""tell""의 내용(목적어)이 되는 명사절로 번역이 되었습니까?",,,문법책-성문기본
+474,10108030102,"He went to New York, where he saw the sights for a week.",그는 뉴욕에 가서 거기에서 1주일간 관광했다.,"""where"" 이하가 [거기에서 1주일간 관광했다]로, [뉴욕]에 대한 설명으로 번역되었습니까?",,,문법책-Hornby
+475,10108030102,"We stayed in Seoul for a week, when I received a telegram.","우리는 서울에 1주일간 머물렀는데, 그 때 나는 전보를 받았다.","""when"" 이하가 [그 때 나는 전보를 받았다]로, [일주일]에 대한 설명으로 번역되었습니까?",,,문법책-성문기본
+476,10108030200,"Wherever you may go, you will be respected.","당신이 어디에 가든, 존경받을 것이다.","""Wherever you may go~""가 [당신이 어디에 가든]과 같이 ""at any place where~""로 선행사를 포함한 의미로 번역이 되었습니까?",,,문법책-성문기본
+477,10108030200,"Let me know, whenever you come here.","여기에 올 때는 언제나, 언제나 나에게 알려주시오.","""whenever you come here""가 [여기에 올 때는 언제나]와 같이 ""at any time when""으로 선행사를 포함하여 번역이 되었습니까?",,,문법책-성문기본
+478,10108030200,"However hard you may try, you cannot do it.","네가 아무리 열심히 애를 써도, 너는 그것을 할 수 없다.","""However hard you may try""가 [네가 아무리 열심히 애를 써도]와 같이 ""no matter how""와 같이 선행사를 포함한 양보의 의미로 번역이 되었습니까?",,,문법책-성문기본
+479,10108030200,You may go wherever you like.,네가 가고싶은 어디나 갈 수 있다.,"""wherever you like"" 가 [~하는 곳은 어디나]와 같이 ""at any place where""의 의미로 번역이 되었습니까?",,,문법책-성문기본
+480,10109010100,"If you can give me none, tell me so and I will return home.",만약 아무 대답도 해 주실 수 없다면 그렇다고 말씀하십시오.그러면 저는 집으로 돌아갈테니까요.,"""and""가 [그러면]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+481,10109010100,She was a housewife and took care of me.,가정 주부였고 저를 돌봐주었습니다.,"접속사""and""이 동사구를 연결하여 [가정주부였고, 저를 돌봐주었습니다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+482,10109010100,Let's go and help her.,그녀를 도우러 가자.,"""and help""가 [도우러]로, 목적으로 번역되었습니까?",,,문법책-Hornby
+483,10109010100,"Work harder, and you'll be successful.",좀 더 열심히 일해라. 그러면 당신은 성공할 것이다.,"""Work harder, and""가 [좀 더 일해라, 그렇게 하면]으로 번역되었습니까?",,,문법책-Hornby
+484,10109010100,"You must finish your homework, or you will fail in the examination.",당신은 당신의 숙제를 끝내야만 합니다.그렇지 않으면 시험에 떨어질 것입니다.,"""or""가 [그렇지 않으면]로 번역되었습니까?",,,문법책-Hornby
+485,10109010200,Many others paint a scene like a picture or tell an event like a story.,또 많은 다른 것들은 그림처럼 어떤 장면을 그려 주고 이야기처럼 어떤 사건을 말해 준다.,"""or""가 [~거나]로 선택적 의미로 동사구를 연결하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+486,10109010200,"I will buy it on Monday, Tuesday or Wednesday.","나는 월요일, 화요일 또는 수요일에 그것을 살 것이다.","""or""가 [또는]과 같이 ""Monday""와 ""Tuesday""와 ""Wednesday""의 언제인지]를 나타내도록 번역되었습니까?",,,문법책-Hornby
+487,10109010200,"Rain or shine, the farmer worked hard in his field.","비가 와도, 날씨가 좋아도 농부는 들에서 열심히 일했다.","""Rain or shine""가 [비가 와도, 날씨가 좋아도]와 같이 ""or""가 [~도]로 선택적 의미로 번역이 되었습니까?",,,문법책-성문기본
+488,10109010200,"The only difference between the cabinets was sound, or the lack of it.",그 캐비넷들 사이의 유일한 차이는 소리의 차이이거나 소리가 없는 것이었다.,""",or""가 [~거나]로 선택적 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+489,10109010300,"I was impatient, but I waited.",나는 초조했지만 기다렸어요.,[초조했지만 기다렸다]로 역접으로 연결하여 번역되었습니까?,,,영어교과서-고교ii-a-1
+490,10109010300,"I wished to kill you, and you have saved my life.","저는 임금님을 죽이려 했는데, 임금님께서는 저의 목숨을 구해 주셨습니다.","""and""가 [그런데도, 그러나]의 의미로 번역되었습니까?",,,영어교과서-고교ii-a-1
+491,10109010300,"He is so poor, and has an expensive car.",그는 가난하면서 고급차에 타고 있다.,"""and""가 [그럼에도 불구하고]로, 반대의 의미를 나타내는 접속사로 번역되었습니까?",,,문법책-Hornby
+492,10109010300,He is as rich as Croesus and he goes everywhere on foot.,그는 크로이소스만한 부자지만 어디든지 걸어서 간다.,"""He is as rich as Croesus and~""가  [그는 크로이소스만한 부자지만]과 같이 ""and""가 뒤에 나오는 문장과 역접의 관계로번역이 되었습니까?",,,문법책-성문기본
+493,10109010300,He is lazy but you are diligent.,그는 게으르지만 너는 부지런하다.,""" ~but~""전후의 문장이 [그는 게으르지만 너는 부지런하다]  와 같이 두문장이 서로 상반되는 의미관계로 번역이 되었습니까?",,,문법책-성문기본
+494,10109010400,"It will rain, for the barometer is falling.",비가 올 것이다 라고 하는 것은 기압계가 내려가 있으므로.,"""for"" 이하가 [~이므로]와 같이 [비가 올 것이다]라는 근거를 나타내도록 번역되었습니까?",,,문법책-Hornby
+495,10109010400,"It may be morning, for the birds are twittering.",새들이 지저귀는 걸 보니 아침일 것이다.,""" for the birds are twittering.""가 [새들이 지저귀는 걸 보니]와 같이 ""for""이하가 [아침일것이다]에 대한 이유로 번역이 되었습니까?",,,문법책-성문기본
+496,10109010400,"You worked hard, so you succeeded in it.",너는 열심히 일해서 성공했다.,"""You worked hard, so~""가 [열심히일해서~했다]와 같이 ""so""가 [성공했다]에 대한 이유의 의미로 번역이 되었습니까?",,,문법책-성문기본
+497,10109010500,"A to-infinitive, or an infinitive with to is needed here.","to 부정사, 즉 to를 가진 부정사가 여기에서 필요하다.","""A to-infinitive, or an infinitive~""가 [to 부정사, 즉 ]과 같이 ""or""가 [즉]으로 번역이 되었습니까?",,,문법책-성문기본
+498,10109010501,She both plays the piano and sings.,그녀는 피아노를 연주하고 노래도 부른다.,[피아노를 연주한다]와 [노래도 부른다]의 2가지 의미로 번역되었습니까?,,,문법책-Hornby
+499,10109010501,Both Americans and Englishmen are very friendly.,미국 사람들도 영국 사람들도 모두 매우 상냥하다.,"""Both (Americans) and (Englishmen)"" [미국사람들도 매우 상냥하다], [영국사람들도 매우상냥하다]로 둘다에 걸리도록 번역이 되었습니까?",,,문법책-맨투맨
+500,10109010502,You will either ruin yourself or lose your friends.,당신은 자신의 몸을 망치는가 친구를 잃는가의 어느 쪽이다.,[『자신의 몸을 망치다』인지 또는 『친구를 잃다』인지]로 번역되었습니까?,,,문법책-Hornby
+501,10109010502,"He had neither companions nor friends, church nor creed.","그는 동료도 친구도 없었으며, 교회도 신앙도 없었다.","""neither companions nor friends, church nor creed"" [동료도 친구도 없었다]또한[신앙도, 교회도 없었다]와 같이 모두를 부정하는 의미로 번역이 되었습니까?",,,문법책-맨투맨
+502,10109010502,Either you or she is to go.,너든 그녀든 어느 쪽이 가야 한다, [당신이 가야 한다] 든지 또는 [그녀가 가야 한다]든지로 번역되었습니까?,,,문법책-Hornby
+503,10109010503,"They are not glass threads or frostwork, but the solidest thing we know.","그들은 유리실이나 창유리에 낀 서리꽃이 아니라, 우리가  알고 있는 것 중에서 가장 견고한 것이다.","""not glass threads or frostwork, but the solidest thing""  [그들은 유리실이나 창유리에 낀 서리꽃]이 아니라 [우리가  알고 있는 것 중에서 가장 견고한 것]이다, 로 번역이 되었습니까?",,,문법책-맨투맨
+504,10109010503,He thinks about not a particular class of readers but men and women in general.,그는 특별한 독자층이 아니라 일반적인 남녀를 상정하고 있다.,[특별한 독자층을 상정하지 않]고 [일반 남녀를 상정하고 있다]로 번역되었습니까?,,,문법책-Hornby
+505,10109010503,"I do not wish to treat friendships daintily, but with roughest courage.","나는 우정을 점잖게 다루고 싶은 것이 아니라, 난폭한 용기로서 다루고자 한다.",""" do not (wish to treat friendships daintily), but (with roughest courage)."" 이  [점잖게 다루고 싶은 것]은 것이 아니라  [ 난폭한 용기로서 다루고자 한다]로 번역이 되었습니까?",,,문법책-맨투맨
+506,10109010504,The artist in man is seen not only in the beauty of specific works of art but in the beauty of the design.,"인간의 예술성은  특별한  예술 작품의 아름다움에서뿐만  아니라, 우리들의도안의 아름다움에서도 나타나있다.","""not only ~ but ~""이  [특별한  예술 작품의 아름다움에서 나타나 있다] 뿐만  아니라 [우리들의 일상 생산품의 도안의 아름다움에서도 나타나 있다]의 의미를 표현하도록 번역이 되었습니까?",,,문법책-맨투맨
+507,10109010504,It would bring about not only discomfort but also the breakdown of our civilization.,그것은 불편 뿐만 아니라 우리 문명의 붕괴를 초래할 것이다.,"""not only ~ but also ~""가  [불편 뿐만아니라 우리문명의 붕괴를]과 같이 [~뿐만 아니라 ~도]로 번역이 되었습니까?",,,문법책-맨투맨
+508,10109010505,Not a man nor a child likes such a team.,어른도 아이도 그런 팀은 싫어한다.,[어른이 싫어한다]와 [아이가 싫어한다]의 두가지로 번역되었습니까?,,,문법책-Hornby
+509,10109010506,Neither you nor he is wrong.,"너도, 그도 틀리지 않다.","""Neither you nor he is wrong.""가 [너도 그도 틀리지 않았다]와 같이 ""neither~nor""가 [~도~도~하지 않았다]의 양자 부정의 의미로 번역이 되었습니까?",,,문법책-성문기본
+510,10109010506,Either uncle or aunt may come.,아저씨나 아주머니가 올 것이다.,"""Either uncle or aunt ""가 [아저씨나 아주머니]로 ""either~or""가 선택의 의미로 번역이 되었습니까?",,,문법책-성문기본
+511,10109010507,It never rains but it pours.,비가 오기만 하면 억수같이 퍼붓는다,"""never~but""이 [~하기만 하면~한다]와 같이 ""but it pours""이 필연적 결과 상황을 나타내도록 번역되는가?",,,문법책-Hornby
+512,10109010508,"Between 1820 and 1974, 50 million people immigrated to the United States.",1820년에서 1974년 사이에 5천만 명이 미국에 이주했다.,"""between ~and ~""가 [~와 ~ 사이에]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+513,10109010600,He ate and ate until he could eat no more.,그는 더 이상 먹을 수 없을때 까지 계속 먹었다.," ""ate and ate""의 의미가 [계속 먹었다]와 같이 반복이나 연속의 동작으로 번역되었는가?",,,문법책-Hornby
+514,10109010700,He's a rich man and he has a lot of strange stamps.,그는 돈이 많은 사람이라서 이상한 우표를 많이 갖고 있거든.,"""and""이하가 [~해서~했다]와 같이 당연결과를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+515,10109010700,He was poor and could not buy it.,그는 가난해서 그것을 살수가 없었다.,"""and""이하가 [~해서~했다]와 같이 당연한 결과를 나타내도록 번역되었는가?",,,문법책-Hornby
+516,10109010800,She walk and sang.,그녀는 노래를 부르면서 걸었다.," ""and sang""가 [노래를 부르면서]로, 행동상태의 동시성을 나타내도록 번역되었습니까?",,,문법책-Hornby
+517,10109020100,The news that she died was a great shock.,그녀가 죽었다는 소식은 큰 놀라움이었다.,"[그녀가 죽었다는 소식]으로 ""that""이하와 ""the news""가 동일 사실로 번역되었습니까?",,,문법책-Hornby
+518,10109020100,That you are honest was proved by him.,당신이 정직하다는 것은 그에 의해 증명되었다.,"“that you are honest""가 [증명되었다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+519,10109020100,He is very happy except that his house is too small.,그는 자택이 너무 좁다는 것을 빼면 아주 행복하다.,"""that his house is too small""이 [자택이 좁다는 것을]로,  명사절로서 번역되었습니까?",,,문법책-Hornby
+520,10109020100,That he is guilty is certain.,그가 유죄라는 것은 확실하다.,"""That he is guilty""가 [그가 유죄라는 것은]과 같이 문장의 주어이면서 is  certain의 내용으로  번역이 되었습니까?",,,문법책-성문기본
+521,10109020100,The fact that he is poor is known to everybody.,그가 가난하다는 사실은 모두가 알고 있다.,"""The fact that he is poor~""가 [그가 가난하다는 사실]과 같이 ""that ~""이하와 ""the fact""가 동일 사실로 번역이 되었습니까?",,,문법책-성문기본
+522,10109020201,No ones been in the pen since you fed them.,네가 먹이를 준 후로는 아무도 우리 안에 들어간 적이 없다.,"""since~""가 [~한 이래로]와 같이 부사절로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+523,10109020201,"What comes to your mind when you hear the word ""poetry""?",시란 단어를 들을 때 어떤 생각이 떠오르는가?,"""when""이하가 [~일 때]와 같이 시간적 의미의 부사절로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+524,10109020201,I didn't appreciate my wife un'til I lost her.,아내를 잃을 때까지 그녀의 고마움을 몰랐다.,"""until~""이하가 [~할때까지]와 같이 [그녀의 고마움을 몰랐다]는 기간으로 번역되었습니까?",,,문법책-Hornby
+525,10109020201,"As soon as they entered the room, the bell stopped.",그들이 방으로 들어오자 마자 벨 소리가 멈추었다.,"""As soon as they entered~""가 [그들이 방으로 들어오자 ]라는 때로 번역되었습니까?",,,문법책-Hornby
+526,10109020201,People judge you the moment you speak.,사람들은 여러분이 말을 할 때 여러분을 판단한다.,"""the moment you speak"" [사람들이 말할때]로, ""the moment""가  시간적의미로 번역이 되었습니까?",,,문법책-맨투맨
+527,10109020201,No sooner had seen me than he ran away.,그는 나를 보자마자 도망쳤다.,"""No sooner~than""이[~하자마자]로 시간적 의미로 번역이 되었습니까?",,,문법책-맨투맨
+528,10109020202,I have no money because I bought a computer.,나는 컴퓨터를 샀기 때문에 돈이 전혀 없다.,[컴퓨터를 산]것이 [돈이 전혀 없는] 것의 원인이 되도록 번역되었습니까?,,,문법책-Hornby
+529,10109020202,In that he loved John he killed him.,그는 존을 사랑했기 때문에 그를 죽였다.,"""In that""이 [~했기 때문에]와 같이 이유를 나타내도록 번역되었는가?",,,문법책-Hornby
+530,10109020202,"As we were of the same opinion, the conference was a great success.",우리는 의견이 같았기 때문에 회의에서 커다란 성공을 거두었다.,"""As we were of the same opinion~""이 [우리는 의견이 같았기때문에]와 같이 ""as~""가 이유의 의미로 번역이 되었습니까?",,,문법책-성문기본
+531,10109020202,"Poets are drawn to them, for mountains are places of majesty.",시인은 산에 이끌리었다.왜냐하면 산은 장엄이 깃든 곳이기 때문이다.,"""for"" 이하가 [왜냐하면~]과 같이  앞문장 전체의 원인이 되도록 번역이 되었습니까?",,,문법책-맨투맨
+532,10109020203,These cans were designed so that they may keep the water inside.,이 캔들은 안쪽에 물을 담을 수 있도록 설계되었다.,"""so that~""이하가 [~할 수 있도록]과 같이 [설계되었다]의 목적으로 번역되었습니까?",,,문법책-Hornby
+533,10109020203,Go early in order that you may find her there.,거기에서 그녀를 만날 수 있도록 빨리 가세요.,"""In order that~""이하가 [거기에서 그녀를 만날 수 있도록]으로, 목적을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+534,10109020203,We must go out so that we may not miss the train.,우리는 기차를 놓치지 않기 위하여 밖으로 나가야만 했다.,"""so that~""이하가 [우리는 기차를 놓치지 않기 위하여]와 같이 [밖으로 나가야만 했다]의 목적으로 번역되었습니까?",,,문법책-Hornby
+535,10109020204,He is so tired that he cannot eat anything.,그는 매우 지쳐있었기 때문에 아무것도 먹을 수 없다.,"""so ~ that""이 [너무 ~ 해서 ~ 할수 없었다]로 [결과]로 번역되었습니까?",,,문법책-Hornby
+536,10109020204,She spoke so quickly that I couldn't understand.,그녀는 너무 빨리 이야기했기 때문에 나는 이해할 수 없었다.,[너무 빨리 이야기했기 때문에 이해할 수 없었다]라는 결과적 의미로 번역되었습니까?,,,문법책-Hornby
+537,10109020204,He was so excited that he could hardly speak.,그는 너무 흥분하고 있었기 때문에 거의 말을 할 수 없었다.,"[매우～해서 ～였다], 또는 [～할 정도로 ～했다]로, 정도를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+538,10109020204,"I paid her immediately, so that she left here satisfied.",내가 즉시 그녀에게 지불을 했기 때문에 그녀는 만족하고 여기를 떠났다.,"[지불을 했기 때문에 떠났다]로, 결과를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+539,10109020204,"He studied earnestly, so that he has progressed.",그는 성실히 공부를 했다.그래서 그는 향상되었습니다.,"""so that"" 이하가 [그래서~했다]와 같이 앞문장에 대한 결과로  번역되었습니까?",,,문법책-Hornby
+540,10109020205,"If I have to go to the doctor, Im going to go to Dr. Cook.",만약 의사를 찾아야 한다면 쿡 의사에게 갈 겁니다.,"""if절""이 [내가 의사에게 가야 한다면]으로 조건을 나타내는 것으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+541,10109020205,We will survive unless war breaks out.,전쟁이 일어나지 않는다면 우리들은 오래 살 것이다.,"""unless~""이하가 [전쟁이 일어나지 않는다면]과 같이 [오래 사는] 조건이 되도록 번역되었습니까?",,,문법책-Hornby
+542,10109020205,"In case I forget, please remind me of it.",내가 혹시 잊어버리면 그것을 생각나게 해주십시오.,"""In case ~""이하가 [내가 혹시 잊어버리면]과 같이 조건의 의미로 번역이 되었습니까?",,,문법책-성문기본
+543,10109020205,"Suppose I were going, should you be sorry?",내가 가버리면 당신은 섭섭하겠습니까?,"""Suppose~""가 [내가 가버리면]과 같이 조건의 의미로 번역이 되었습니까?",,,문법책-성문기본
+544,10109020205,"I agreed to engage him, provided he was a man of strong will.",그가 강한 의지력을 가진 사람이라면 채용하기로 동의했다.,"""provided ~""이하가 [그가 강한 의지력을 가진 사람이라면]과 같이 조건의 의미로 번역이 되었습니까?",,,문법책-성문기본
+545,10109020205,You may borrow the book so long as you keep it clean.,네가 책을 깨끗이 보기만 하면 빌려주마.,"""so long as ~""이하가 [네가 책을 깨끗이 보기만 하면]과 같이 조건의 의미로 번역이 되었습니까?",,,문법책-성문기본
+546,10109020205,I will accept the post on condition that you assist me.,네가 나를 돕는다면 그 자리를 받아들이겠다.,"""on condition that~""이하가 [네가 나를 돕는다면]과 같이 조건의 의미로 번역이 되었습니까?",,,문법책-성문기본
+547,10109020206,"Even if the earth were not curved, no one could see America from Korea.","설사 지구가 둥글게 휘어 있지 않다 하더라도, 아무도 한국에서 미국을 볼 수는 없을 것이다.","""even if""가[설사 ~이 아닐지라도]로 양보로 번역되었습니까?",,,영어교과서-고교ii-a-1
+548,10109020206,"Even so, money wasn't plen'tiful.",그렇게 해도 돈은 풍족치가 못했다.,"""even so,""가 [그렇다 할지라도,]로 양보로 번역되었습니까?",,,영어교과서-고교ii-a-1
+549,10109020206,One thing is certain no matter what your answers are.,당신의 답이 무엇이든지 간에 한 가지는 분명하다.,"""no matter what your answers are""이 [너의대답이 무엇일지라도]로 양보의 뜻을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+550,10109020206,"Whatever your results may be, don't be so serious about them.","그러나 당신의 결과가 무엇이든지 간에, 그것을 너무 심각하게 생각하지 마라.","""Whatever your results may be""가 [당신의 결과가 무엇이든간에]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+551,10109020206,"When my dinner was late, sir, it didn't matter much.",저의 저녁 식사가 늦어져도 그것은 별문제가 되지 않았거든요.,"""when~,""가 [~이더라도]로 양보의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+552,10109020206,You must not worry if you don't have any patient's.,환자가 없더라도 걱정해서는 안 됩니다.,"""if~""가 [~하더라도]로 양보를 나타내는 구문으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+553,10109020206,"He is very clever, though he doesn't look it.",비록 그가 그것을 보지 못했지만 그는 매우 영리하다.,""" though""절이 [비록 그가 그것을 보지 못했지만] 으로, 양보를 나타내도록 번역되었습니까?",,,문법책-Hornby
+554,10109020207,Then the man awakens as if from a dream.,그 뒤 그 사람은 마치 꿈에서 깨어나듯 눈을 뜬다.,"""as if~""가 [마치~인 것처럼]으로 양태를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+555,10109020207,See things like they are.,있는 그대로를 보세요.,"""like"" 이하가 [∼이듯이]로, 양태를 나타내도록 번역되었습니까?",,,문법책-Hornby
+556,10109020207,He was free to come and go as he wished.,사람은 자기가 원하는 대로 자유롭게 오고 갈 수 있었다.,"""as he wished""이 [사람은 자기가 원하는 대로]로 [그]의 양태를 나타내도록 번역이 되었습니까?",,,문법책-맨투맨
+557,10109020207,"Often they have hidden reasons for such behavior, as we see in this play.",흔히 그들은 우리가 이 희곡에서 보는 것처럼 그러한 행동에 대한 숨겨진 이유를 갖고 있다.,"""as ""가 [~는 것처럼]으로 양태를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+558,10109020208,As long as war is regarded as wicked it will always have its charm.,"전쟁이 사악한 것이라고 간주되는 한, 그것은 항상 매력을 가질 것이다."," ""As long as war is regarded as wicked"" 가 [전쟁이 사악한 것이라고 간주되는 한]과 같이 뒷문장에 대한 비교의 의미로 번역되었습니까?",,,문법책-맨투맨
+559,10109020208,"So long as your heart receives messages of beauty from men, so long you are young.","사람의 마음이 아름다움대한 계시를  인간으로부터 받고 있는 동안은, 사람은 그만큼 오랫동안 젊음을 간직할 수 있는 것이다.","""So long as "" 이하가 [~하는 한]과 같이 [사람은 그만큼 오랫동안 젊음을 간직할 수 있는 것이다]에 대한 제한의 의미로 번역되었습니까?",,,문법책-맨투맨
+560,10109020208,There are as many different poems as there are stars in the heavens.,하늘의 별들만큼이나 많은 시가 있다.,"""as ~ as~""가 [~만큼이나 ~한]으로 비교를 나타내는 부사절로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+561,10110010000,"Look at this stamp, Martin.","이 우표를 좀 보게, 마틴.",""",""로 연결된 ""this stamp""와 ""Martin""이 서로 동격이 아닌것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+562,10110010000,"Martin, Mr. Ramsay wants another drink.","마틴, 램지 씨에게 한 잔 더 드리게.","""Martin,""가 [마틴,]으로 마틴을 부르는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+563,10110010000,The same envelope!,바로 그 봉투군요!,문장이 [바로 그 봉투군요!]로 감탄문으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+564,10110010000,My name is Tom. Be my friend.,내 이름은 톰입니다. 친구가 되어 주세요.,"“My name is Tom""과 ""Be my friend""가 독립된 문장으로 번역되었습니까?",,,문법책-Hornby
+565,10110010000,He is taller than I. But he weighs less than I.,그는 나보다 키가 크다.그러나 그는 나보다 몸무게가 덜 나간다.,"잘못해서 "" than I""과 "" But he""가 나뉘어 지지 않고 번역되었습니까?",,,문법책-Hornby
+566,10110010000,Do you know that people often use skeletons to wash cars and windows?,당신은 사람들이 자동차는 창문을 소제하기 위하여 종종 해골을 사용하고 있음을 아는가?,"""?"" 를 물음표로 인식하고 의문문으로 번역이 되었습니까?",,,문법책-맨투맨
+567,10110020000,But six weeks later Dr. Akram still had only a few patients.,그러나 6주 후에도 아크람 의사는 여전히 단지 몇 명의 환자를 받은 정도였다.,"[아크람 의사]로 "".""가 문장을 나누지 않고, 번역되었습니까?",,,영어교과서-고교ii-a-1
+568,10110020000,For the second test Mrs. Retallack used music from two different radio stations.,두 번째 실험에서 레텔랙 부인은 두 개의 각기 다른 라디오 방송국에서 나오는 음악을 이용했다.,"""Mrs. Retallack""가 [레텔랙부인]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+569,10110020000,"Good evening, Mr. Amory.","안녕하십니까, 아모리 씨.","문장이 [안녕하십니까, 아모리씨 ]로 하나의 문장으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+570,10110020000,I am taller than J. Smith by 1.5 inch.,나는 J.스미스보다 1.5인치 크다.,전체가 하나의 문장으로 번역되었습니까?,,,문법책-Hornby
+571,10110020000,"John D. Rockefeller, the well-known millionaire, gave away millions.",유명한 백만 장자인 존 D. 록펠러는 수백만 달러를 희사했다.,"""John D. Rockefeller""을 [존 D. 록펠러]로 하나의 명사로 번역이 되었습니까?",,,문법책-맨투맨
+572,10110030000,They have pneumonia-related diseases.,그들은 폐렴에 관련된 병에 걸려 있다.," ""pneumonia-related""를 [폐렴에 관련된]로, 하이픈 전후의 단어의 합성어로서 번역되었습니까?",,,문법책-Hornby
+573,10110030000,I had a toast-and-butter lunch.,나는 토스트와 버터를 점심으로 먹었다.,"""toast-and-butter""가 [토스트와 버터의]로, 하이픈으로 나뉘어진 각 단어가 한국어화되어 전체적으로 의미를 알 수 있도록 번역되었습니까?",,,문법책-Hornby
+574,10110030000,"Since that time, man-made sponges have replaced natural ones for many uses.","그 이후로, 인조의 스폰지가 여러 가지 용도에 쓰이기 위해 천연의 스폰지를 대신해왔다.","""man-made""가 [인조의]로 하이픈 전후의 단어가 합성어로 번역이 되었습니까?",,,문법책-맨투맨
+575,10110030000,A well-known doctor was walking through the streets of London one evening.,어느 유명한 의사가 저녁때에 런던 거리를 따라 걸어가고 있었다.,""" well-known"" 가 [유명한]으로 하이픈 전후의 단어가 합성어로 번역이 되었습니까?",,,문법책-맨투맨
+576,10110030000,A country's economic well-being depend in no small measure upon her skill in communicating with the rest of the world.,한 나라의 경제적인 번영과 국제 문제에 있어서의 그 나라의 역할은 나머지  세상과 통신하는 기술에 크게 좌우된다.," "" well-being"" 가 [번영]으로 하이픈 전후의 단어가 합성어로 번역이 되었습니까?",,,문법책-맨투맨
+577,10110040000,And all that cury-it smells terrible.,그리고 온통 그 카레 요리-그것은 지독한 냄시가 나지요.,"""대시""이하가 앞의 명사를 설명하는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+578,10110040000,Fifteen minutes later - it seemed like hours to Mrs. Evans - the baby opened her eyes.,15분 후에 - 그 시간이 에반스 부인에게는 몇 시간이나 되는 것 같았다 - 그 아기는 눈을 떴다.,"""-""(대시)사이의 절이 ""fifteen minutes later""을 부가 설명하는 것으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+579,10110040000,She planted both garden and house plants - some vegetables and some flowers.,그녀는 원예식물과 실내용 식물들 - 약간의 채소들과 약간의 꽃들 - 을 심었다.,"대시(dash)이하가 앞의 ""both garden and house plants""를 부연설명하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+580,10110040000,I do not shrink from this responsibility -- I welcome it.,나는 이 책임을 회피하지 않습니다. 나는 그것을 환영합니다.,대쉬가 전후의 상반되는 두 문장을 접속하는 의미로 번역이 되었습니까?,,,문법책-맨투맨
+581,10110050000,"It is difficult to talk about ""typical"" Americans.","""전형적인"" 미국인들에 관해서 이야기하기란 어렵다.","""typical""이 [""전형적인""]으로 강조의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+582,10110050000,"It was ""a worst-case"" scenario.",그것은 「최악의」 시나리오였다.,"""a worst-case""부분이 강조되어 번역되었습니까?",,,문법책-Hornby
+583,10110050000,"My aunt says to me, ""You are a beautiful girl.""","나의 고모는 나에게 말합니다. ""너는 아름다운 소녀다.""","""You are a beautiful girl.""이 [""너는 아름다운 소녀이다""]와 같이 "" ""[더블쿼테이션]내의 내용이 대화 내용임을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+584,10110050000,"I called on a friend who had just put up a sign ""Apartment for Rent. No children.""","나는 ""아파트 세 놓음. 어린이가 있는 분은 사절."" 이라는 간판을 방금 걸어 놓았던 한 친구를 방문했다.","""Apartment for Rent. No children""부분이 강조되어 번역되었습니까?",,,문법책-맨투맨
+585,10110060000,The package currently supports the 'standard' protocols.,패키지는 현재 『표준적인』 프로토콜을 서포트하고 있다.,[표준적인]이 강조된 형태로 번역되었습니까?,,,문법책-Hornby
+586,10110060000,Mountains are nature's most spectacular work upon this earth.,산은 이 지구상에서 자연의 가장 장엄한 작품이다.,"""nature's most spectacular work"" [자연의 가장 장엄한 작품]으로 소유격으로 번역이 되었습니까?",,,문법책-맨투맨
+587,10110070000,Some poems are short; others are very long.,짧은 시도 있고 대단히 긴 시도 있다.,"""세미콜론""다음이 부연 설명을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+588,10110070000,The yield fell to 9.57% from 12.31%; the compound yield fell to 10.26% from 14.23%.,이익은 12.31%에서 9.57%로 떨어졌다. 복합이익은 14.23%에서 10.26%로 떨어졌다.,;의 전후가 독립된 문장으로 번역되었습니까?,,,문법책-Hornby
+589,10110070000,Some people like wrestling; others do not.,"어떤 사람들은 레슬링을 좋아하는데, 다른 사람들은 싫어한다.",;(세미콜론)전후의 문장이 대조적인 의미를 가진 독립된 문장으로 번역이 되었습니까?,,,문법책-성문기본
+590,10110070000,Four of them like it; the others do not.,그들 중 4명은 그것을 좋아하나 나머지 다른 사람들은 싫어한다.,;(세미콜론)전후의 문장이 대조적인 의미를 가진 독립된 문장으로 번역이 되었습니까?,,,문법책-성문기본
+591,10110070000,Youth is not a time of life ; it is a state of mind.,"청춘이란 인생의 어느 시기를 말하는 것이 아니고, 마음의 상태를 말하는 것이다.",세미콜론 전후가 대조적 의미로 번역이 되었습니까?,,,문법책-맨투맨
+592,10110070000,His father was a hardworking blacksmith ; his mother was almost illiterate.,"그의 아버지는 열심히 일하는 대장장이였으며, 그의 어머니는 거의 문맹자였다.",세미콜론이 전후의 두 문장을 접속하는 의미로 번역이 되었습니까?,,,문법책-맨투맨
+593,10110080000,"You may ask: ""I want to read in English, but my English is not very good. What can I do?""","여러분은 이렇게 질문할른지 모른다. ""영어로 읽고 싶지만 내 영어가 시원치 않아. 어떻게 하지?""",""":이하""가 앞의 언급한 것의 내용을 설명하는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+594,10110080000,Mah-jong: one of the most popular games in Korea.,마작 : 한국에서 가장 인기가 있는 게임의 하나.,": 이하가 ""Mah-jong""을 설명해주는 형태로 번역되었습니까?",,,문법책-Hornby
+595,10110080000,"But the peasant replied : ""I'm sorry, but I cannot give it to you.""","그러나 농부는 ""죄송하지만 그걸 당신에게 드릴 수 없어요.""하고 대답했다.",콜론 이하의 문장이 [농부가 대답하다]에 대한 내용의 설명이 되도록 번역이 되었습니까?,,,문법책-맨투맨
+596,10110080000,"One evening a farmer came  to the observatory and  said: ""I've  come here to see the moon through the telescope.","""어느 날 저녁 한 농부가 관상대로 와서 이렇게 말했다. ""저는 망원경을 통해서 달을 구경하려고 여기에 왔습니다.""",콜론 이하의 문장이 [말했다]에 대한 말한 내용의 설명이 되도록 번역이 되었습니까?,,,문법책-맨투맨
+597,10110090000,Many people assumed (incorrectly) that we were gaining much more than that company.,많은 사람들은 우리들이 그 회사보다 더 이익을 얻고 있다고 (잘못)생각하였다.,"[많은 사람들이 (잘못) 생각하고 있었다]로, [잘못]이 괄호 상당의 기호로 둘러싸여 번역되었습니까?",,,문법책-Hornby
+598,10110100000,And on that day....,그래서 그 날....,"""...""가 [...]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+599,10110110000,He's done a lot of work here lately.,그는 근래에 여기서 일도 많이 했다.,문장이 현재완료로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+600,10110110000,That is Susie's house.,저것이 수지의 집이다.,"""Susie's""가 [수지의]로 소유격으로 번역되었습니까?",,,문법책-Hornby
+601,10110110000,My brother's going to see you.,형이 당신을 만나려고 하고 있습니다.,"""My brother's""가 [형이 ∼하고 있습니다]로, ""My brother is""의 생략형으로 번역되었습니까?",,,문법책-Hornby
+602,10201010100,To see him today is almost impossible.,오늘 그를 만나는 것은 거의 불가능하다.,"“To see him""이 [그를 만나는 일]로 주어로 번역되었습니까?",,,문법책-Hornby
+603,10201010100,To learn a foreign language is not so easy as you think.,외국어를 배우는 것은 당신이 생각하는 것만큼 쉽지 않다.,"“To learn a foreign""이 [외국어를 배우는 것은]으로 주어로 번역되었습니까?",,,문법책-Hornby
+604,10201010100,"Years wrinkle the skin, but to give up enthusiasm wrinkles the soul.","세월이 흐름에 따라서 주름살이 지기는 하지만, 정열을 잃어버리는 것은 정신을 시들어 버리게한다.","""to give up enthusiasm"" [정열을 잃어버리는 것은]으로 주어로 번역이 되었습니까?",,,문법책-맨투맨
+605,10201010100,To be good does not merely  mean to be obedient and harmless.,선하다는 것은 단지 순종적이고 악의 없는 것을 의미하지는 않는다.,"""To be good"" [선하다는 것은]으로 주어로 번역이 되었습니까?",,,문법책-맨투맨
+606,10201010200,All Burke ever wanted to do was to train his new pony.,버크가 하고 싶어했던 것은 오직 자기의 새 조랑말을 훈련시키는 것뿐이었다.,"""to train~""가 ""all""에 대한 보어로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+607,10201010300,You forgot to fasten the chain on the gate.,너는 문에 사슬을 매는 것을 잊었어.,"""forget to fasten""이 [~는 것을 잊다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+608,10201010300,Do you want to go?,당신은 가기를 원합니까?,"""to go""가 [원하다]의 내용으로서 번역되었습니까?",,,문법책-Hornby
+609,10201010300,Every boy and girl is taught to read and write.,"모든 소년, 소녀는 읽고 쓰는 것을 배운다."," ""to read and write""가 [읽고 쓰는것을]과 같이 ""be taught""의 내용(목적어)가 되도록 번역이 되었습니까?",,,문법책-성문기본
+610,10201010300,"Finding one day that it was stolen, he began to tear his hair, and loudly cry.","어느 날 그것이 도난당했다는 것을 알고서, 그는 머리를 쥐어뜯으면서 큰 소리로 울기 시작했다.","""began to tear "" [울기 시작했다]로 to부정사 이하가  목적어로 번역이 되었습니까?",,,문법책-맨투맨
+611,10201020100,He became the first black man in American history to hold a high position in the U.S. State Department.,그는 미 국무성의 고위직을 맡은 미국 역사상 최초의 흑인이 되었다.,"""to hold a high position""이 [고위직을 맡은]으로 ""the first black man""을 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+612,10201020100,They need time to get used to a new doctor.,그들은 새 의사에게 익숙해질 시간이 필요하지요,"""to get used to""가 [익숙해질]로 ""time""을 수식하는 부정사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+613,10201020100,He is not a man to betray us.,그는 우리들을 배신할 것 같은 사람은 아니다.,"“man to betray""가 [배신할 것 같은 사람]으로, 부정사와 그 의미상의 주어를 나타내는 피수식명사로 번역되었습니까?",,,문법책-Hornby
+614,10201020100,I had a chance to get away.,나에게는 도망칠 기회가 있었다.,"""a chance to get away""가 [도망칠 기회]로, 부정사와 그 내용 설명을 나타내는 피수식명사로 번역되었습니까?",,,문법책-Hornby
+615,10201020100,I have enough money to buy a car.,나는 차를 사기에 충분한 돈을 가지고 있다.,"""enough money to buy a car""가[차를 사기에 충분한 돈]으로 [ to부정사의 형용사적용법]으로 번역되었습니까?",,,문법책-Hornby
+616,10201020100,"I have something to tell you, Johncy.","존시, 나는 네게 들려줄 말이 있어.","“something to tell ""가 [들려줄 어떤말]로, 부정사와 그 내용 설명을 나타내는 피수식명사로 번역되었습니까?",,,문법책-맨투맨
+617,10201020200,"As a Seoul newspaper commented, the 1988 Seoul Olympics were to mark a new chapter in Korean history.","서울의 어느 신문이 논평했듯이, 1988년 서울 올림픽은 한국 역사에서 새로운 장을 열게 될 것이었다.","""were to mark a new chapter""가 [새로운 장을 열게 될것이다 ]로 be to 용법으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+618,10201020200,We are to meet her here.,우리들은 여기에서 그녀를 만나기로 되어 있다.,"“are to meet""가 [만나기로 되어 있다]로, 예정으로 번역되었습니까?",,,문법책-Hornby
+619,10201020200,This is not to be found in America.,이것은 미국에서는 볼 수 없다.,"""is not to be found""가 [볼 수 없다]로 불가능한 사태로서 번역되었습니까?",,,문법책-Hornby
+620,10201020200,We are to clean this room by noon.,우리는 정오까지 이 방을 청소해야만 한다.,"“are to clean""가 [청소해야만 한다]로, 의무로 번역되었습니까?",,,문법책-Hornby
+621,10201020200,He was never to see his friend again.,그는 다시는 그의 친구를 보지 못할 운명이였다.,"“was never to see""가 [보지 못할 운명이였다]로, 운명의 내용으로 번역되었습니까?",,,문법책-Hornby
+622,10201020200,We're to be married in May.,우리는 5월에 결혼하기로 되어 있다.,"BE동사+TO부정사(구)가 [∼하기로 되어 있다]로, 예정의 의미를 나타내도록 번역되었습니까?",,,문법책-Hornby
+623,10201020200,Brother leaned over and told me that I was to use the spoon only to stir with.,형님은 몸을 구부리고서 나에게 다만 젓기 위해서만 찻숟갈을 사용해야 된다고 말했다.,"""was to use""가 [사용해야만 한다]로 의무의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+624,10201030100,A crowd gathered to watch them when they held the bag above a hot fire.,그들이 뜨거운 불 위로 그 자루를 들어 올리자 그들을 지켜보기 위해 군중들이 모였다.,"""to watch""가 [지켜보기 위해]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+625,10201030100,"As he rides along the country road in the snow, he stops his horse to watch the woods.",눈이 오는 시골길을 따라 말을 타고 가다가 그는 숲을 구경하기 위해서 말을 멈추게 한다.,"""stop~ to""가 [~기 위해 멈추다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+626,10201030100,His mother came to look.,그의 엄마도 보러 오셨다.,"""came to see""가 [보러왔다]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+627,10201030100,I ran into the house to see her.,저는 그녀를 보기 위해서 집으로 뛰어들어갔습니다.,"""to see""가 [보기 위해서]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+628,10201030100,Many people came out to welcome the visitor.,많은 사람들이 그 내방객을 환영하러 나왔다.,"""came out to~""가 [~러 나왔다]로 ""to""부정사가 목적을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+629,10201030100,Occasionally they use them to save time.,때때로 그들은 시간을 절약하기 위해서 그들을 이용합니다.,"""to save time""이 [시간을 절약하기 위해서]로 목적을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+630,10201030100,To answer these questions you must know something about the history of the country.,이런 질문에 답하기 위해서는 그 나라의 역사에 관해서 얼마간을 알아야 한다.,"""To answer these questions""가 [이러한 질문에 답하기 위하여]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+631,10201030200,He was lucky not to have been killed.,그가 죽지 않은 것은 다행이었다.,"[죽지 않은 것은 다행이다]로 이유, 판단의 근거로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+632,10201030200,"To hear him talk, one would take him for an American.",말하는 것을 들으면 그가 미국인이라고 생각할 것이다.,"""to hear""가 [들으면]으로, 주동사의 조건, 가정을 나타내는 부정사로 번역되었습니까?",,,문법책-Hornby
+633,10201030200,He was a fool to say so.,그런 식으로 말하다니 그도 바보였다.,"""to say so""가 [그런 식으로 말하다니]로, ""He was a fool""이라고 하는 문장을 수식해서 그 이유나 판단의 근거를 나타내도록 번역되었습니까?",,,문법책-Hornby
+634,10201030300,I was very sorry to lose that envelope.,나는 그 봉투를 잃어버려 아주 섭섭했습니다.,"[봉투를 잃어버려서]로 ""to~""가 ""sorry""의 이유로 번역되었습니까?",,,영어교과서-고교ii-a-1
+635,10201030300,I'm glad to hear it.,그 말을 들으니 기쁘군요.,"""to hear""가 ""glad""의 원인으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+636,10201030300,I was sorry to hear of his failure.,나는 그의 실패를 듣고 유감스러웠다.,"""sorry to hear""가 [듣고 유감]으로 ""to hear""가 ""sorry""(감정)의 원인으로 번역되었습니까?",,,문법책-Hornby
+637,10201030300,I was surprised to hear the news.,나는 그 소식을 듣고 놀랐다.,[소식을 듣다]가 [놀라다]의 원인으로  번역되었습니까?,,,문법책-Hornby
+638,10201030300,We are happy to have nuclear weapons to use in a war.,우리는 전쟁에서 쓸 핵무기를 갖게 되어서 기쁘다.,"are happy to have nuclear weapons 가 [무기를 갖게 되어서 기쁘다]로 "" to have nuclear weapons ""이 ""happy""(감정)의 원인으로 번역되었습니까?",,,문법책-맨투맨
+639,10201030400,I should be glad to live with you.,당신과 함께 살 수 있다면 나는 기쁠 것이다.,"""to live""가 [살 수 있다면]으로 조건이나 가정으로 번역되었습니까?",,,문법책-Hornby
+640,10201030500,She will grow up to be a fine woman.,그녀는 성장해서 멋진 여성이 되었다.,[성장하다]와 [멋진 여성이 되다]가 [∼하니 ∼하였다] 또는 [∼해서 ∼하였다]로 계속되는 동작으로 번역되었습니까?,,,문법책-Hornby
+641,10201030500,"He worked very hard, only to fail in business.",그는 열심히 일했지만 결국 사업에 실패한데 지나지 않았다.,"“only to fail""이 [결국 실패한데 지나지 않았다]로 결과로 번역되었습니까?",,,문법책-Hornby
+642,10201030500,She turned around to see the door opening.,그녀는 주위를 돌아보자 마자 문이 열려있는 것을 알았다.,"""turned around to see""가 [돌아보자 알았다]로, 결과처럼 번역되었습니까?",,,문법책-Hornby
+643,10201040000,He appeared to buy the book.,그는 책을 사는 것처럼 보였다.,"“to buy""가 [사는 것처럼 보였다]로 [사다]와 [보이다]가 동시에 일어난 사건으로 번역되었습니까?",,,문법책-Hornby
+644,10201050000,He worked so hard as to be successful in business.,그는 열심히 일했기 때문에 사업에서 성공하였다.,"""worked so hard as to be successful""이 [열심히 일했기 때문에 성공했다]로 [열심히 일했던] 것이 [성공했다]의 이유로 번역되었습니까?",,,문법책-Hornby
+645,10201050000,You are too old to run.,당신은 너무 늙어서 달릴 수 없다.,"""too old to run""이 [너무 늙어서 달릴 수 없다]로 [늙은 것]이 [달릴 수 없다]의 원인으로 번역되었습니까?",,,문법책-Hornby
+646,10201050000,Mary speaks clearly enough to be understood by everybody.,메리는 모두가 이해할 수 있을 정도로 확실한 말투로 말한다.,"[∼하는데 충분할 정도로 ∼이다]라고 하는, 정도의 표현으로 번역되었습니까?",,,문법책-Hornby
+647,10201050000,He shouted so loud as to have a sore throat.,그는 목이 아플 만큼 큰 소리로 외쳤다.,[목이 아플 정도로 큰 소리로]의 의미로 번역되었습니까?,,,문법책-Hornby
+648,10201050000,The problem is too difficult for me to solve.,그 문제는 너무나 어렵기 때문에 나는 해결할 수 없다.,[너무 어려웠기 때문에 해결할 수 없다]의 의미로 번역되었습니까?,,,문법책-Hornby
+649,10201050000,This machine is small enough to carry around at all times.,이 기계는 항상 휴행(携行)할 수 있을 정도로 작다.,[항상 휴행할 수 있을 정도로]의 의미로 번역되었습니까?,,,문법책-Hornby
+650,10201050000,He went out in order to play.,그는 놀기 위해 외출했다.,"“in order to play""가 [놀기 위해]로, 주동사의 목적을 나타내는 부정사로 번역되었습니까?",,,문법책-Hornby
+651,10201060000,His death made her cry.,그의 죽음이 그녀를 울렸다.,"“made her cry""가 [그녀를 울렸다]로 번역되었습니까?",,,문법책-Hornby
+652,10201060000,I felt the leaf tremble in the wind.,나는 잎이 바람에 흔들리는 것을 느꼈다.,"""felt the leaf tremble""이 [잎이 흔들리는 것을 느꼈다]로 번역되었습니까?",,,문법책-Hornby
+653,10201060000,You had better see a doctor.,당신은 의사에게 가는 편이 좋다.,"""had better see a doctor""가 [의사에게 가는 편이 좋다]로 번역되었습니까?",,,문법책-Hornby
+654,10201070000,I opened the door for her to enter.,나는 그녀가 들어갈 수 있도록 문을 열었다.,[그녀]가 [들어가다]의 주어가 되도록 번역되었습니까?,,,문법책-Hornby
+655,10201070000,It is natural for him to get angry.,그가 화내는 것은 당연하다.,[그]가 [화내다]의 주어가 되도록 번역되었습니까?,,,문법책-Hornby
+656,10201070000,Twenty miles is a good distance for him to walk in a day.,20 마일은 그가 꼬박하루에 걷기에 좋은 거리이다.,"""for him to walk""가 [그가 걷기에]와 같이 ""for him""이 주어처럼  번역이 되었습니까?",,,문법책-성문기본
+657,10201070000,"For durable peace to be established, we need a fundamental basis of mutual understanding.","지속적인 평화가 확립되기 위해서, 우리는 상호간의 이해라는 근본적인 기초를 필요로 한다.","""For durable peace""가 [지속적인 평화가]로 문장의 주어로 번역이 되었습니까?",,,문법책-맨투맨
+658,10202010100,Her teacher thought she should try experiments using music.,그녀의 선생은 그녀가 음악을 이용한 실험을 해 보아야 한다고 생각했다.,"""experiments using music""이[음악을 이용한 실험]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+659,10202010100,The following passage tells you something about the history of the United States.,다음 글은 미합중국의 역사에 관한 것을 이야기해 준다.,"""following""이 [다음에 오는]의 의미로 현재분사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+660,10202010100,The plants growing in silence were straight and grew well.,정적속에서 자라난 식물은 곧고 잘 자랐다.,"""growing in silence""가 [정적속에서 자란 식물]로 ""the plants""를 수식하는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+661,10202010100,I know a person working for that company.,나는 그 회사에서 일하고 있는 사람을 알고 있다.,"""person""이 [그 회사에서 일하고 있는 사람]으로 [일하다]의 의미상의 주어로 번역되었습니까?",,,문법책-Hornby
+662,10202010100,"It should be a direct feeling, springing naturally from a healthy soul.",그것은 건강한 사람에게서  자연스럽게 발생하는 솔직한 감정이어야 한다.,"""feeling, springing""  [발생하는 감정]으로 ""springing""이 ""feeling""을  수식하는 형태로 번역이 되었습니까?",,,문법책-맨투맨
+663,10202010100,A strange lady giving an address in Zurich wrote him a proposal., 발신인 주소를 쮜리히로 적은 어떤 낯선 여인이  그에게 청혼 편지를 보냈다.,"""A strange  lady giving  an address ""  [주소를 적은 낯선 여인]으로  [낯선 여인]을 수식하도록 번역되었습니까?",,,문법책-맨투맨
+664,10202010100,He saw the brown and drying leaves at his feet.,그는 자기 발 아래에 있는 갈색의 마른 잎을  보았다.," ""drying leaves""가  [마른 잎]으로 번역이 되었습니까?",,,문법책-맨투맨
+665,10202010200,The dying are more valuable than the living.,죽어가는 자는 살아있는 자보다 귀중하다.,"""the dying""이 [죽어가는 자], ""the living""이 [살아있는 자]로, 복수명사로 번역되었습니까?",,,문법책-Hornby
+666,10202010300,"""In that air-raid shelter. Hide in there until we call you. No one will come to our house looking for you.""",저 방공호 안으로. 우리가 부를 때까지 거기에 숨어 있어요. 어느 누구도 당신들을 찾으러 우리집에는 오지 않을 테니까.,"""looking for""가 [찾으려고]로 분사의 부사적 용법으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+667,10202010300,It is freezing cold today.,오늘은 얼 듯이 춥다.,"""is freezing cold""가 [얼 듯이 춥다]로 [춥다]를 수식하도록 번역되었습니까?",,,문법책-Hornby
+668,10202010400,"Considering his age, he is very active.",나이를 생각하면 그는 아주 건강하다.,"""considering""이 [∼을 생각하면]으로 번역되었습니까?",,,문법책-Hornby
+669,10202020100,"""Irene,"" she said in a choked voice.",아이린 하고 그녀는 목메인 소리로 말했다.,"""choked""가 [목메인]으로 ""voice""를 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+670,10202020100,My grandfather brought a package wrapped tightly with oiled paper.,할아버지는 기름종이로 단단히 포장한 꾸러미 하나를 가지고 오셨다.,"""wrapped tightly~""가 ""package""를 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+671,10202020100,The Lost Stamp,잃어버린 우표,"""lost""가 [잃어버린]으로 ""lose""의 과거분사 형태로 ""stamp""를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+672,10202020100,This is product designed in Korea.,이것은 한국에서 설계된 제품이다.,"“a product designed""가 [설계된 제품]으로 과거의 사건으로 번역되었습니까?",,,문법책-Hornby
+673,10202020100,German is a language spoken in this country.,독일어는 이 나라에서 사용되는 언어이다.,"""a language spoken""이 [사용되는 언어]로, 현재의 습관·진리로 번역되었습니까?",,,문법책-Hornby
+674,10202020200,"In stanza two, this imagined question arises only as a feeling within the man.",둘째 연에서는 이 상상된 질문이 작중 화자의 내면에서 느낌으로서만 제기되고 있다.,"""imagined""가 [상상된]으로 과거분사로서 ""question""을 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+675,10202020200,He had to use his television set as a screen and stored data on audiocassettes.,그는 그의 TV세트를 스크린으로 사용하지 않으면 안되어서 데이터를 오디오카세트에 격납하였다.,"""stored data""가 [데이터를 격납하였다]로 과거의 사항으로 번역되었습니까?",,,문법책-Hornby
+676,10202020200,The coffee served by the French waiter was hot and bitter.,프랑스인 급사가 가지고 온 커피는 뜨겁고 맛이 썼다.,"""The coffee served "" [가지고 온 커피]로 [커피]를 수식하면서 수동의 관계로 번역이 되었습니까?",,,문법책-맨투맨
+677,10202020200,The moonlight reflected by the leaves looked like spots of silver., 나뭇잎에 반사된 달빛은 마치 은빛 점들과도 같았다.,""" the moonlight reflected by the leaves "" [나뭇잎에 반사된 달빛][달빛]과 수동의 관계로 번역이 되었습니까?",,,문법책-맨투맨
+678,10202030101,"After seeing what music did to plants, she wanted to learn more.",음악이 식물에 대해 하는 바를 보고 나서 그녀는 더 알고 싶어졌다.,"""After seeing~""가 [~한바를 보고나서]와 같이 때의 의미를 나타내는 분사구문으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+679,10202030101,"arriving at the station, she found that the bus had already left.","역에 도착했을 때, 그녀는 버스가 이미 출발했다는 것을 알아차렸다.","“Arriving""이 [도착했을 때]로, 때를 나타내는 분사구문으로 번역되었습니까?",,,문법책-Hornby
+680,10202030101,"Walking along the street, I met a friend of mine.",거리를 걷다가 나는 내 친구를 만났다.,"""Walking along the street""가 [거리를 걷다가]와 같이 때를 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+681,10202030101,"Left alone, I began to read.",혼자 남겨졌을 때 책을 읽기 시작했다.,"""Left alone~""가 [혼자 남겨졌을때]와 같이 시간적인 의미로 번역이 되었습니까?",,,문법책-성문기본
+682,10202030101,"Looking behind him, we saw a young couple with anxious but hopeful faces.","그 꼬마 뒤를 보았을 때, 우리는 걱정하면서도 희망에 넘치는 표정의 한 젊은 부부를 보았다.","""Looking behind him""가 [그 꼬마가 뒤를 보았을때]로 ""looking""이 때를 나타내는 분사구문으로 번역이 되었습니까?",,,문법책-맨투맨
+683,10202030102,"However, poetry, being a special way of speaking, has a special way of making sense.",그러나 시는 의사를 전달하는 독특한 방법이기 때문에 의미가 통하는 독특한 방법을 가지고 있다.,분사구문이 [~이기 때문에]라고 이유를 나타내도록 번역되었습니까?,,,영어교과서-고교ii-a-1
+684,10202030102,"Then, I sat up straight, jolted by what I was hearing.",그 순간 나는 내가 들은 내용에 충격을 받고 앉은 자세를 바로했다.,"""jolted by what I was hearing""가 [내가 들은 것에 충격을 받고]로 이유를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+685,10202030102,"Not knowing what to do, she asked me for help.",무엇을 해야 하는지 알지 못했기 때문에 그녀는 나에게 도움을 청했다.,"""Not knowing""이 [알지 못했기 때문에]로 이유의 분사구문으로 번역되었습니까?",,,문법책-Hornby
+686,10202030103,"Turning to the left, you will find the park.",왼쪽으로 돌면 공원을 발견할 것이다.,"""Turning""이 [돌면]으로 조건의 분사구문으로 번역되었습니까?",,,문법책-Hornby
+687,10202030103,"Following step (13), (15) can be postponed until tomorrow.",스텝(13)에 따르면 (15)는 내일로 연기할 수 있다.,"""Following step(13)""이 [스텝(13)에 따르면]으로 조건을 나타내는 절로 번역되었습니까?",,,문법책-Hornby
+688,10202030103,"Tired, I went to bed early.",피곤해서 일찍 자러 갔다.,"""Tired~""가 [피곤해서~했다]와 같이 이유를 나타내는 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+689,10202030103,"Turning to the right, you will find the post-office.",오른쪽으로 돌면 우체국이 있을 것입니다.,"""Turning to the right,~""가 [~하면~할것이다]와 같이 조건의 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+690,10202030103,"Some books, read carelessly, will do more harm than good.","어떤 책들은, 부주의하게 읽으면, 이익보다는 해가 된다.",""" read carelessly""가 [부주의하게 읽으면]과 같이 조건의 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+691,10202030104,"Acknowledging what you say, I still can't believe it.","당신이 말하는 것은 알겠는데, 나는 아직 그것을 믿을 수 없다.","""Acknowledgin""이 [알겠는데]로 양보의 분사구문으로 번역되었습니까?",,,문법책-Hornby
+692,10202030104,"Admitting what you say, I still don't believe it.",네가 말한 것을 인정은 하지만 나는 여전히 그걸 믿을 수 없다.,"""Admitting~, I still don't believe""가 [~한것은 인정은 하지만~나는 믿을 수 없다]와 같이 ""admitting""이하가 양보의 의미로 번역이 되었습니까?",,,문법책-성문기본
+693,10202030104,"Born of the same parents, they bear no resemblance to each other.","같은 부모에게서 태어났지만, 그들은 서로 닮은 데가 없다.","""Born of the same parents~"" 가 [같은 부보에게서 태어났지만~닮은데가 없다]와 같이 양보의 의미로 번역이 되었습니까?",,,문법책-성문기본
+694,10202030105,"""Be quiet, Steve,"" said his mother knitting her brows.","""조용히 해, 스티브"" 하고 그의 어머니는 눈살을 찌푸리면서 말했다.","""knitting her brows""가 [눈쌀을 찌푸리면서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+695,10202030105,"""It still isn't fair,"" he muttered, kicking the veranda railing.","그는 베란다의 난간을 발길로 차면서 ""아무래도 불공평한 일이야,"" 라고 중얼거렸다.","""kicking~""가 [~을 발로 차면서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+696,10202030105,"""Oh, Dr. Akram?"" said Mrs. Evans, surprised.","아, 아크람 의사요? 에반스 부인이 놀라서 말했다.","""surprised""가 [놀라서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+697,10202030105,"Our train starts at six, arriving in Paris at ten.",우리들의 열차는 6시에 출발해서 10시에 파리에 도착한다.,"""starts∼, arriving""이 [출발해서 ∼도착한다]로, 계기(繼起)의 분사구문으로 번역되었습니까?",,,문법책-Hornby
+698,10202030105,"Walking on tiptoe, I approached the window.","발끝으로 살살 걸어, 나는 창가에 다가갔다.","""Walking on tiptoe~""가 [발끝으로 살살걸어~했다]와 같이 동시동작을 나타내는 부대상황으로 번역이 되었습니까?",,,문법책-성문기본
+699,10202030105,"Singing and dancing together, we had a good time.",함께 노래하며 춤추며 우리는 재미있게 놀았다.,"""Singing and dancing~""가 [노래하며 춤추며] 와 같이 동시동작을 나타내는 부대상황으로 번역이 되었습니까?",,,문법책-성문기본
+700,10202030105,"I blushed and then retreated, saying I felt seasick.","나는 얼굴을 붉히고서, 뱃멀미가 난다고 말하면서 물러났다."," "" saying I felt seasick""이 [뱃멀미가 난다고 말하면서]로 ""saying""이하가 부대상황을 나타내는 분사구문으로 번역이 되었습니까?",,,문법책-맨투맨
+701,10202030200,"Night coming on, we started to the trip.",밤이 오고 우리들은 여행하러 출발했다.,"""Night coming on""이 [밤이 오고]로 번역되었습니까?",,,문법책-Hornby
+702,10202030200,"The sun having set, we gave up looking for them.",해가 지자 우리는 그들을 찾는 것을 포기했다.,"""The sun having set""이 [해가 지자]와 같이 시간적의미의 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+703,10202030200,"It being fine, we went for a walk.",날씨가 좋아서 우리는 산책하러 나갔다.,"""It being fine~""가 [날씨가 좋아서~했다]와 같이 원인의 의미를 표현하는 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+704,10202030200,"We shall start tomorrow, weather permitting.",날씨가 허락한다면 내일 출발할 것이다.,"""weather permitting""가 [날씨가 허락된다면]과 같이 조건의 의미를 가진 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+705,10202030200,"He was reading a book, his wife knitting beside him.","그는 책을 읽고 있었고, 그의 부인은 남편 옆에서 뜨게질을 하고 있었다.","""his wife knitting~""가 [그의 부인은 남편 옆에서 뜨게질을 하고 있었다]와 같이 분사구문으로 번역이 되었습니까?",,,문법책-성문기본
+706,10203020000,He greeted the king and continued digging.,그는 임금에게 인사를 하고는 땅 파는 일을 계속했다.,"""digging""이 [땅파는 것]으로 동명사로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+707,10203020000,People seem to love spreading bad news.,사람들은 나쁜 소식을 퍼뜨리기를 좋아하는 것 같다.,"""spreading bad news""가 [나쁜소식을 퍼트리는것]으로 ""love""의 목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+708,10203020000,Why then did the poet choose to avoid saying it?,그러면 왜 이 시인은 그렇게 말하는 것을 굳이 피하였는가?,"""saying it""이 ""avoid""의 목적어로 [그것을 말하는 것]이라고 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+709,10203020000,Smoking is bad for the health.,흡연하는 것은 건강에 나쁘다.,"“Smoking""이 [흡연하는 것]으로 주어로서 번역되었습니까?",,,문법책-Hornby
+710,10203020000,I like playing baseball.,나는 야구를 하는 것을 좋아한다.,"""like playing baseball""이 [야구를 하는 것을 좋아한다]로 [야구를 하는 것]이 [좋아한다]의 목적어로 번역되었습니까?",,,문법책-Hornby
+711,10203030000,He went to a smoking room.,그는 끽연하기 위한 방으로 갔다.,"""a smoking room""이 [끽연하기 위한 방]으로 [방]의 목적으로서 번역되었습니까?",,,문법책-Hornby
+712,10203030000,It is no use talking.,말해도 아무 소용이 없다.,"“no use talking""이 [말해도 아무 것도 되지 않는다]로 무익하다는 것을 나타내도록 번역되었습니까?",,,문법책-Hornby
+713,10203030000,There is no marching forward.,아무리해도 전진하는 것은 불가능하다.,[아무리해도 전진하는 것은 불가능하다]로 불가능의 의미로 번역되었습니까?,,,문법책-Hornby
+714,10203030000,It goes without saying that honesty is the best policy.,정직이 최선의 정책이라는 것은 말할 필요도 없다.,"""It goes without saying""이 [말할 필요도 없다]로 번역되었습니까?",,,문법책-Hornby
+715,10203030000,He was on the point of running.,그는 정말로 달리려고 하고 있었다.,"""on the point of running""이 [정말로 달리려고 하고]로 번역되었습니까?",,,문법책-Hornby
+716,10203040000,The sitting room of Mr. Amory's house in London.,런던의 아모리 씨 집의 거실.,"""the sitting room""이 [거실]로 ""sitting""이 동명사적 용법으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+717,10203040000,Mr. John was named chief operating officer.,죤씨는 직원을 장악하는 치프로 명명되었다.,"""chief operating officer""가 [직원을 장악하는 치프]로 번역되었습니까?",,,문법책-Hornby
+718,10203040000,But the use of diving suits has increased the number of beds that can be fished.,그러나 잠수복의 사용으로 채취될 수 있는 번식소의 수를 증가시켰다.," ""diving suits""이 [잠수하기 위해 입는 옷]으로 [옷]의 용도으로서 번역되었습니까?",,,문법책-맨투맨
+719,10203040000,"""You know I can't hear without my hearing aid.""","""내가 보청기 없이는 들을 수 없다는 걸 당신은 알지 않소.""","""hearing aid""는 [듣기위한 기계]으로 [기계]의 목적,용도로서 번역되었습니까?",,,문법책-맨투맨
+720,10204000000,"""What in the world can you do with music and plants?"" asked Mrs. Retallack.",도대체 음악과 식물로 무엇을 할 수 있단 말입니까? 하고 레텔렉 부인은 물었다.,"""in the world""가 [도대체]로 의문사 뒤에서 문장을 강조하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+721,10204000000,A man is on his way somewhere at nightfall.,한 사람이 해질녘에 어딘가를 가고 있는 중이다.,"""be on one's way~""가 [~를 가고 있는 중이다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+722,10204000000,"After all, face-reading is more fun than real.","관상을 보는 것은, 결국은, 실제로 맞는다기보다는 재미로 보는 것이니까.","""after all""이 [결국]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+723,10204000000,All right.,좋아요.,"""all right""가 [좋습니다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+724,10204000000,An electric typewriter would be of no use to me in getting this job done.,이 일을 처리하는 데 전동 타자기는 내게 소용이 없을 것이다.,"""of no use""가 [소용이 없는]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+725,10204010200,Have you finished your breakfast yet?,아침식사를 벌써 끝냈니?,"""Have you finished ~""가 [~끝냈니?]와 같이 현재까지의 동작이 완료 상태의 의미로 번역이 되었습니까?",,,문법책-성문기본
+726,10204010200,Have you ever climbed Mt. Halla?,한라산에 오른 적이 있습니까?,"""Have you ever climbed~""가 [오른적이 있다]와 같이 [오른경험이 있다]로 현재까지의 경험을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+727,10204010200,I have been to Honolulu.,나는 Honolulu에 가 본적이 있다.,"""I have been to Honolulu""가 [나는 Honolulu에 가 본적이 있다]와 같이 [~가본 경험이 있다]는 의미로 번역이 되었습니까?",,,문법책-성문기본
+728,10204010200,I have lost my watch.,나는 시계를 잃어 버렸다.,"""I have lost my watch.""가 [나는 시계를 잃어 버렸다.]와 같이 [잃어버린 결과 지금은 없다]의 의미로 번역이 되었습니까?",,,문법책-성문기본
+729,10204010200,He has been dead for seven years.,그가 죽은지 7년이 됬다.,"""He has been dead for seven years.""가 [그는 7년동안 죽어있었다]와 같이 [과거에도 그랬고 지금도 죽은 상태가 계속되고 있다]의 의미로 번역이 되었습니까?",,,문법책-성문기본
+730,10204030100,I shall have finished it when you come home.,네가 집에 올때까지는 나는 그것을 끝냈을 것이다.,"""shall have finished~when you come home""가 [네가 집에 올때까지~끝냈을 것이다]와 같이 미래의 어느 일정한 시점까지 [완료했을 것이다]라는 의미로 번역이 되었습니까?",,,문법책-성문기본
+731,10204030100,I shall have read this book three times if I read it again.,내가 다시 이책을 읽으면 나는 이책을 세번 읽게 된다.,"""shall have read~if I read it again ""이 [~다면~읽게된다]와 같이 미래의 어느 일정한 시점까지 [읽는것을 경험하게 된다]의 의미로 번역이 되었습니까?",,,문법책-성문기본
+732,10204030100,He will have been in hospital for three weeks by next Mondays.,다음 월요일까지 그는 3주동안 입원한 셈이 된다.,"""will have been in hospital~by next Mondays""이 [다음주 월요일 까지 입원한 셈이 된다]와 같이 미래의 어느 한 시점까지 [입원한 상태까 계속된다]의 의미로 번역이 되었습니까?",,,문법책-성문기본
+733,10204030300,Where are you spending your next summer vacation?,다음 여름 휴가를 어디에서 보낼 것입니까?,"""are spreading~?""이 [보낼 것입니까?], 미래의 한 시점에서 진행되고 있는 것을 표현하도록 번역이 되었습니까?",,,문법책-성문기본
+734,10205010000,"In these 3 years, 2.5 billion pencils were sold.",이 3년간 25억 자루의 연필이 팔렸다.,"""2.5 billion""이 [25억]으로, 자연스럽게 올바른 수치로 번역되었습니까?",,,문법책-Hornby
+735,10205020100,Martin brings two drinks and gives them to Ramsay and Amory.,마틴은 마실 것을 두 잔 가져다가 램지와 아모리에게 준다.,"""two drinks""가 [마실것 두잔]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+736,10205020100,"In these 3 years, 2.5 billion pencils were sold.",이 3년간 25억 자루의 연필이 팔렸다.,"""2.5 billion pencils""이 [25억 자루의 연필]로, 자연스럽게 단위명사 생성이 되어 번역되었습니까?",,,문법책-Hornby
+737,10205020100,I have three pencils in my bag.,나는 가방 안에 연필을 3자루 가지고 있다.,"“three pencils""가 [연필이 3자루]로, 연필의 자루 수를 세는 형태로 번역되었습니까?",,,문법책-Hornby
+738,10205020100,There are two hundred men.,200명의 남자들이 있다.,"“two hundred men""이 [200명의 남자]라고 하는 의미로 번역되었습니까?",,,문법책-Hornby
+739,10205020100,"From that time on, I became fond of poetry and I have read more than 100 poems so far.",그 뒤부터 나는 시를 좋아하게 되었고 지금까지 나는 1백 편 이상의 시를 읽었다.,"""100 poems""가 [100 편의 시]로 단위명사 생성이 되어 번역되었습니까?",,,영어교과서-고교ii-a-1
+740,10205020100,Three Questions,세 가지 질문,"""three""가 [세가지]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+741,10205020100,He has two bicycles.,그는 2대의 자전거를 가지고 있다.,"“ two bicycles ""가 [ 2대의 자전거]로, 자전거의 수를 세는 형태로 번역되었습니까?",,,문법책-Hornby
+742,10205020200,At last it was September 17.,드디어 9월 17일이 되었다.,"""September 17""이 [9월 17일]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+743,10205020200,"Between 1820 and 1974, for example, as many as 50 million people immigrated to the United States.","예컨대, 1820년에서 1974년 사이에 5천만 명이나 미국에 이주했다.","""1820"" 과 ""1974""가 [1820년,1974년]으로 년도를 나타내도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+744,10205020200,"In October 1783, the Montgolfier brothers sent up their hot-air balloon.",1783년 10월에 몽골피에 형제는 더운 공기 기구를 띄워 올렸다.,"""In October 1783""이 [1783년 10월에]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+745,10205020200,"In the late 1400's, Europeans began to turn their eyes toward the American continent.",1400년대 말경에 유럽인들은 미대륙에 눈을 돌리기 시작했다.,"""1400's""가 [1400년대]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+746,10205020200,I met him at 2:30 p.m.,나는 오후 2시 30분에 그를 만났다.,"""2:30 p.m.""이 [오후 2시 30분]으로 시간으로 번역되었습니까?",,,문법책-Hornby
+747,10205020200,I wrote the first letter on October the 13th.,나는 첫 편지를 10월 13일에 썼다.,"""October the 13th""가 [10월 13일]로 월일로 번역되었습니까?",,,문법책-Hornby
+748,10205020200,We met on the third of June.,우리들은 6월 3일에 만났다.,"""the third of June""이 [6월 3일]로 월일로 번역되었습니까?",,,문법책-Hornby
+749,10205020200,This kind of business increased in number in the 1950s.,1950년대에 이 종류의 거래수는 증가했다.,"""1950s""가 [1950년대]로 연대로 번역되었습니까?",,,문법책-Hornby
+750,10205020200,The accident occurred two days ago.,그 사건은 이틀전에 일어났다.,"""two days""가 [이틀]로,  시간적 의미로 번역이 되었습니까?",,,문법책-성문기본
+751,10205020200,"Morse's first message was sent on May 24, 1844.",모르스의 첫 통신은 1844년 5월 24일에 보내어졌다.,"""May 24, 1844""이 [1844년 5월 24일]로 년월일로 번역이 되었습니까?",,,문법책-맨투맨
+752,10205020300,"Before the boy was thirteen, death had taken both his parents.",그가 열 세 살도 되기 전에 그의 부모가 모두 돌아가셨던 것이다.," ""before he was thirteen""이 [그가 열세살이 되기 전에] 나이를 나타내도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+753,10205020300,"So when he was sixty, he decided to look for a partner.",그래서 예순 살이 되자 그는 함께 일할 동료를 한 명 구하기로 결정했다.,"""sixty""가 [예순살]로 나이를 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+754,10205020300,"There were only two children, about six and eight.",아이는 대략 여섯 살과 여덟 살쯤 된 둘뿐이었다.,"""about six and eight""가 [대략 여섯살과 여덟 살쯤 된]으로 연령을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+755,10205020300,"When Ralph was thirteen, he would probably quit school and go to work like other neighborhood boys.",랠프가 열 세 살이 되었을 때 그는 어쩌면 다른 동네 아이들처럼 학교를 그만두고 일을 나가야 할 것 같았다.,"""thirteen""가 [열세살]로 연령을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+756,10205020300,Mr. Smith is 35 years old.,스미스씨는 35세이다.,"""35 years old""가 [35세]로 연령으로 번역되었습니까?",,,문법책-Hornby
+757,10205020300,The mayor is in his late thirties.,그 시장은 30대 후반이다.,"""his late thirties""가 [30대 후반]으로 사람의 연령의 범위로 번역되었습니까?",,,문법책-Hornby
+758,10205020400,He may give me two or three hundred pounds for this stamp.,그가 이 우표값으로 나에게 이삼백 파운드를 줄지도 몰라.,"""two or three hundred pounds""가 [이삼백파운드]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+759,10205020400,They had only three and a half dollars in total.,그들은 전부해서 3달러 50센트밖에 가지고 있지 않았다.,"""three and a half dollars""가 [3달러 50센트]로 전체의 금액을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+760,10205020400,Fifty dollars a week is a small sum to him.,일주일에 50달러는 그에게는 적은 액수이다.,"""Fifty dollars""가  액수를 나타내는 하나의 단위로 의미하도록 번역되었습니까?",,,문법책-Hornby
+761,10205020400,"""That is forty cents,"" said the farmer.","""그 참외는 40센트야.""하고 농부가 대답했다.","""forty cents""가 [40센트]로, 금액으로 번역이 되었습니까?",,,문법책-맨투맨
+762,10205020400,"""Twenty francs.""","""20프랑, 그 돈이면 충분하겠지요?""","""Twenty francs""이 [20프랑]과 같이 금액으로 번역이 되었습니까?",,,문법책-맨투맨
+763,10205020400,"""I have only five cents.""","""저는 단지 5센트밖에 없는데요.""","""five cents""이 [5센트]와 같이 금액으로 번역이 되었습니까?",,,문법책-맨투맨
+764,10205030100,"The speed of light is roughly 186,000 miles a second!","빛의 속도는 대략 1초당 186,000마일이다.","""a ""가 [~당]으로 ""per""의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+765,10205030100,I pay him seventy dollars a week.,나는 1주일마다 70달러를 그에게 지불한다.,"""a week""가 [1주일마다]로, 배분의 의미를 나타내도록 번역되었습니까?",,,문법책-Hornby
+766,10205030100,The company reported earnings of two dollars a share.,그 회사는 1주당 2달러의 이익을 보고했다.,"“two dollars a share""가 [1주당 2달러]라는 의미로 번역되었습니까?",,,문법책-Hornby
+767,10205030100,We will pay seven hundred yen an hour.,우리는 1시간마다 70엔을 지불할 것입니다.,"""an hour""이 [1시간마다]로, 배분의 의미를 나타내도록 번역되었습니까?",,,문법책-Hornby
+768,10205030100,Fifty dollars a week is a small sum to him.,일주일에 50달러는 그에게는 적은 액수이다.,"""a week""가 [일주일에]의 의미로 번역되었습니까?",,,문법책-Hornby
+769,10205030100,"The gasoline costs 2,000 won a liter.",그 개솔린은 리터당 2000원이다.,"""2,000 won a liter""가 [리터당 2000원]으로, 번역이 되었습니까?",,,문법책-맨투맨
+770,10205030200,"Oil production will be raised by 11,00 barrels a day.",석유 생산은 하루 1100베럴씩 증가할 것이다.,"""by""가 [씩]으로, 단위를 나타내도록 번역되었습니까?",,,문법책-Hornby
+771,10205030200,The Government decided to raise night telephone rates by 2 cents.,정부는 야간 전화요금을 2센트 비싸게 하는 것으로 정했다.,"""by two cents""가 [2센트∼하다]로, 변화량을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+772,10205030300,"The sun is 8,000 times as far away.","태양은 8,000배나 떨어져 있다.","""8,000 times""가 [8000배]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+773,10205030300,She had two times as many books as I expected.,그녀는 내가 예상했던 것보다 2배의 양의 책을 가지고 있었다.,[내가 예상했던 수의 2배]의 의미로 번역되었습니까?,,,문법책-Hornby
+774,10205030300,Profits have grown fifty-fold from ten years ago.,이익은 10년 전에 비교해 50배가 되었다.,"""fifty-fold""가 [50배]의 의미로 번역되었습니까?",,,문법책-Hornby
+775,10205030300,This is ten times as large as that.,이것은 넓이가 저것의 10배이다.,"""ten times as large as that""이 [넓이가 그것의 10배]로, 배수의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+776,10205030400,"Among the 10 men who were in the car, 7 have died.",그 차에 타고 있던 10명 중 7명이 죽었다.,[10명 중 7명이 죽었다]의 의미로 번역되었습니까?,,,문법책-Hornby
+777,10205030400,"""Five out of six who undergo this operation die, but as for you, you have nothing to worry about.""","""이 수술을 받은 6명중 5명은 사망합니다만, 당신에 관해서는 걱정할 것이 없습니다.""","""Five out of six""이[6명중 5명]으로, 번역이 되었습니까?",,,문법책-맨투맨
+778,10205030500,The third thing to do was to mix up these stuff.,"3번째로 해야할 일은, 이들 재료를 잘 섞는 일이었다.","""Third thing to do""가 [3번째로 해야 할 일]의 의미로 번역되었습니까?",,,문법책-Hornby
+779,10205030500,It was described in the 7th letter I received.,그것은 내가 7번째로 받은 편지에 쓰여 있었다.,"""7th""가 [7번째로]로, 횟수로서 해석할 수 있도록 번역되었습니까?",,,문법책-Hornby
+780,10205030500,The janitor found him helpless with pain on the morning of the first day in his room downstairs.,첫째 날 아침 아래층에 있는 자기 방에서 고통 때문에 어찌할 수도 없게 된  그를 수위가 발견했어.,"""the first day""이 [첫째날]로,  번역이 되었습니까?",,,문법책-맨투맨
+781,10205030500,They went to the second painter's house.,그들은 두번째 화가의 집으로 갔다.,"""the second painter's house""이 [두번째 화가의 집]이라는 의미로, 번역이 되었습니까?",,,문법책-맨투맨
+782,10205030500,My third marriage was to a preacher and now I'm married to an undertaker.,"나의 세번째 결혼은 전도사와 결혼이었는데, 지금은 장의사 주인과 결혼 생활을 하고 있어.","""third marriage""이 [세번째 결혼]으로, 번역이 되었습니까?",,,문법책-맨투맨
+783,10205030600,Two times three makes six.,2 곱하기 3은 6이다.,[2×3=6]의 의미로 번역되었습니까?,,,문법책-Hornby
+784,10205030800,A bottle of rice wine and a couple of bowls were put on it.,막걸리 한 병과 대접 서너 개가 그 위에 놓여졌다.,"""a couple of""가 [서너~]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+785,10205030800,He could see the great herd of cattle that had been rounded up to be taken to the nearest railroad.,그는 근처 가장 가까운 철도역으로 데려가기 위해서 모아들인 많은 소 떼를 볼 수 있었다.,"""the great herd of cattle""가 [많은 소떼]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+786,10205030800,He poured a handful of coins into his grandmother's lap.,그는 할머니의 무릎에다 동전을 한 움큼 쏟아 놓았다.,"""a handful of coins""가 [동전한움큼]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+787,10205030800,I bought a cake of soap.,나는 비누를 한 개 샀다.,"""a cake of""가 [한 개]로 , 비누의 수를 나타내도록 번역되었습니까?",,,문법책-Hornby
+788,10205030800,He has two pairs of trousers.,그는 바지를 두벌 가지고 있다.,"""two pairs of""가 [두벌]로, 바지의 수가 2개라는 것을 나타내도록 번역되었습니까?",,,문법책-Hornby
+789,10205030900,Two thirds of them are students.,그들의 3분의 2는 학생이다.,"""Two thirds""가 [3분의 2]라고 하는 의미로 번역되었습니까?",,,문법책-Hornby
+790,10205030900,Two-thirds of the apples were bad.,사과들중 3분의2는 상했다.,"""Two-thirds""이 [3분의 2]와 같이 분수로  번역이 되었습니까?",,,문법책-성문기본
+791,10205030900,Two-fourths of the land was uncultivated.,그땅의 4분의 2는 경작되지 않았다.,"""Two-fourths""이 [4분의 2]와 같이 분수로  번역이 되었습니까?",,,문법책-성문기본
+792,10301010100,Have these stories ended?,이들 이야기는 끝났는가?,"""have""가 조동사로 인정되며 의문문으로 번역되었습니까?",,,문법책-Hornby
+793,10301010100,Or does it suggest a vision of a restful dream world?,아니면 그것이 혹시 평온한 꿈의 세계에 대한 환상을 암시하는가?,문장이 [~합니까?]와 같이 의문문으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+794,10301010100,Do you like apples?,당신은 사과를 좋아합니까?,[좋아합니까]로 의문문으로 번역되었습니까?,,,문법책-Hornby
+795,10301010100,Can a cat swim?,고양이는 헤엄칠 수 있습니까?,[할 수 있습니까]로 의문문으로 번역되었습니까?,,,문법책-Hornby
+796,10301010100,Is he a boy?,그는 소년입니까?,[소년입니까]로 의문문으로 번역되었습니까?,,,문법책-Hornby
+797,10301010100,Have you finished your dinner?,저녁을 끝냈습니까?,[끝냈습니까]로 완료를 나타내는 의문문으로 번역되었습니까?,,,문법책-Hornby
+798,10301010100,"A sailor came up to him and said, ""Are you strange here?""","한 선원이 그에게 다가와서 ""당신은 여기가 처음인가요?""하고 말했다."," ""Are you strange here?"" [ ""당신은 여기가 처음인가요?""]로 관용표현처럼 번역이 되었습니까?",,,문법책-맨투맨
+799,10301010100,"Asked the first one, ""Have you managed to live a well-planned life?""","""넌 계획적인 인생을 살아왔니?""하고 첫번째 여인이 물었다."," ""Have you managed to live a well-planned life?""이 [~인생을 살아왔니]로 의문문으로 번역이 되었습니까?",,,문법책-맨투맨
+800,10301010201,What else could I do?,그밖에 달리 내가 무엇을 할 수 있었겠습니까?,"""what else""가 ""do""의 목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+801,10301010201,What happened in your taxi?,택시에서 무슨 일이 있었습니까?,"""what""이 의문대명사로 주어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+802,10301010201,What happens in the poem?,이 시에서는 어떤 일이 일어나고 있는가?,"""what""이 주어로 [어떤일]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+803,10301010201,What is poetry?,시란 무엇인가?,"""what""이 의문대명사로 ""poetry""의 보어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+804,10301010201,What did you do yesterday?,당신은 어제 무엇을 했습니까?,"""what""이 [무엇을]로, 동사 [했습니다]의 대상격을 묻는 의문문으로 번역되었습니까?",,,문법책-Hornby
+805,10301010202,And what affairs are the most important?,"그리고 무슨 일이 가장 중요한 것입니까?""","""what affair""가 [무슨일]로 ""what""이 의문형용사로 번역되었습니까?",,,영어교과서-고교ii-a-1
+806,10301010202,What kind of stamp?,무슨 우표인데요?,"""what""이 [어떤]으로 ""kind""를 수식하는 의문형용사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+807,10301010202,What fish is this?,이것은 뭐라고 하는 물고기입니까?,"[뭐라고 하는 물고기입니까]로, 물고기의 종류를 묻는 의문문으로 번역되었습니까?",,,문법책-Hornby
+808,10301010202,Whose son did she marry?,그녀는 누구의 아들과 결혼했습니까?,[누구의 아들]임을 묻는 의문문으로 번역되었습니까?,,,문법책-Hornby
+809,10301010203,"""How did they get out?""","말들이 어떻게 나갔지?""","""how""가 [어떻게]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+810,10301010203,When did a man first cross the channel between England and France by air?,사람은 언제 영국과 프랑스 사이의 해협을 공중으로 처음 횡단했었나?,"""when""이 [언제]로 의문부사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+811,10301010203,Where do you come from?,당신은 어디에서 오는가?,"[어디에서]로, 오기 전에 있던 장소나 출신지를 묻는 의문문으로 번역되었습니까?",,,문법책-Hornby
+812,10301010203,"""How much would you give me for it?""","""당신은 그 값을 얼마나 주시겠어요?""","""How much"" [얼마나 많이]로, 값을 묻는 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+813,10301010203,"""How about this one?""","""이 참외는 어때?""","""How about""이 [~하는게 어때]로, 제안의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+814,10301010204,Shaw asked:'What if the  child inherits my body and your brains?,만일 그 아이가  내 육체에다가 당신의 두뇌를 물려받는다면 어떻게 될까요?' 하고 쇼가 물었다.,"""What if"" [~한다면 어떻게 될까요]의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+815,10301010204,"""Why not step into my cave and we'll talk this thing over?""","""내 굴 속에 들어가서 우리가 이 문제를 의논해 보는 게 어때요?""","""why not~""이 [~하는게 어때요]로, 번역이 되었습니까?",,,문법책-맨투맨
+816,10301010204,"""If all the accidents happen to the last coach, why don't they leave it off?"""," ""만일 모든 사고가 맨 마지막 칸에서 발생한다면, 그 마지막 칸을 떼어버리는 게 어때요?"".","""why don`t~ ""가[~하는게 어때요]로 번역이 되었습니까?",,,문법책-맨투맨
+817,10301010301,"""You heard about our baby, didn't you?"" she told them.",우리 아기에 관해서 들었지요? 라고 그녀는 그들에게 말했다.,""",didn't you?""가 [그렇지 않아요?]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+818,10301010301,"He's not going to live here, is he?""","그가 여기서 살지는 않겠지요, 그렇죠?",[그가 여기에 살진 않겠지요? 그렇죠?]로 부가의문문으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+819,10301010301,"It's awful, isn't it?""","끔찍하네요, 그렇지 않나요?""","부가의문문"",isn't it?""이 [그렇지 않아요?]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+820,10301010301,"That is rather unusual, isn't it?","그것이 좀 별다르군요, 아닌가요?",""",isnt't it?""이 [아닌가요?]로 부가의문문으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+821,10301010301,"He is young, isn't he?",그는 젊지요?,"[젊지요]로, 상대에게 동의를 구하거나 다짐을 하는 의문문으로 번역되었습니까?",,,문법책-Hornby
+822,10301010302,"Which do you like better, tea or coffee?",당신은 차와 커피의 어느 쪽을 보다 좋아합니까?,[차]인지 [커피]인지의 선택을 묻는 선택의문문으로 번역되었습니까?,,,문법책-Hornby
+823,10301010302,Which of the TV programs do you like best?,당신은 어떤 TV프로그램을 가장 좋아합니까?,"""which of the TV Program""이 [어떤 TV 프로그램]으로, TV프로그램의 하나의 선택을 묻는 의문문으로 번역되었습니까?""",,,문법책-Hornby
+824,10301010302,Do you drink whisky or brandy?,"당신은 위스키를 마십니까, 아니면 브랜디를 마십니까?",[위스키]인지 [브랜디]인지의 선택을 묻는 선택의문문으로 번역되었습니까?,,,문법책-Hornby
+825,10301010303,Do you know who he is?,당신은 그가 누구인지 알고 있소?,"""who he is""가 [그가 누구인지]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+826,10301010303,Do you know how fast light travels?,빛이 얼마나 빠르게 이동하는지 아는가?,"""how fast""이하의 절이 ""know""의 목적절로 번역되었습니까?",,,영어교과서-고교ii-a-1
+827,10301010303,Do you know what the stars and stripes on the American flag stand for?,미국 국기에 있는 별들과 줄무늬들은 무엇을 뜻하는지 알고 있는가?,"""what""이하의 절이 ""know""의 목적절로 번역되었습니까?",,,영어교과서-고교ii-a-1
+828,10301010303,He imagines how the horse must feel about it.,그는 말이 그것에 대해 어떻게 느낄 것인가를 상상한다.,"""how""이하의 절이 간접의문문의 형태로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+829,10301010303,He knows who owns the woods and where he lives.,그는 누가 이 숲을 소유하고 있는지 그리고 그가 어디에 살고 있는지 알고 있다.,"""who""이하가 [누가 숲을 소유하고, 그가 어디에 살고 있는지]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+830,10301010303,The question is who did it.,문제는 누가 그것을 했느냐이다.,"""who did it""이 [누가 그것을 했느냐]와 같이 의문사절로 번역이 되었습니까?",,,문법책-성문기본
+831,10301020000,Bring Mr. Ramsay another glass.,램지 씨에게 다른 잔을 갖다 드리게.,문장이 명령문으로  번역이 되었습니까?,,,영어교과서-고교ii-a-1
+832,10301020000,Don't start with a thick book.,두꺼운 책부터 시작하지 마라.,문장이 부정의 명령문으로 번역되었습니까?,,,영어교과서-고교ii-a-1
+833,10301020000,"If you can't, read this story about an unusual experiment.",만약 믿을 수 없다면 한 특이한 실험에 관한 다음 이야기를 읽어 보라.,"""read~""이하가 [~읽어보시오]라고 명령문으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+834,10301020000,"Look at the marks on the street,.",거리에 난 자국을 보라.,문장이 명령문으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+835,10301020000,Please come in and sit down.,들어오셔서 앉으십시오.,"""please~""가 [~십시오]로 명령문에서 공손한 표현을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+836,10301020000,Count to ten and repeat it until your eyelids feel heavy.,열까지 세어 보시오. 그리고 당신의 눈꺼풀이 무겁게 느껴질 때까지 되풀이해서 세어 보시오.,"""Count to~"" [세어보시오]로, 명령하는 의미로 번역이 되었습니까?",,,문법책-맨투맨
+837,10301030000,What a beautiful flower this is!,이것은 얼마나 아름다운 꽃인가!,"[얼마나 아름다운 꽃]으로, 꽃의 아름다움을 강조하기 위한 감탄문으로 번역되었습니까?",,,문법책-Hornby
+838,10301030000,How fine this is!,이것은 정말로 훌륭하구나!,"[정말로 훌륭하구나]로, [훌륭하다]를 강조하는 감탄문으로 번역되었습니까?",,,문법책-Hornby
+839,10301030000,How beautiful a flower you have!,얼마나 아름다운 꽃인가!,"""How beautiful a flower you have!"" 가 [얼마나 아름다운 꽃인가!]와 같이 감탄하는 의미로 번역이 되었습니까?",,,문법책-성문기본
+840,10301040000,Let's round up those horses.,저 말들을 모아들이자.,"""let's~""가 [~합시다]로 청유의 뜻을 나타내도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+841,10301040000,Let's do our best to achieve our aim.,우리의 목적을 달성하기 위해서 최선을 다하자.,"""Let's do our best ~"" 가[최선을 다하자]로 번역이 되었습니까?",,,문법책-맨투맨
+842,10302010000,"""We do not want your dirty gold!""",우리는 당신의 더러운 금을 바라지 않아요!,"""not""이 ""want""를 부정하여 문장이 부정문으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+843,10302010000,But Jeff couldn't go.,그러나 제프는 갈 수 없었다.,"""couldn't go""가 [갈수 없었다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+844,10302010000,He is not clever.,그는 현명하지 않다.,[현명하지 않다]로 번역되었습니까?,,,문법책-Hornby
+845,10302010000,They do not embrace.,그들은 포옹하지 않는다.,"""do not embrace""가[포옹하지 않는다]로 번역이 되었습니까?",,,문법책-맨투맨
+846,10302010000,We cannot create genius.,우리는 천재를 만들어 낼 수는 없다.," ""cannot creat""가 [만들어 낼 수는 없다]로 불가능의 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+847,10302010000,He never looked back.,그는 결코 뒤돌아보지 않았다.,"""never looked back"" 이[결코 뒤돌아보지 않았다]로 번역이 되었습니까?",,,문법책-맨투맨
+848,10302010000,"If it doesn't work, keep trying.","만일 그것이 되지 않으면, 계속 시도하여라.","""doesn't work"" 이[되지않다]로 번역이 되었습니까?",,,문법책-맨투맨
+849,10302020000,Why didn't you stay with her?,왜 자네는 부인과 함께 있지 않았나?,"""why didn't you~?""가 [왜 ~지 않았습니까?]로 부정으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+850,10302020000,Don't you go?,가지 않습니까?,[가지 않습니까]로 번역되었습니까?,,,문법책-Hornby
+851,10302020000,"""Won't you sell it to me?""","""그것을 저에게 팔지 않겠어요?""","""Won't you sell~"" [팔지 않겠어요]로, 의향을 물어보는 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+852,10302020000,"""Can't he read?""","""읽을 수가 없다고?""","""Can't he read?"" [읽을 수가 없다고]로,  번역이 되었습니까?",,,문법책-맨투맨
+853,10302020000,Didn't you wonder why it never fluttered or moved when the wind blew?,바람이 부는데도 그것이 왜 펄럭이지도 않고 움직이지도 않는지 너는 의심해 보지 않았어?,"""Didn't you wonder~ ?""가[의심해보지 않았어]로 번역이 되었습니까?",,,문법책-맨투맨
+854,10302030000,Don't be afraid.,두려워하지 말아라.,[두려워하지 말아라]로 번역되었습니까?,,,문법책-Hornby
+855,10302030000,"Work hard, or you will fail.","열심히 일해라, 그렇지 않으면 실패할 것이다.","""Work hard, or~""가 [열심히 일해라, 그렇지 않으면~]과 같이 부정명령문으로 번역이 되었습니까?",,,문법책-성문기본
+856,10302030000,Do not lose hope.,희망을 잃지 마라.,"""Do not lose hope.""가[희망을 잃지 말아라]로, 번역이 되었습니까?",,,문법책-맨투맨
+857,10302030000,Never get overcome with fear.,결코 두려움에 사로잡히지 말라.,"""Never get overcome~ ""[결코 두려움에 사로잡히지 말아라]로 번역이 되었습니까?",,,문법책-맨투맨
+858,10302040000,She passed the examination with no effort.,그녀는 노력하지 않고 시험에 붙었다.,"""with no effort""가 [노력하지 않고]의 의미로 번역되었습니까?",,,문법책-Hornby
+859,10302040000,I went to Paris not long ago.,나는 최근 파리에 갔다.,"“not long ago""가 [최근]으로 번역되었습니까?",,,문법책-Hornby
+860,10302040000,I don't like wine very much.,나는 와인은 별로 좋아하지 않는다.,"[별로 좋아하지 않는다(아주 싫어하는 것은 아니다)]로, ""much""가 ""like""에 걸리고, 또 그 전체에 ""not""이 걸리도록 번역되었습니까?",,,문법책-Hornby
+861,10302050000,"""Burke Blair's not much older than I am, and he's going,"" Jeff pleaded.","버크 블레어는 저보다 나이가 별로 많지도 않은데 그 애는 가잖아요, 하고 제프는 간청했다.","""not much older than I am""이 [나보다 나이가 별로 많지 않다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+862,10302050000,They did not decide to leave the town.,그는 그 마을을 떠날지 결정하지 않았다.,"""not""이 ""decide to""를 부정하여 [~를 결정하지 않았다]로 번역되었습니까?",,,SERI-TS예문
+863,10302050000,They decided not to leave the town.,그는 그 마을을 떠나지 않기로 결정하였다.,"""not""이 ""to leave~""를 부정하여 [마을을 떠나지 않기로]으로 번역되었습니까?",,,SERI-TS예문
+864,10302050000,No traffic lights were put up at the crossing.,교차로에 신호등이 세워져 있지 않았다.,문장이 [교차로에 신호등이 세워져 있지 않다]로 부정으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+865,10302050000,The hermit again gave no answer.,은자는 다시 아무 대답도 하지 않았다.,"부정어 ""no""가 동사에까지 영향을 주어 문장전체가 부정으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+866,10302050000,He is no genius.,그는 결코 천재가 아니다., 문전체가 [그는 결코 천재가 아니다]와 같이 문전체를 부정하는 형태로 번역이 되었습니까?,,,문법책-성문기본
+867,10302060000,"""Do you not see?"" replied the hermit.",모르시겠소? 하고 은자가 대답했다.,"""not""이 ""see""를 부정하여 [모릅니까?]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+868,10302060000,I know that he will not come tomorrow.,나는 그가 내일 오지 않을 것을 알고 있다.,[내일 오지 않는다]는 것을 [알고 있다]로 번역되었습니까?,,,문법책-Hornby
+869,10302060000,She often isn't early.,그녀는 종종 빨리 오지 않는다.,[빨리 오지 않는] 일이 [빈번히 있다]로 번역되었습니까?,,,문법책-Hornby
+870,10302070000,I hope not.,그렇지 않기를 바랍니다.,"“not""이 [그렇지 않을 것]으로 번역되었습니까?",,,문법책-Hornby
+871,10302080000,But they are not always helpless.,그러나 그들이 항상 어쩌지 못하는 것은 아니다.,"""not always""가 [항상 ~ 인 것은 아니다]로 부분부정으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+872,10302080000,He drove along a lot of small streets that I didn't know at all.,그는 내가 전혀 모르는 많은 작은 거리를 따라 차를 몰았어요.,"""I didn't know at all""이 [내가 전혀 모르다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+873,10302080000,It is not always easy to make the balloon come down in a chosen place.,정해 놓은 장소에 기구를 내리게끔 하는 것이 항상 쉬운 일은 아니다.,"""It is not always easy to~""이 [~이 항상 쉽지는 않다]로 부분부정으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+874,10302080000,it is not necessarily because they are strange or bad.,그것은 반드시 그들이 이상하거나 나쁘기 때문은 아니다.,"""It is not necessarily because~ ""이 [반드시 ~때문은 아니다]로 부분부정으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+875,10302080000,The best player cannot always win.,아무리 훌륭한 선수라도 항상 이길 수는 없다.,"[아무리 훌륭한 선수라도 항상 이길 수는 없다]로, 부분부정의 형태로 번역되었습니까?",,,문법책-Hornby
+876,10302090000,I am not unhappy.,나는 불행하지 않다.,[불행하지 않다]로 행복을 긍정하는 것으로 번역되었습니까?,,,문법책-Hornby
+877,10303010100,"Besides, light makes it possible for green plants to make their own food.",게다가 빛은 녹색 식물들이 자신들의 식량을 만드는 것을 가능케 해 준다.,"""to make their own food""가 목적어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+878,10303010100,But it hasn't been easy for all groups to enter the United States.,그러나 미국에 들어가기가 모든 집단들에게 쉽지만은 않았다.,"""to enter~""가 ""hasn't been easy""의 주어로 번역되었습니까?",,,영어교과서-고교ii-a-1
+879,10303010100,It is certain that he is deeply moved by the beauty and peace of the moment.,그가 그 순간의 아름다움과 평화스러움에 깊이 감동된 것은 확실하다.,"""It is certain that~""이 [~인 것은 확실하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+880,10303010100,It is difficult to imagine that he will win the game.,그가 경기에 이긴다는 것은 상상하기 어렵다.,"""to부정사절""이 [문장의 주어]로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+881,10303010100,It may take several seconds for the sound of the thunder to reach us.,천둥 소리가 우리에게 도달하는 데는 수초가 걸릴 수도 있다.,"""to reach""가 ""take~""동사의 주어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+882,10303010100,It was not very difficult for them to make a large bag of paper and cloth.,종이와 헝겊으로 큰 자루를 만드는 것은 그들에게 그리 어려운 일이 아니었다.,"""to""이하가 주어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+883,10303010200,It was yesterday that he got married to her.,그가 그녀와 결혼한 것은 어제이다.,"""that ""이하가 [그가 그녀와 결혼한 것은]으로, [어제이다]의 주어로 번역되었습니까?",,,문법책-Hornby
+884,10303010200,It was a book that I bought yesterday.,내가 어제 산 것은 책이었다.,"[내가, 어제, 책을 샀다]라고 하는 사실을 나타내며, 또 [～한 것은 책이었다]로, [책]을 강조하는 문장으로 번역되었습니까?",,,문법책-Hornby
+885,10303010200,It was Mary who I saw last night.,내가 어젯밤 만난 것은 메리였다.,"[내가 어젯밤 메리를 만났다]라고 하는 사실을 나타내며, 또 [∼한 것은 메리였다]로, [메리]를 강조하는 문장으로 번역되었습니까?",,,문법책-Hornby
+886,10303010200,it is he that is responsible for that matter.,그 문제에 책임이 있는 사람은 바로 그 사람이다.,"[~한 사람은 바로 그이다 ]로  the man을 강조하면서 ""it""이 생략되어 번역되었습니까?",,,문법책-맨투맨
+887,10303010200,It is laborious and painstaking men who are the rulers of the world.,"세계를 지배하는 통치자는 바로 근면하고, 수고를 아끼지 않는 사람들이다.","문전체가 [～한 것은 근면하고, 수고를 아끼지 않는 사람들이었다]와 같이, [근면하고, 수고를 아끼지 않는 사람들]을 강조하는 문장으로 번역되었습니까?",,,문법책-맨투맨
+888,10303010200,"True, Britain is facing similar problem, but for the time being it is in America that it is graver.","영국도 비슷한 문제에 직면하고 있다는 것은 사실이지만, 당분간은 그  인종 문제가 더욱 더 심각한 곳은 바로 미국이다.","[인종 문제가 더욱 더 심각한 곳은 바로 미국이다]라고 하는 사실을 나타내며, 또 [～한 것은 미국이다]로, [미국]을 강조하는 문장으로 번역되었습니까?",,,문법책-맨투맨
+889,10303010300,It seems that he was late for school.,그는 학교에 지각하는 것으로 생각된다.,"""that"" 이하가 […하는 것으로 생각되다]로 번역되었습니까?",,,문법책-Hornby
+890,10303020000,What I need most is a good rest.,내가 가장 필요로 하고 있는 것은 충분한 휴양이다.,"전체적으로 [∼한 것은 ∼이다]로, 후술 요소를 강조하는 표현으로 번역되었습니까?",,,문법책-Hornby
+891,10303020000,Julia I spotted yesterday at the theater.,"쥴리아 라고 한다면, 어제 극장에서 내가 만났어요.","[쥴리아 라고 한다면]으로, [쥴리아]를 화제로 한 표현으로 번역되었습니까?",,,문법책-Hornby
+892,10304010000,But they were not as healthy or strong-rooted as the plants given soft music.,그러나 그것들은 부드러운 음악을 들려 준 식물들만큼 건강하고 강한 뿌리를 뻗지는 못했다.,"""as ~as""가 [~만큼 ~한]으로 동등비교로 번역되었습니까?",,,영어교과서-고교ii-a-1
+893,10304010000,This stone is as rare as diamond.,이 돌은 다이아몬드와 같은 정도로 진귀하다.,"[이 돌은 다이아몬드와 같은 정도로 진귀하다]로, “this stone""과 ""diamond""를 비교하여 등가(等價)라고 판단되는 형태로 번역되었습니까?",,,문법책-Hornby
+894,10304010000,I don't study so hard as they do.,나는 그들만큼 열심히 공부하지 않는다.,"[나는 그들만큼]로, ""I""와 ""they""이 비교되는 형태로 번역되었습니까?",,,문법책-Hornby
+895,10304010000,Such conduct is as inexcusable as it is rude.,그러한 행동은 무례함과 동시에 용서할 수 없는 일이다.," ""as inexcusable as it is rude""[무례함과 동시에 용서할 수 없다]로 번역이 되었습니까?",,,문법책-맨투맨
+896,10304020000,The climate here is milder than that of China.,이곳의 기후는 중국의 것보다 온화하다.,"“that of Korea""이 [한국의 [그것/것/기후]]로 번역되었습니까?",,,문법책-Hornby
+897,10304020000,John knows him better than she.,그녀보다도 죤 쪽이 그를 잘 알고 있다.,"[그녀보다도 죤 쪽이]로, ""she""와 ""john""이 비교되는 형태로 번역되었습니까?",,,문법책-Hornby
+898,10304020000,He runs faster than his friend.,그는 친구보다도 빨리 달린다.,[보다 빨리]로 번역되었습니까?,,,문법책-Hornby
+899,10304020000,He behaves more politely than his sister.,그는 여동생보다도 예의가 바르다.,[보다 예의가 바르다]로 번역되었습니까?,,,문법책-Hornby
+900,10304020000,This machine is less flexible than that one.,이 기계는 저 기계보다도 유연하지 않다.,"“this machine""과 ""that one""이 비교되어 ""this machine""이 열등하다고 판단되는 형태로 번역되었습니까?",,,문법책-Hornby
+901,10304030000,Nothing meant more to Ralph than this display of confidence from his own people.,이처럼 이웃 사람들이 보여 준 신뢰의 표시는 랠프에게 어느 무엇보다도 의미가 있었다.,"""nothing meant more ~ than""이 [어떠한 것도~보다 더 의미있는것은 없다]로 최상급 상당표현으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+902,10304030000,This bicycle runs faster than any other bicycle in Korea.,이 자전거는 한국에 있는 다른 어떤 자전거보다도 빨리 달린다.,"[한국의 다른 어떤 자전거보다 빨리 달린다]로, [한국에서 가장 빠른]이라는 의미를 포함한 형태로 번역되었습니까?",,,문법책-Hornby
+903,10304030000,He runs fastest in his class.,그는 반에서 가장 빨리 달린다.,[가장 빨리]로 번역되었습니까?,,,문법책-Hornby
+904,10304030000,He reads more books than any other people.,그는 다른 어떠한 사람보다도 많은 책을 읽는다.,[다른 어떤 사람보다도 많은 책을 읽는다]의 의미로 번역되었습니까?,,,문법책-Hornby
+905,10304030000,Nothing is so important as cooperation.,협력만큼 중요한 것은 없다.,[협력하는 것이 가장 중요하다]의 의미로 번역되었습니까?,,,문법책-Hornby
+906,10304040000,This tree is the tallest in the park.,이 나무는 공원에서 가장 키가 크다.,[공원에 있는 나무 중에서 가장 크다]의 의미로 번역되었습니까?,,,문법책-Hornby
+907,10304040000,I climbed the third highest mountain in Korea.,나는 한국에서 세 번째로 높은 산에 올랐다.,"""third-highest""가 [세번째로 높은]이라는 의미로 번역되었습니까?",,,문법책-Hornby
+908,10304040000,He behaves the most politely in his class.,그는 반에서 가장 예의가 바르다.,[가장 예의가 바르다]로 번역되었습니까?,,,문법책-Hornby
+909,10304040000,Stingo is the strongest man of the three.,Stingo는 셋 중에서 가장 강한 사람이다.,"""the strongest man""이 [가장 강한 사람]과 같이 최상급의 의미로 번역이 되었습니까?",,,문법책-성문기본
+910,10304040000,He is the most honest man in the world.,그는 누구보다도 가장 정직한 사람이다.,""" the most honest""가 [가장 정직한]과 같이 최상급의 의미로 번역이 되었습니까?",,,문법책-성문기본
+911,10304060000,He proved to be a brilliant diplomat as well as a brilliant scholar.,그는 뛰어난 학자일 뿐 아니라 뛰어난 외교관임이 판명되었다.,"""as well as ~""가 [~일 뿐만아니라 ~도 ]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+912,10304060000,He went faster and faster.,그는 점점 더 빨리 갔죠.,"""faster and faster""가 [점점더 빨리]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+913,10304060000,"Many historians believe that American history began more than 25,000 years ago.","많은 역사가들은 미국의 역사는 25,000여년 전에 시작되었다고 믿고 있다.","""more than 25,000 years ago""가 [25,000 여년 전에]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+914,10304060000,The driver took me as fast as he could to King's Cross Station.,그 운전사는 될 수 있는 한 빨리 나를 킹스 크로스 역까지 데려다 주었습니다.,"""as fast as he could""가 [가능한 한 빨리]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+915,10304060000,He paid me as much as 10 dollars.,그는 나에게 10달러나 지불했다.,"""as much as 10 dollars""가 [10달러나]라는 의미로 번역되었습니까?",,,문법책-Hornby
+916,10305010100,"If the weather is bad, we will postpone the picnic.",만약 날씨가 나쁘면 우리는 피크닉을 연기할 것입니다.,"[날씨가 나쁘면]으로, 현재 또는 미래의 가정으로 번역되었습니까?",,,문법책-Hornby
+917,10305010100,"If he be honest, I will employ him.","그가 정직하다면, 나는 그를 고용할 것이다.","""If he be honest, I will ~""이 [그가 정직하다면~할것이다] 와 같이 현재 또는 미래에 불확실한 것에 대한 가정으로번역이 되었습니까?",,,문법책-성문기본
+918,10305010100,"If the report be true, I will employ him.","그 보고서가 진실이라면, 나는 그를 고용할 것이다.","""If the report be true, I will employ him.""이 [그 보고서가 진실이라면, 나는 그를 고용할 것이다]와 같이 현재 또는 미래에 대한 불확실한 사실을 가정하도록 번역이 되었습니까?",,,문법책-성문기본
+919,10305010100,"If he be brave, he will try it again.","만일 그가 용감하다면, 그는 그것을 다시 시도할 것이다."," ""If he be brave~""가 [만일 그가 용감하다면]으로, 현재 또는 미래에 불확실한 것에 대한 가정으로번역이 되었습니까?",,,문법책-맨투맨
+920,10305010200,I wish you could come.,네가 갈 수 있으면 좋을 텐데,[네가 갈수 있으면 좋을텐데]라고 가정법으로 번역되었습니까?,,,영어교과서-고교ii-a-1
+921,10305010200,"If green plants could not make food, we could not live.","녹색 식물들이 식량을 만들 수 없다면, 우리는 살 수 없을 것이다.","""if ~ , could~""가 가정법으로 현재사실의 반대로 번역되었습니까?",,,영어교과서-고교ii-a-1
+922,10305010200,"If there were no light, we could not see anything at all.",빛이 없다면 우리는 전혀 아무것도 볼 수 없을 것이다.,"""If + 주어+ 동사의과거~, could ~""가 가정법 과거인 현재사실의 반대로 번역되었습니까?",,,영어교과서-고교ii-a-1
+923,10305010200,"If he studied harder, he would pass the examination.",만약 그가 좀 더 열심히 공부했었다면 그는 시험에 합격할 것이다.,"[만약∼라면 ∼할텐데]로, 현재의 사실에 반대되는 가정을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+924,10305010200,"If I were you, I wouldn't treat him like a slave.",내가 너라면 그를 노예처럼 다루지 않을 것이다.,"[내가 너라면]으로, 현재 사실의 가정으로 번역되었습니까?",,,문법책-Hornby
+925,10305010300,"If he had been unlucky, he would have been killed.",만약 그가 운이 없었더라면 그는 죽음을 당했을 것이다.,[운이 없었다면 죽었을 것이다]로 과거사실의 반대인 가정법 과거완료로 번역되었습니까?,,,영어교과서-고교ii-a-1
+926,10305010300,"If the boy had watched for the traffic, the accident would not have happened.",만약 그 소년이 차가 오는지 보았더라면 사고는 나지 않았을 것이다.,"""if had +pp~, would not~"" [만약 ~라면,~지 않았을 것이다]라고 과거사실의 반대로 번역되었습니까?",,,영어교과서-고교ii-a-1
+927,10305010300,"If I had had enough time, I could have read this book.",만약 나에게 충분한 시간이 있었다면 이 책을 읽을 수 있었을 것이다.,"[∼였다면 ∼했을 것이다(∼텐데)]로, 과거의 사실에 반대되는 가정을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+928,10305010300,"If she had taken my advice, she might have been happier.",그녀가 충고를 들었더라면 좀 더 행복해졌을텐데.,[～을 했더라면 ～했을텐데]로 과거 사실에 반대되는 가정으로 번역되었습니까?,,,문법책-Hornby
+929,10305010300,"If it had not been for his broken leg, he would have become a great baseball player.",다리의 골절이 없었다면 그는 위대한 야구선수가 되어 있을 것이다.,"“If it had not been for""가 [～가 없었다면]으로, 존재했던 것을 존재하지 않도록 가정하는 것으로 번역되었습니까?",,,문법책-Hornby
+930,10305010400,"If we should land on the moon, we would find ourselves in a very strange place.",만약에 달에 도착한다면 아주 기묘한 장소에 있다는 것을 알게 될 것이다.,"[만약 ～한다면 ～할 것이다]로, 현재나 미래에 일어날 것 같지도 않은 일을 나타내고 있습니까?",,,문법책-Hornby
+931,10305010400,"If it should rain tomorrow, the meeting will be put off.","만약 내일 비가 온다면, 회의는 연기될 것이다.","""If it should rain tomorrow, the meeting will be put off.""가 [만약 내일 비가 온다면, 회의는 연기될 것이다]와 같이 미래에 대한 불확실한 사실을 가정하도록 번역이 되었습니까?",,,문법책-성문기본
+932,10305010400,What should I do if I should lose my sight?,만약 내가 시력을 잃는다면 무엇을 할 것인가?,"""What should I do if I should lose my sight?""가 [만약 내가 시력을 잃는다면 무엇을 할 것인가?]와 같이 미래에 대한 강한 의심을 나타내도록 번역이 되었습니까?",,,문법책-성문기본
+933,10305010400,"If you would succeed, you would have to work harder.",성공하려면 더 열심히 일해야 할 것이다.,"""If you would succeed, you would ~""가 [성공하려면 더 열심히 일해야 할 것이다]와 같이 [~하고자 한다면~] 으로 주어의 의지를 표현하는 가정으로 번역이 되었습니까?",,,문법책-성문기본
+934,10305020100,They love me as if I were their own child.,그들은 마치 우리 아이처럼 나를 사랑해준다.,"""as if ""이하가 [마치 ∼처럼]으로, 현재의 사실에 반대되는 것을 가정했을 때의 양태를 나타내도록 번역되었습니까?",,,문법책-Hornby
+935,10305020100,He talks as if he had read the novel.,그는 그 소설을 읽었던것 처럼 말한다.," ""as if he had read the novel""이[그 소설을 읽었던것 처럼 ]으로 과거의 사실과 반대되는 가정으로 번역이 되었습니까?",,,문법책-맨투맨
+936,10305020200,"But for my poverty, I could buy the book.","내가 가난하지 않다면, 나는 그책을 살 수 있을 텐데.","""But for my poveryy, I would~""[내가 가난하지 않다면~할 수 있을 텐데]로, 현재 사실과 반대되는 가정으로 번역이 되었습니까?",,,문법책-맨투맨
+937,10305020300,I would rather you went soon.,가능하면 오히려 당신이 바로 가 주었으면 한다.,"[가 주었으면 한다]로, 현재의 사실에 반대되는 것을 실현하는 제안·의뢰의 의미로 번역되었습니까?",,,문법책-Hornby
+938,10305020400,A man who had common sense would not do that.,상식이 있는 사람이라면 그런 짓은 안할 것이다.,"""A man~would not do""가 [상식이 있는 사람이라면~하지 않았을 것이다]로,  ""if he were a man who~, he would not do~""와 같은 가정의 의미로 번역이 되었습니까?",,,문법책-성문기본
+939,10305020400,He could easily have done it with your help.,너의 도움이 있었다면 그는 쉽게 그것을 할 수 있었을 것이다.,"""with your help.""이 [너의 도움이 있었다면]과 같이 ""if I had had your help""와 같은 가정법의 의미로 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+940,10305020400,"One minute later, we might have been crushed to death.",1분만 늦었더라면 우리는 압사당했을는지도 몰랐을 것이다.,"""One minute later~""이하가 [1분만 늦었더라면~했을 것이다]와 같이 [늦지 않았기때문에~했다]라는 과거사실에 반대되는 가정의 의미로 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+941,10306010100,A few poems are written just for fun.,몇몇 시들은 단지 재미로 쓰여진다.,"""was written""가 [쓰여진다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+942,10306010100,"It is said that long ago diligent scholars did their reading even ""in the light of fireflies.""","옛날에 부지런한 학자들은 ""반딧불빛에서""도 독서를 했다고 한다.","""it is said that~""이 [~라고 말해진다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+943,10306010100,She was nearly drowned.,그녀는 하마터면 죽을 뻔했어요.,"수동태인 ""was drowned""이 [익사하다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+944,10306010100,"The light, heat, and air were kept the same in all the cabinets.","빛, 열, 그리고 공기도 모든 캐비넷에 똑같이 유지되었다.","""were kept the same""가 [똑같이 유지되다]로 수동으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+945,10306010100,The sound of a taxi is heard outside the house.,택시 소리가 집 밖에서 들린다.,"""is heard""가 [들린다]로 수동으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+946,10306010200,He was seen to go out.,그가 외출하는 것이 보였다.,"""He was seen to""가 [그가∼하는 것이 보였다]로, 지각의 수동표현으로 번역되었습니까?",,,문법책-Hornby
+947,10306010200,She was made to work hard.,그녀는 어쩔 수 없이 열심히 일했다.,"""She was made to""가 [그녀는 어쩔 수 없이∼했다]로, 사역 수동으로 번역되었습니까?",,,문법책-Hornby
+948,10306010400,She got arrested.,그녀는 체포되었다.,"""got arrested가 [체포되었다]로, 동작을 나타내는 수동표현으로 번역되었습니까?",,,문법책-Hornby
+949,10306020000,The novel sells well.,그 소설은 팔림새가 좋다.,"“sells well""이 [팔림새가 좋다]로, 상태를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+950,10306020000,This house is building.,이 집은 건축중에 있다.,"""is building"" 이 [건축중이다]와 같이 [건축되어지고 있는 중이다]로 수동의 의미로 번역이 되었습니까?",,,문법책-성문기본
+951,10306020000,He is to blame.,그는 비난 받을 만하다.,"""is to blame""이 [욕을 먹을만하다]와 같이 [누군가로 부터 비난을 당하다]라는 수동의 의미로 번역이 되었습니까?",,,문법책-성문기본
+952,10306020000,This orange peels well.,이 귤은 껍질이 잘 벗겨진다.,"""peels well""이 [껍질이 잘 벗겨진다]로 수동의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+953,10306020000,The book is printing.,그 책은 인쇄되고 있는 중이다.,"""is printing""이 [인쇄되고 있다]로 현재 진행중인 사항에 언급한 수동표현으로 번역되었습니까?",,,문법책-맨투맨
+954,10307010000,"""It's infantile paralysis,"" they told us.","그건 소아마비란다, 라고 그들은 우리에게 말해 주었다.","[""이것은 소아마비입니다""라고 그들이 우리에게 말했습니다]라고 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+955,10307010000,"""You're lucky,"" said Dr. Akram.",운이 좋으셨어요. 하고 아크람 의사는 말했다.,"[""당신은 운이 좋으셨습니다""라고 아킴박사가 말했습니다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+956,10307010000,"""The room is too small,"" Bill complained.",「방이 너무 좁다」라고 빌은 불평했다.,"“The room is too small""이 직접 이야기된 내용으로 번역되었습니까?",,,문법책-Hornby
+957,10307010000,"""The room is too small,"" complained Bill.",「방이 너무 좁다」라고 빌은 불평했다.,"""The room is too small""이 직접 이야기된 내용으로 번역되었습니까?",,,문법책-Hornby
+958,10307010000,"My aunt says to me, ""You are a beautiful girl.""","나의 고모는 나에게 말합니다. ""너는 아름다운 소녀다.""","""""You are a beautiful girl.""이 [""너는 아름다운 소녀다""]와 같이 말한 사람의 말을 직접 전달하는 형태로 번역이 되었습니까?",,,문법책-성문기본
+959,10307020000,He said he was very hungry.,그는 그가 아주 배가 고프다고 말했다.,"""was very hungry""가 [아주 배가 고프다]로, 주절의 시제에 있어서 그 때의 상태로 번역되었습니까?",,,문법책-Hornby
+960,10307020000,A bear approached a hunter in the forest and asked him what he was after.,숲 속에서 한 마리의 곰이 사냥꾼에게 다가가서 무엇을 찾느냐고 물었다.,"""asked him what he was after.""가[무엇을 찾느냐고 물었다.]타인의 말을 전달하는 입장에서 내용을 전달하는 표현으로 번역이 되었습니까?",,,문법책-맨투맨
+961,10308010100,"You see, you don't have to worry.",그것 봐요. 걱정할 필요가 없는 거예요.,"삽입구 ""you see""가 [보시다시피]의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+962,10308010100,"Mary came, I believe, later than Susan.",메리는 분명히 수잔보다도 늦게 왔다고 생각한다.,"“I believe""가 [～라고 생각한다]로, 발화내용 전체에 대한 단정을 약화시키는 표현으로 번역되었습니까?",,,문법책-Hornby
+963,10308010100,"The main purpose of speech, the theory runs, is to make ideas understandable.",구어의 주요 목적은 이론상으로는 생각을 이해할 수 있도록 하는 것이다.,"""the theory runs""가 [이론상으로는]으로, 발화 내용의 정보원을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+964,10308010100,"She will, I am sure, fail the entrance examination.",그녀는 틀림없이 입학시험에 떨어질 거예요.,"""I am sure""가 [틀림없이∼할 거예요]로, 발화 내용 전체에 대한 화자의 확신을 서술하는 표현으로 번역되었습니까?",,,문법책-Hornby
+965,10308010100,"The window, it appears, broke.",창문은 깨져버린 것 같다.,"""it appears""가 [∼인 것 같다]로, 발화내용 전체에 대한 단정을 약화시키는 표현으로 번역되었습니까?",,,문법책-Hornby
+966,10308010200,"The signboards, set up everywhere around the country, were showing the number of days left.",전국 각지에 세워진 게시판은 남은 날짜 수를 보여 주고 있었다.,"""set up ~ the country""가 삽입되어 [전국각지에 세워진]으로 ""signboard""를 설명하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+967,10308010200,"Mary bought a new dress, as is well known.","잘 알려진 일이지만, 메리는 새 드레스를 샀다.","""as is well known""이 [잘 알려진 일이지만]으로, 발화내용 전체에 대한 화자의 코멘트를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+968,10308010200,"The tree, swaying in the wind, had a poor crop of fruit.","그 나무는, 바람에 흔들리고 있는데, 과실이 흉작이었다.","“swaying in the wind""가 ""The tree""에 관한 설명을 부여하고 있도록 번역되었습니까?",,,문법책-Hornby
+969,10308010200,"The boy, who was honest, was loved by all the neighbors.",정직한 그 소년은 모든 이웃들에게서 사랑을 받았다.,"""The boy, who was honest,""가 [정직한 그소년]과 같이 ""who""이하가 삽입되어 ""the boy""에 대한 부가적인 설명을 제시하는 수식의 형태로 번역이 되었습니까?",,,문법책-성문기본
+970,10308010200,"This substance, discovered by accident, has revolutionized physics.","이 물질은, 우연히 발견된 것인데, 물리학에 혁명을 불러일으켰다.","""discovered by accident""가 ""This substance""에 관한 설명을 부여하고 있는 것으로 번역되었습니까?",,,문법책-Hornby
+971,10308020000,"A good poem, like the one you just read, is full of such sparkles and ripples.",당신이 방금 읽은 것과 같이 훌륭한 시는 그러한 반짝임과 파문으로 가득차 있다.,"삽입구 ""like the one you just read""가 [당신이 방금 읽은 것과 같은]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+972,10308020000,"Don't start reading a book unless you see, from the first few pages, that it's one you can understand easily.",처음 몇 페이지를 보고서 여러분이 쉽게 이해할 수 있는 것이 아니면 그 책을 읽기 시작하지 마라.,"""from the first pages""가 삽이구로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+973,10308020000,"He was, indeed, a very famous man.",그는 실로 아주 유명한 사람이었다.,"""indeed""가 [정말로]로 강조의 부사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+974,10308020000,"Nowadays the airplane, and not the balloon, has become man's real flying machine.",요즈음은 기구가 아닌 비행기가 인간의 참된 비행 기계가 되었다.,"""the airplane, and not the balloon, ""가 [기구가 아니라 비행기]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+975,10308020000,"She was alone in her room, sir, in bed.","그녀는 방에 혼자 있었거든요, 선생님, 자리에 누워서요.","""in bad""가 삽입이 되어 [자리에 누워서요]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+976,10309010100,I think I could solve the problem.,나는 그 문제를 (풀려고 생각하면) 풀 수 있다고 생각한다.,"「(풀려고 생각하면) 풀 수 있다고 생각한다」로, 현재의 가정으로 번역되었습니까?",,,문법책-Hornby
+977,10309010200,I hope you will soon get well.,나는 네가 곧 건강해지기를 바란다.,"""I hope you will soon get well.""이 [나는 네가 곧 건강해지기를 바란다]와 같이 ""you~""가 ""hope""의 내용이 되도록 번역이 되었습니까?",,,문법책-성문기본
+978,10309010200,Is that the reason you went there?,네가 그곳에 간 이유가 그것이냐?,""" the reason you went there"" 가 [네가 그곳에 간 이유]와 같이 ""you went there""가 ""the reason""을 수식하는 형태로 번역이 되었습니까?",,,문법책-성문기본
+979,10309010200,The guest in the next room says he can't read.,옆방에 계시는 손님께서 읽을 수가 없다고 말씀하십니다.,"""say"" 이하의 절이[말하다]의 내용(목적어)이 되도록 절의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+980,10309020000,"Slowly, the Indians spread throughout North and South America.",그 인디언들은 서서히 북미와 남미의 전역으로 퍼져 나갔다.,"""North""가 [북미]로 ""North America""의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+981,10309020000,My dictionary is better than John's.,내 사전은 죤의 것보다 좋다.,"""John's""가 [죤의 것]으로 번역되었습니까?",,,문법책-Hornby
+982,10309020000,This house is my own.,이 집은 내 자신의 것이다.,"""my own""이 [내 자신의 것]으로 번역되었습니까?",,,문법책-Hornby
+983,10309020000,The total cost was far higher than expected.,총 비용은 예상보다 훨씬 비쌌다.,"""higher than expected""가 [예상보다 비쌌다]로, [예상된 가격보다 비싸다]라고 하는 의미로 번역되었습니까?",,,문법책-Hornby
+984,10309020000,"My own car, like Peter's, is German.",내 자신의 차는 피터의 차와 마찬가지로 독일제이다.,"“like Peter's""가 ""like Peter's car""와 같은 의미로 번역되었습니까?",,,문법책-Hornby
+985,10309030000,"If you don't, count the stripes on the American flag.","만약 모르면, 미국 국기에 있는 줄무늬들을 세어 보라.","""if you don't""가 [그렇지 않다면]이라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+986,10309030000,"One hour passed, then another.",한 시간이 지나고 또 한 시간이 지났다.,""", then another""이 [, then another passed]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+987,10309030000,I'm sad if she is.,만약 그녀가 슬퍼하고 있다면 나도 슬프다.,"“if she is""가 ""if she is sad""와 같은 의미로 번역되었습니까?",,,문법책-Hornby
+988,10309030000,My elder sister always wakes up earlier than I.,우리 누나는 항상 나보다 빨리 일어납니다.,"""than I""가 ""than I wake up""과 같은 의미로 번역되었습니까?",,,문법책-Hornby
+989,10309030000,"You can leave the room, if you want to.",그렇게 하고 싶으면 방을 나가도 좋아요.,"""if you want to""가 ""if you want to leave""와 같은 의미로 번역되었습니까?",,,문법책-Hornby
+990,10309030000,I don't study so hard as they.,나는 그들만큼 열심히 공부하지 않는다.,"[나는 그들만큼]로, ""I""와 ""they""이 비교되는 형태로 번역되었습니까?",,,문법책-Hornby
+991,10309040000,"""How answered? What do you mean?"" asked the king.",어떻게 대답을 들었다는 겁니까? 무슨 뜻이지요? 라고 임금이 물었다.,"""How answered?""가 [어떻게 당신이 대답을 들었다는 것입니까?]의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+992,10309040000,It's hard to believe but true that more Irish people live in New York than in Dublin.,더블린보다도 뉴욕에 더 많은 아일랜드 사람들이 산다고 하는 것은 믿기 어렵지만 사실이다.,"""but true""가 [~이지만 사실이다]로 ""it is""가 생략된것으로 보아 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+993,10309040000,"Though poor, he is very generous.",그는 가난하지만 매우 너그럽다.,"""Though poor""이 [그는 가난하지만]과 같이 ""though he is poor""의 의미로 번역이 되었습니까?",,,문법책-성문기본
+994,10310000000,"Sad as he was, Ralph never despaired.",비록 슬펐지만 랠프는 결코 절망하지 않았다.,"""sad""가 주어""he""의 상태를 나타내도록 보어로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+995,10310000000,Here comes the car.,"봐, 차가 왔어.","[봐, 차가 왔어]로, 사태가 정말로 눈 앞에 발생한 것처럼 번역되었습니까?",,,문법책-Hornby
+996,10310000000,He thought desirable most of the women in the room.,그는 방 안에 있는 여성의 대부분이 매력적인 사람들이라고 생각했다.,"[방 안에 있는 여성의 대부분]이 [매력적이다]의 주어로, 또 [생각했다]의 목적어로 번역되었습니까?",,,문법책-Hornby
+997,10310000000,Under the tree was lying an old man.,그 나무 아래 한 명의 노인이 옆으로 누워 있었다.,"“was lying an old man""이 [한 명의 노인이 옆으로 누워 있다]로 번역되었습니까?",,,문법책-Hornby
+998,10310000000,Never have I been to Switzerland.,한 번도 나는 스위스에 간 적이 없다.,전체적으로 [한 번도∼한 적이 없다]로 번역되었습니까?,,,문법책-Hornby
+999,10311010000,Cheering crowds of people lined the streets.,환호하는 군중이 연도에 줄지어 있었다.,"""crowds of people""이 [군중들]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1000,10311010000,"Of course, we cannot see the sun, the moon, and stars if clouds are in the way.","물론 구름이 가로막으면 태양도, 달도, 그리고 별들도 볼 수 없다.","""the sun, the moon, and the stars""가 ""see""의 목적어로 나열된것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1001,10311010000,Ralph Bunche had become a real hero to the people of his neighborhood.,랠프 번치는 그의 이웃 사람들에게 진정한 영웅이 되어 있었다.,"""the people of his nighborhood""가 [그의 이웃사람들]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1002,10311010000,"Smoke, fog, buildings, and mountains are a few of them.","연기, 안개, 건물들 및 산들은 그 중의 몇 가지이다.","""Smoke, fog, buildings, and mountains ""이 [연기, 안개, 건물들 및 산]으로 나열되어 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1003,10311010000,He painted the walls and the floor white.,그는 벽과 바닥을 하얗게 칠했다.,"“the walls""와 ""the floor""가 [하얗게 칠했다]의 대상으로 번역되었습니까?",,,문법책-Hornby
+1004,10311020000,Mrs. Evans snatched the child from him and looked at her.,에반스 부인은 그로부터 아이를 빼앗듯이 받아 안고 살펴보았다.,"""snatched~""와 ""looked~""가 모두 주어 ""Mrs. Evans""에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1005,10311020000,I love you and therefore am writing this letter.,나는 당신을 사랑하고 있기 때문에 이 편지를 쓰고 있습니다.,"나열된 동사 ""love""와 ""am writing""이 각각 [나는 사랑하기때문에 편지를 쓴다]로 모두 ""I""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1006,10311020000,We cannot avoid or postpone making this decision.,우리들은 이 결정을 실시할 것을 피하거나 연기할 수 없다.,[이 결정을 하는 것을 피할 수 없다]와 [이 결정을 할 것을 연기할 수 없다]의 2개의 의미로 번역되었습니까?,,,문법책-Hornby
+1007,10311020000,His company expects to obtain regulatory approval and complete the transaction by year-end.,그의 회사는 규정하는 승인을 얻어 연말까지 거래를 완료할 것을 기대한다.,"""obtain∼and complete∼""가 [얻어~완료하다]와 같이 나열구가 [그의 회사가 기대하다]에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1008,10311020000,"The old man landed his boat, climbed out of it with difficulty and looked round.",노인은 보우트를 육지에 대고 간신히 보우트에서 빠져 나와 주위를 둘러보았다.,"""landed (his boat)"", ""climbed (out of it with difficulty)"" "" looked round""가 [육지에 대다],[올랐다],[주위를 둘러보았다]가 모두 ""the oldman""이 한 행동으로 번역이 되었습니까?",,,문법책-맨투맨
+1009,10311040000,"""A boy of your age could get lost, or hurt, or in trouble in downtown Detroit.""","네 또래의 아이는 디트로이트 시내에서 길을 잃거나, 다치거나, 혹은 곤경에 빠질 수 있단다.","""get lost, or hurt, or in trouble""이 [길을 잃거나 다치거나 곤경에 처하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1010,10311040000,"A long, thin nose goes with strength of character, marking a person who can be trusted, etc.","길고 가는 코는 강한 성격을 수반하며, 신뢰할 수 있는 사람 등임을 나타낸다.","""long, thin""이 [길고 가는]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1011,10311040000,Dr. Akram worked quickly and carefully.,아크람 의사는 빠르고 조심스럽게 일했다.,"""quickly and carefully""가 [빠르고 조심스럽게]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1012,10311040000,"I was a child, again frightened before a terrible, mysterious force that wanted to kill me.",나는 나를 죽이려 하는 무시무시하고 신비스러운 힘 앞에서 다시 한 번 두려움에 떠는 어린아이가 되었다.,"""terrible, mysterious force""가 ""that절""의 수식을 받아 [무섭고, 신비스런힘]이라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+1013,10311040000,She agreed to start early and by herself.,"그녀는 바로, 그리고 혼자서 출발하는데 동의했다.","[그녀가 동의했다]는 것이 ""early"" 그리고 ""by herself""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1014,10311050000,He said the Philippines and Thailand would be the main beneficiaries of the president's action.,그는 필리핀과 태국이 대통령의 행동의 주요 수익자일거라고 말했다.,"""Philippines""와 ""Thailand""가 [수익자이다]로 번역되었습니까?",,,문법책-Hornby
+1015,10311060000,"I know two companies in contact with each other, and supplying materials for each other.",나는 상호 접촉하여 상호 재료를 공급하고 있는 2개의 회사를 알고 있다.,"[2개의 회사]가 ""in contract"" 이면서 ""supplying materials""하고 있는 것으로 번역되었습니까?",,,문법책-Hornby
+1016,10311060000,He assumes reinvestment of dividends and that the current yield continues for a year.,그는 배당의 재투자와 현재의 수익이 1년 계속될 것으로 추측한다.,"""reinvestment of dividends""와 ""that"" 이하가 [추측하다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+1017,10311070000,The hotel decided to treat them more like royalty or rock stars than factory owners.,호텔은 그를 공장경영자라고 하기 보다 왕족이나 록 스타로 다루기로 결정했다.,"""royalty or rock star""가 [왕족이나 록 스타]로 번역되었습니까?",,,문법책-Hornby
+1018,10311070000,The users used their television sets as screens and stored data on cassettes.,"이용자는 스크린으로서 TV를 사용하고, 그리고 카셋트 위에 데이터를 저장했다.","이용자는 ""used their television sets""와 ""stored data""를 한 것으로 번역되었습니까?",,,문법책-Hornby
+1019,10311080000,"One for the money, two for the show, three to make ready, and four to go.","첫번째 결혼은 돈을 위해서이고, 두번째 결혼은 남에게 뽐내기 위해서이고, 세번째 결혼은 저 세상에 갈 준비를 하기 위해서이고, 네번째 결혼은 저승으로 가기 위해서이지.","문전체가 [첫번째는~을 위해서이고, 두번째는~을 위해서이고~세번째는~]과 같이 동일형태의 나열구로 번역이 되었습니까?",,,문법책-맨투맨
+1020,10312010100,I know him.,나는 그를 알고 있다.,"""know""가 [알고 있다]로 현재의 지속적인 상태로 번역되었습니까?",,,문법책-Hornby
+1021,10312010100,Cats drink milk.,고양이는 우유를 마신다.,[마시다]가 습관을 나타내는 표현으로 번역되었습니까?,,,문법책-Hornby
+1022,10312010100,The moon rises in the east.,달은 동쪽에서 뜬다.,"""rises""가 [뜬다(뜨는 것이다)]로, 일반적 진리를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1023,10312010100,Here comes the car.,"봐, 차가 왔어.","""comes the car""가[ 차가 왔어]로 번역되었습니까?",,,문법책-Hornby
+1024,10312010100,She leaves tomorrow.,그녀는 내일 출발한다.,"""leaves""가 [출발한다]로, 확정된 가까운 미래를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1025,10312010200,"""You have already been answered!"" said the hermit, still bending down to the ground.",당신은 이미 대답을 들으셨소! 라고 그 은자는 땅을 향해 몸을 굽힌 채로 말했다.,[당신은 이미 대답을 들었다]로 완료된 상황을 나타내도록 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1026,10312010200,Have you ever wondered what would happen if there were no light?,빛이 없으면 무슨 일이 일어날까 생각해 본 적이 있는가?,"""have you ever wonder""가 [들어본적 있습니까]로 현재완료 경험으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1027,10312010200,Immigrants of many different nationalities have settled in the U.S. throughout its history.,국적을 달리하는 이주민들이 미국의 전역사를 통해서 정착해 왔다.,"""have settled""가 [정착해 왔다]로 과거의 어느시점에서 현재까지 영향을 미치는 것으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1028,10312010200,We have invented mirrors and lenses.,우리는 거울과 렌즈를 발명했다.,문장이 현재완료로 [발명했다]로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1029,10312010200,I have already written a letter.,나는 이미 편지를 써 버렸다.,"""have already written""이 [이미 써 버렸다]로, 현재까지 동작(write)이 완료한 것으로 번역되었습니까?",,,문법책-Hornby
+1030,10312010300,He is working now.,그는 지금 일을 하고 있다.,"""is working""이 [일을 하고 있다]로 현재 행해지고 있는 동작으로 번역되었습니까?",,,문법책-Hornby
+1031,10312010300,He is always working at night.,그는 항상 밤에 일을 하고만 있다.,"[항상 ∼하고만 있다]로, 습관적 동작을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1032,10312010300,I am having dinner.,나는 저녁을 먹고 있다.,"""having""이 [먹고 있다]로, 현재 이루어지고 있는 동작을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1033,10312010300,The moon is rising in the east now.,달이 지금 동쪽에서 떠오르고 있다.,"""is rising""이 [떠오르고 있다]로 현재 행해지고 있는 동작으로 번역되었습니까?",,,문법책-Hornby
+1034,10312010300,The demand for water is growing everyday.,물에 대한 수요는 나날이 증가되고 있다.," ""is growing""이 [증가되고 있다]로 현재도 진행중인 상황으로 번역이 되었습니까?",,,문법책-맨투맨
+1035,10312010400,It has been raining since yesterday.,어제부터 비가 계속 내리고 있다.,"[계속 내리고 있다]로, 현재까지의 동작의 계속으로 번역되었습니까?",,,문법책-Hornby
+1036,10312010400,I have been studying French for 10 years.,나는 10년 동안 프랑스어를 공부해 오고 있다.,"[공부해 오고 있다]로, 현재까지의 동작의 계속으로 번역되었습니까?",,,문법책-Hornby
+1037,10312020100,It was going to be a very important announcement about the war.,그것은 전쟁에 관한 아주 중요한 발표가 될 것이었다.,문장이 [~될것이었다]로 과거의 시제를 나타내도록 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1038,10312020100,Why did you keep it?,왜 그것을 간직하고 있었소?,[왜 그것을 간직하고 있었습니까?]로 과거에 있었던 일을 묻는 것으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1039,10312020100,I wrote a letter yesterday.,나는 어제 편지를 썼다.,"“wrote a letter""가 [편지를 썼다]로, 과거의 동작을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1040,10312020100,I knew him well.,나는 그를 잘 알고 있었다.,[그를 잘 알고 있었다]로 과거의 상태로 번역되었습니까?,,,문법책-Hornby
+1041,10312020100,The airplane left before I reached the airport.,그 비행기는 내가 공항에 도착하기 전에 출발해버렸다.,"""left before I reached""가 [내가 도착하기 전에 출발해버렸다]로, 이미 출발이 완료해버렸다는 의미로 번역되었습니까?",,,문법책-Hornby
+1042,10312020200,And Jeff had done it.,그리고 제프는 그것을 했었다.,"""had done""이 [했었다]로 과거완료로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1043,10312020200,She learned that in India scientists had tried to increase plant yield with music.,그녀는 인도에서 과학자들이 음악으로 작물 생산량을 늘리려고 시도했었다는 것을 알았다.,과학자들이 시도했던 것이 그녀가 배운것 보다 더 이전에 일어난 것으로 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1044,10312020200,The plague had reached out and struck at us.,그 전염병이 손을 뻗쳐 우리를 엄습한 것이다.,"""had reached out""가 ""struck at us""보다 이전의 상황임을 나타내어 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1045,10312020200,I had written a letter by then.,나는 그 때까지 편지를 다 썼었다.,"[그 때까지 다 썼었다]로, 완료를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1046,10312020200,He remembered that he had lost his book.,그는 책을 잃어버렸던 것을 떠올렸다.,"[잃어버렸던 것을 떠올렸다]로, [떠올린 시점보다 전에 책을 잃어버렸었다]라는 상황에 모순되지 않는 형태로 번역되었습니까?",,,문법책-Hornby
+1047,10312020300,"A few days later, Dr. Akram was talking to Dr. Cook.","며칠 후, 아크람 의사는 쿡 의사에게 이야기를 하고 있었다.","""was talking to~""가 [~에게 말하고 있었습니다]로 과거에 진행중인 일로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1048,10312020300,My dog was barking a lot then.,우리 개는 그 때 잘 짖고 있었다.,"[짖고 있었다]로, 과거의 한 시점에서 행해졌던 동작(진행형)으로 번역되었습니까?",,,문법책-Hornby
+1049,10312020300,The bowl was lying on the ground and a cat was drinking milk from it.,"그 사발은 땅에 놓여 있었으며, 고양이가 그 사발에서 우유를 마시고 있었다.","""was lying""[놓여있었다],""was drinking"" [마시고 있었다]로, 과거의 한 시점에서의 상태와 동작으로 번역되었습니까?",,,문법책-맨투맨
+1050,10312020300,Mass production was beginning before the war.,대량 생산은 전쟁 이전에 시작되고 있었다.," ""was beginning"" 이[시작되고 있었다]로, 과거의 한 시점에서의  동작으로 번역되었습니까?",,,문법책-맨투맨
+1051,10312020300,"""I wasn't smelling the fish; I was only talking to it,"" answered the negro.","""저는 생선의 냄새를 맡고 있지는 않았어요.저는 단지 생선에게 말을 하고 있었지요.""하고 그 흑인이 대답했다.","""wasn't smelling"" [맡고 있지 않았었다] ,""was only talking"" [말을 하고 있었다]로, 과거의 한 시점에서의  동작으로 번역되었습니까",,,문법책-맨투맨
+1052,10312020400,I had been working here for ten years when he joined us.,"그가 우리들에게 합류했을 때, 나는 여기에서 이미 10년간 일하고 있었다.","""had been working here for ten years""가 [이미 10년간 일하고 있었다]로, 과거의 한 시점까지의 동작의 계속으로 번역되었습니까?",,,문법책-Hornby
+1053,10312030100,You will be ten years old next year.,당신은 내년에 10살이 된다.,"“will be ten years old""가 [10살이 되다[될 것이다]]로, 미래 사항을 언급하는 표현으로 번역되었습니까?",,,문법책-Hornby
+1054,10312030100,I shall be late if I miss that train.,나는 그 열차를 놓치면 지각할 것이다.,"[차를 놓치면 지각할 것이다]로, (지각하는/늦는) 일이 미래에 일어날 수 있는 일로서 번역되었습니까?",,,문법책-Hornby
+1055,10312030100,I will give you this book.,당신에게 이 책을 드려요.,"[당신에게 이 책을 드려요]로, 화자의 의지로 번역되었습니까?",,,문법책-Hornby
+1056,10312030100,She shall stay in bed.,그녀는 재워둬야지.,"""shall stay in bed""가 [재워둬야지]로, 화자의 의지로 번역되었습니까?",,,문법책-Hornby
+1057,10312030100,When will they come?,그들은 언제 옵니까?,"[그들은 언제 옵니까]로, 의지와는 무관하게 미래의 사실을 묻는 표현으로 번역되었습니까?",,,문법책-Hornby
+1058,10312030200,I will have written this letter by noon tomorrow.,나는 내일 정오까지는 이 편지를 써버릴 것이다.,"""will have written""이 [써 버릴 것이다]로, 미래의 한 시점까지의 동작의 완료를 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1059,10312030200,I will have arrived there before he starts.,그가 출발하기 전에 나는 그곳에 도착해 버릴 것이다.,"""will have arrived""가 [도착해 버릴 것이다]로, 미래의 한 시점까지 동작이 완료되어 있을 것을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1060,10312030200,"If I visit Malaysia once again, I will have been there six times.",만약 내가 말레이시아를 다시 방문한다면 나는 그곳에 6번 간 것이 된다.,"""will have been there six times""가 [그곳에 6번 간 것이 된다]로, 미래의 한 시점에 있어서의 경험으로서 번역되었습니까?",,,문법책-Hornby
+1061,10312030200,I will have been in London for five years next year.,나는 내년으로 런던에 5년 있는 것이 된다.,"[내년으로 5년 있는 것이 된다]로, 미래에 있어서의 상태의 계속을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1062,10312030300,I will be helping John tomorrow.,내일은 나는 죤을 도와주고 있을 것이다.,"""will be helping John""이 [죤을 도와주고 있을 것이다]로 진행형으로 번역되었습니까?",,,문법책-Hornby
+1063,10312030400,I will have been staying in this hotel for two months next Monday.,다음 월요일로 나는 이 호텔에 2개월 계속 체류하고 있는 것이 된다.,"[다음 월요일로 2개월 계속 체재하고 있는 것이 된다]로, 미래에 있어서의 상태의 계속을 나타내는 표현으로 번역되었습니까?",,,문법책-Hornby
+1064,20101010000,A climb to success is so hard.,성공을 향해 오르기는 매우 어렵다.,"""climb""가 [오르기]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1065,20101010000,Light from the sun helps warm the earth.,태양에서 나오는 빛은 지구를 따뜻하게 하는 데 도움이 된다.,"""warm""이 [~을 따뜻하게 하다]라고 동사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1066,20101010000,Martin goes to get the drinks.,마틴은 마실 것을 가지러 간다.,"""the drinks""가 [음료]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1067,20101010000,So you knew that she needed help.,그래서 자네는 그녀가 도움을 필요로 한다는 것을 알았겠군.,"""help""가 [도움]으로 명사로서 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1068,20101010000,The big bag rose quickly into the air.…,그 큰 자루는 빠른 속도로 공중으로 올라갔다.,"""rose""가 [올라갔다]로 ""rise""의 과거형으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1069,20101020000,The trash can was thrown away.,쓰레기 캔은 버려졌다.,"“can""이 [캔]으로 명사로 번역되었습니까?",,,문법책-Hornby
+1070,20101030000,"I just kept it in a book, and never did any more about it.",저는 단지 그것을 책 속에 넣어 두고서 어떠한 그 이상의 것도 하지않았습니다.,"""more""가 [그 이상의 것]이라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+1071,20101030000,"When I returned home, I wrote at once to my father.",집에 돌아오자 나는 즉시 아버지에게 편지를 썼다.,"""home""이 [집으로]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1072,20101040000,We needed money.,우리는 돈이 필요했습니다.,"""need""가 [~가 필요하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1073,20101040000,"Yes, he did just that.","예, 그는 바로 그렇게 했습니다.","""did""가 [~을 했다]로 조동사가 아닌 동사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1074,20101040000,You can do it by yourself.,너는 혼자서 그것을 할 수 있다.," ""do ""가 [하다]로 문의 주동사로 번역이 되었습니까?",,,문법책-맨투맨
+1075,20101040000,He does not dare to look down upon me.,그는 감히 나를 모욕하지 못한다.,"""does not dare~"" 가[감히~하지 못한다]로 문의 주동사로 번역이 되었습니까?",,,문법책-맨투맨
+1076,20101040000,He dare not go alone.,나는 감히 혼자 못간다.,"""dare not go alone""가[감히 혼자 가지 못한다]로 ""dare""가 조동사로 번역이 되었습니까?",,,문법책-맨투맨
+1077,20101050000,Reading the book I mentioned yesterday will help you.,내가 어제 언급한 책을 읽는 것은 당신을 도울 것이다.,"“Reading the book I mentioned yesterday""가 [내가 어제 언급한 책을 읽는 것]으로, 명사절로 번역되었습니까?",,,문법책-Hornby
+1078,20101050000,Self-knowledge is having information about yourself.,자기지식이란 자기자신에 관한 정보를 갖는 것이다.,"""having information about yourself""가 [자기자신에 관한 정보를 갖는 것이다]라고 하는 명사절로 번역되었습니까?",,,문법책-Hornby
+1079,20101050000,These properties are used when simplifying algebraic expressions.,이들 성질은 대수식(代數式)을 간단하게 할 때 이용된다.,"""when simplifying algebraic expression""이 [대수식을 간단하게 할 때]로 때를 나타내는 부사절로 번역되었습니까?",,,문법책-Hornby
+1080,20101050000,Fuel transfer personnel shall not wear static electricity producing clothes.,연료 수송원은 정전기를 발생하는 옷을 입어서는 안된다.,"""static electricity producing clothes""가 [정전기를 발생하는 옷]으로, [옷]이 [발생하다]의 의미상 주어가 되도록 번역되었습니까?",,,문법책-Hornby
+1081,20101050000,I saw a sleeping car.,나는 침대차를 보았다.,"""a sleeping car""가 [침대차]로, 용도 목적의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+1082,20101050000,I saw a sleeping baby.,나는 잠자고 있는 아기를 보았다.,"""a sleeping baby""가 [잠자고 있는 아기]로, 현재의 상태, 동작의 의미로 번역이 되었습니까?",,,문법책-맨투맨
+1083,20101070000,I screamed out that Japan had surrendered to the Americans.,나는 일본이 미국에게 항복했다고 울부짖었다.,"""that절 이하가""가 ""screamed out""의 목적절로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1084,20101070000,Mrs. Retallack had seen that some sounds seemed to help plants.,레텔랙 부인은 어떤 소리들은 식물에 도움을 주는 것 같다는 것을 알았다.,"""that""이 접속사로 ""had seen""의 목적절로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1085,20101070000,That deer ate everything in my garden surprised me.,사슴이 정원에 있는 모든 것을 먹은 것은 나를 놀라게 했다.,"문두의 “that""이 보문표식(補文標識)으로서 인정되어, [사슴이 정원에 있는 모든 것을 먹은 것]이 문의 주어로 번역되었습니까?",,,문법책-Hornby
+1086,20101070000,That deer ate everything in my garden last night.,그 사슴은 어젯밤 정원에 있는 모든 것을 먹었다.,"문두의 ""that""이 [그 사슴]으로 지시사로 번역되었습니까?",,,문법책-Hornby
+1087,20101080000,She felt that maybe there were sounds that would help man.,그녀는 인간에게 도움이 될 소리가 어쩌면 있을 것이라고 생각했다.,"""felt that~""의 ""that""이 명사절을 이끄는 종속접속사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1088,20101080000,I know that hit Mary.,나는 그것이 메리를 때린 것을 알고 있다.,"“that""이 [그것]으로 대명사로 번역되었습니까?",,,문법책-Hornby
+1089,20101080000,Some scientists say that climate influences growth.,몇몇 과학자들은 기후는 성장에 영향을 준다고 말합니다.,"""say that ~""이 [~라고 말하다]로, ""that""이하의 절이 [말하다]의 내용이 되도록  번역이 되었습니까?",,,문법책-맨투맨
+1090,20101090000,"Beyond that, however, no one can tell for sure.",그러나 그 이상은 누구도 분명하게 말할 수 없다.,"""that""이 [그것]으로 지시대명사로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1091,20101100000,"He saw no one but simple people, and so the king put on ordinary clothes.",그는 평범한 사람들 외에는 아무도 만나지 않았으므로 임금은 수수한 옷을 입었다.,"""but""이 [~을 제외하고]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1092,20101100000,You shouldn't choose the president like you choose goods in a supermarket.,슈퍼마켓에서 물건을 고르듯이 대통령을 선택해야 하는 것은 아니다.,"“like""가 [～하듯이～하다]로 접속사로 번역되었습니까?",,,문법책-Hornby
+1093,20101100000,He lives the next door but one.,그는 한 집 건너 이웃에 살고 있다.,"""but""이 제외의 의미로 번역되었는가?",,,문법책-Hornby
+1094,20101110000,You need to understand the feelings that you have.,당신은 당신이 가지고 있는 감정을 이해할 필요가 있다.,"“that you have""가 [당신(이/의) 가지고 있다]로, [감정]에 걸리는 연체절로 번역되었습니까?",,,문법책-Hornby
+1095,20101110000,I told the girl that I like the story.,소녀에게 나는 그 이야기를 좋아한다고 말했다.,"""that"" 이하가 [나는 그 이야기를 좋아한다]로 [말했다]의 내용으로 번역되었습니까?",,,문법책-Hornby
+1096,20101120000,He was in a bad mood and drove like a crazy man.,"그는 기분이 좋지 않았고, 미친 사람처럼 차를 몰더군요.","""like""가 [~처럼]로 전치사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1097,20101120000,I ate mine like soup.,나는 커피를 수프처럼 떠먹었다.,"""like soup""이[수프처럼]으로 ""like""가 [~처럼]으로 번역이 되었습니까?",,,문법책-맨투맨
+1098,20101130000,"About 1939, I believe.",1939년쯤이었다고 믿어요.,"""about~""이 [약~]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1099,20101130000,Once before I was driven too fast.,전에 한 번은 내가 탄 차가 너무 빨리 달렸지요.,"""once before""가 [전에 한번은]으로 부사로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1100,20101130000,I will write down the answer about an hour later.,나는 약 1시간 후에 대답을 간단히 쓸 것입니다.,"“about""이 [(약/대략)]으로 번역되었습니까?",,,문법책-Hornby
+1101,20101130000,I can read about that couple every day.,매일 그 커플에 관해 읽을 수 있다.,"""about""이 [∼에 관해/∼에 대해]로 번역되었습니까?",,,문법책-Hornby
+1102,20101130000,Human infants do not usually shed tears until they are about six weeks old.,유아는 생후 약 6주가 되어서야 비로소 대개 눈물을 흘린다.,"""about""이 [약, 대략]으로 번역이 되었습니까?",,,문법책-맨투맨
+1103,20101140000,"He has but one aim in life, to make money.",그는 인생에서 단지 돈 벌겠다는 목적만을 가지고 있다.,"""but""이 [단지]의 의미로 부사로 번역이 되었습니까?",,,문법책-성문기본
+1104,20101150000,"Moreover, many of you may stop at this level.",더욱이 여러분 중 다수가 이 수준에서 멈춘다.,"""many of ""가 [~중 다수]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1105,20101150000,Most of our London taxi drivers are very cautious.,런던 택시 기사들중 대부분은 아주 조심성이 있는데.,"""most of""가 [~중 대부분]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1106,20101150000,But he  himself was very mean about small sums of money.,그러나 자기 자신은 적은 액수의 돈에도 몹시 인색했다.,"""mean""이 [인색한]과 같이 형용사로 번역이 되었습니까?",,,문법책-맨투맨
+1107,20101150000,"If my heart were base enough to love without being loved in return, I would tear it to pieces.","만일 내 마음이 당신의 사랑을 받지 못하면서 사랑할 정도로 비참해진다면, 나는 그것을 갈기갈기 찢어버릴 것이오.",""" base""가 [비참한]과 같이 형용사로 번역이 되었습니까?",,,문법책-맨투맨
+1108,20101170000,"""Why, Ralph, that's the most you've ever made selling newspapers!""","어머나, 랠프야, 네가 신문을 팔아 번 돈 중에서 제일 많구나!","""why""가 [어머나]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1109,20101170000,What! Not really? ,뭐라구! 설마 그럴리가?,"""what""이 [뭐라구!]와 같이 놀람을 나타내도록 번역이 되었습니까?",,,
+1110,20102010000,Do you form opinions about people simply from looking at their faces?,당신은 단지 사람들의 얼굴을 보는 것만으로 그들에 관한 견해를 형성하는가?,"""simply""가 ""from""이하의 전치사구를 수식하여 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1111,20102010000,He didn't get the money honestly.,그는 그 돈을 정당한 수단으로 얻은 것은 아니었다.,"""honestly""가 [정당한 수단으로 (정직하게)]로 번역되었습니까?",,,문법책-Hornby
+1112,20102010000,"Honestly, he didn't get the money.","정직히 말해, 그는 그 돈을 얻지 못했다.","""honestly""가 [정직히 말해, 사실은]으로 번역되었습니까?",,,문법책-Hornby
+1113,20102010000,The company now faces additional trouble.,그 회사는 지금 새로운 문제에 직면해 있다.,"[그 회사는 지금, 직면해 있다]로 번역되었습니까? 부사 ""now""의 번역법. 즉, ""now""를 ""company""가 아니라 ""face""에 걸리게 해석했는가?",,,문법책-Hornby
+1114,20102010000,He told me to strictly attend to the invader.,그는 나에게 침입자에게 엄격하게 대응할 것을 명령했다.,"""to strictly attend""가 [엄격하게 대응하다]로 [엄격하게]가 [대응하다]의 수식어구로서 번역되었습니까?",,,문법책-Hornby
+1115,20102020000,You have to stop the operation if the temperature is more than it or if the pump overheat light comes on.,온도가 그 이상이 되든가 펌프의 오버히트 표시가 들어오면 조작을 그만두지 않으면 안된다.,"2개의 ""if"" 이하가 각각 [조작을 그만두다]의 조건으로 번역되었습니까?",,,문법책-Hornby
+1116,20102020000,He will direct an effort to reduce overhead until a more satisfactory level of profit is achieved.,나는 이익이 보다 만족할 수 있는 수준에 달할 때까지 오버헤드를 감소시키는 노력을 명령할 것이다.,"“until"" 이하의 부분이 ”direct""를 수식하도록, 즉 “reduce""만을 수식하지 않도록 번역되었습니까?",,,문법책-Hornby
+1117,20102030100,"I've often tried to find another stamp like it, but there aren't many in the world.",나는 종종 그것과 같은 것을 하나 더 찾으려고 해보았지만 세상에 많지 않았습니다.,"""stamp like it""이 [그와 같은 우표]로 명사에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1118,20102030100,People in Korea cannot see people in America.,한국에 있는 사람들은 미국에 있는 사람들을 볼 수 없다.,"""people in Korea""가 [한국에 있는 사람들]로 전치사구가 명사에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1119,20102030100,Perhaps I was thinking of my father in prison.,아마도 감옥에 계신 아버지를 생각하고 있었는지 모른다.,"""in prison""이 [감옥에 있는]으로 ""my father""을 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1120,20102030100,Ralph didn't even have money for transportation.,랠프는 여비마저 없었다.,"""for transportation""이 ""money""를 수식하여 [여비]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1121,20102030100,I found cheaper products at an electrical shop.,나는 좀 더 싼 제품을 전기점에서 발견했다.,"[전기점에서 발견했다]로 ""at an electrical shop""이 걸리는 곳이 ""found""로 번역되었습니까?",,,문법책-Hornby
+1122,20102030200,The company is located in Taejon about 30 kilometers from Seoul.,그 회사는 서울에서 30킬로 정도 떨어진 대전에 있었다.,[대전은 서울에서 30킬로 정도 떨어져 있다]로 번역되었습니까?,,,문법책-Hornby
+1123,20102030200,By ordering books from our company you help us continue to publish more.,우리들의 회사에 책을 주문함으로써 당신은 우리들이 또한 책의 출판을 계속하는 것을 돕는 것이 된다.,"[우리들의 회사에 책을 주문함으로써]로 ""By ordering books from our company""를 하나의 덩어리로 번역하였습니까?",,,문법책-Hornby
+1124,20102030300,There is a station in the town.,마을에 역이 있다.,[마을에 있다]로 번역되었습니까?,,,문법책-Hornby
+1125,20102040000,He doesn't say the woods and snow are beautiful until he comes to the last stanza.,시인은 마지막 연에 이르러서야 비로소 숲과 눈이 아름답다고 말한다.,"""the wood and snow""가 [숲과 눈]으로 ""and""가 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1126,20102040000,He just spat on his hands and resumed his work.,그는 다만 손에 침을 뱉고는 그의 일을 계속할 뿐이었다.,"""resumed his work""가 ""he""에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1127,20102040000,"Immigrants from Germany, France and other European countries followed.","독일, 프랑스, 그리고 다른 유럽 국가들로부터의 이주민들이 뒤따랐다.","""immigrants""가 ""followed""의 주어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1128,20102040000,One reason is that light cannot curve around the earth or travel through the earth.,한 가지 이유는 빛이 지구를 따라 굴절하거나 지구를 뚫고 지나갈 수 없기 ㄸ문이다.,"""or""로 연결된 두 동사구가 주어 ""light""에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1129,20102040000,Ralph sold papers and shined shoes.,랠프는 신문도 팔고 구두도 닦았다.,"두 동사구가 """"ralph""에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1130,20102050000,It is certain that he is deeply moved by the beauty and peace of the moment.,그가 그 순간의 아름다움과 평화스러움에 깊이 감동된 것은 확실하다.,"""the beauty and peace of the moment""이 [순간의 아름다움과 평화스러움]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1131,20102050000,"The bag filled with smoke and hot air, and they felt it pulling upwards.","그 자루는 연기와 뜨거운 공기로 가득찼고, 그들은 그것이 위를 향해 당기고 있는 것을 느꼈다.","""smoke and hot air""가 ""filled with""의 목적어로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1132,20102050000,"When the king had dug two rows, he stopped and repeated his questions.",임금은 두 줄을 파고 나서 일손을 멈추고는 그의 질문을 되풀이했다.,"""stopped and repeated his questions""가 [멈춰서 그의 질문을 되풀이 했다]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1133,20102050000,"The hotel sent giveaways to its guests, such as telephones or watches.",그 호텔은 고객에게 전화와 시계 등의 경품을 보냈다.,"[전화와 시계 등의 경품]으로, “such as"" 이하가 ""giveaways""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1134,20102060000,All Burke ever wanted to do was to train his new pony.,버크가 하고 싶어했던 것은 모두 자기의 새 조랑말을 훈련시키는 것뿐이었다.,"""All Burke ever wanted to do""가 [버크가 하고 싶어했던 것은 모두]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1135,20102060000,But the plants that had piano tones for just a short time grew well.,그러나 단지 짧은 시간 동안만 피아노 소리를 들은 식물들은 잘 자랐다.,[짧은 시간동안 피아노 소리를 들은 식물]로 번역되었습니까?,,,영어교과서-고교ii-a-1
+1136,20102060000,Honesty is clearly not a quality that can be measured and transformed into a permanent score.,분명히 정직이란 그것을 측정하여 불변의 수치로 바꿀 수 있는 자질이 아니다.,"""and""로 이어진 동사구가 모두 ""quality""를 수식하도록 번역되었습니까?",,,영어교과서-고교ii-a-1
+1137,20102060000,"There was one among us, however, who had no fear of the terrible plague.",그러나 우리들 중에 그 무서운 병을 두려워하지 않는 한 아이가 있었다.,""",who~""관계절이 ""one""을 수식하도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1138,20102060000,By ordering books from the company you founded we continue to save more.,당신이 설립한 회사에 책을 주문함으로써 우리들은 계속 절약할 수 있다.,"[당신이 설립한 회사에 책을 주문함으로써]로 ""By ordering books from the company you founded""가 하나의 덩어리로 번역되었습니까?",,,문법책-Hornby
+1139,20102070000,"The king was very glad to have made peace with his enemy, and to have gained him for a friend.",임금은 그의 적과 화해를 하고 그를 친구로 얻게 되어 매우 기뻤다.,"""to have gained him for a friend""가 ""to have made~""와 같이 ""glad""에 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1140,20102070000,We talked about a new way to build an electronic dictionary.,우리들은 전자사전을 만드는 새로운 방법에 대해 서로 이야기했다.,"[전자사전을 만드는 새로운 기술]로, TO부정사구가 “way""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1141,20102070000,We have a large number of pages to write.,우리들은 몇 페이지나 쓰지 않으면 안된다.,"[써야만 하는 많은 페이지]로 ""to write""가 ""a large number of pages""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1142,20102080000,"Now the mood of international festivity was high, and everybody seemed to get excited and expectant.",이제 국제적인 축제의 분위기는 고조되었고 모든 사람들은 흥분되고 기대에 찬 모습이었다.,"""expectant""가 ""get expectant""로  번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1143,20102080000,We all seemed to forget for a while that something strange and terrible was hovering everywhere about us.,우리 모두는 이상하고 무시무시한 무엇인가가 우리 주위의 도처에 감돌고 있다는 것을 잠시 잊고 있는 듯했다.,""" something strange and terrible ""가 [이상하고 무서운 무엇]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1144,20102090000,She had always believed that music could heal and noise could hurt.,그녀는 음악은 병을 치료할 수 있으며 소음은 해를 끼칠 수 있다고 늘 믿어 왔다.,"""that절""이 ""and""로 연결된 절까지 걸리도록 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1145,20201000000,"""Caroline had paralysis.""",캐롤라인은 소아마비에 걸렸었잖아.,"""had paralysis""가 [소아마비에 걸렸었다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1146,20201000000,Balloons were making long journeys in the air.,기구는 공중에서 긴 여행을 하고 있었다.,"""make ~journey""가 [여행을 하다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1147,20201000000,But she also took a science course.,그러나 그녀는 또한 과학 과정도 이수했다.,"""took a science course""가 [과학과정을 이수하다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1148,20201000000,"He played basketball, too, and helped his team win the championship for three years straight.",그는 농구도 해서 그의 팀이 3년 연속 우승을 하는 데 일조를 했다.,"""played basketball""가 [농구를 하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1149,20201000000,I didn't want to miss my train.,나는 기차를 놓치고 싶지 않았습니다.,"""miss my train""이 [기차를 놓치다]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+1150,20201000000,It just takes time.,단지 시간이 걸릴 뿐이지요,"""takes time""에서 ""take""의 여러 가지 의미중 ""~걸리다""의 뜻으로 쓰였는가?",,,영어교과서-고교ii-a-1
+1151,20202000000,Mr. Blair frowned at his son.,블레어 씨는 그의 아들을 보고 눈살을 찌푸렸다.,"""frown""이 ""at""과 공기현상을 일으켜 [~을 보고 눈살을 찌푸리다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1152,20202000000,My grandfather stared at me for a moment.,할아버지께서는 잠시 나를 뚫어지게 쳐다보셨다.,"""stare""가 ""at""과 공기현상을 일으켜 [~을 뚫어지게 쳐다보다]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1153,20202000000,The two women beamed with pride.,두 여인은 자랑스러워서 환하게 미소지었다.,"""beam""이 ""with""와 함께 [~으로 환하게 미소짓다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1154,20202000000,She took me for a foreigner.,그녀는 나를 외국인이라고 생각했다.,"""take∼for∼""가 [∼을 ∼라고 생각하다]로 번역되었습니까?",,,문법책-Hornby
+1155,20202000000,The computer company is based in New York.,컴퓨터회사는 뉴욕에 본거지를 둔다.,"“be based""가 [본거지를 두다]로 번역되었습니까?",,,문법책-Hornby
+1156,20203000000,And then a novel idea occurred to them.,그러다가 그들에게 기발한 생각이 떠올랐다.,"""idea occurred to ""가 [~에게 생각이 떠오르다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1157,20203000000,Foreign reporters and correspondents were busy covering what was going on in Seoul.,외국의 취재 기자와 특파원들은 서울에서 일어나고 있는 일들을 취재하느라고 바빴다.,"""cover""가 [취재하다]로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1158,20203000000,The star shines in the north.,별이 북쪽에서 반짝이고 있다.,"""star""가 [별]로 번역되었습니까?",,,문법책-Hornby
+1159,20203000000,The star ate lunch.,스타는 점심을 먹었다.,"""star""가 [스타]로 번역되었습니까?",,,문법책-Hornby
+1160,20204000000,"He received his Master's degree in 1928, and achieved one successs after another.",그는 1928년에 석사 학위를 받았고 하나씩 계속해서 성공을 거두었다.,"""Master's degree""가 [석사학위]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1161,20205000000,"many others will join Mrs. Retallack, studying the effects of sound on people.",많은 사람들이 레텔랙 부인의 일에 참여해서 사람들에 대한 소리의 효과를 연구할 것이다.,"""effect""가 ""on""과 공기현상을 일으켜서 [효과]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1162,20205000000,He was devoted to his reflection on the game.,그는 시합의 반성에 몰두하고 있었다.,"“reflection""이 [반성] 또는 [불명예]로 번역되었습니까?",,,문법책-Hornby
+1163,20205000000,An echo is the reflection of a sound wave.,메아리란 음파의 반사이다.,"""reflection""이 [반사]로 번역되었습니까?",,,문법책-Hornby
+1164,20205000000,I drank a cup of tea.,나는 한잔의 차를 마셨다.,"""a cup of tea""가 [한잔의 차]로 번역되었습니까?",,,문법책-Hornby
+1165,20205000000,He is a financial adviser to the troubled company.,그는 불안정한 회사에 경제 조언가이다.,"""adviser to""가 [~에 있어 조언가]라는 관계대응의 의미로 번역되었는가?",,,문법책-Hornby
+1166,20206000000,"One afternoon, a pleasant-looking white woman knocked at the door.",어느날 오후 한 상냥해 보이는 백인 여자가 문을 두드렸다.,"""one afternoon""가 [어느날 오후]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1167,20206000000,"Other features that people often mention when describing the ""criminal type"" are heavy eyebrows.",범죄형을 설명할 때 사람들이 흔히 언급하는 다른 특성들은 짙은 눈썹이다.,"""heavy""가 [짙은] 또는 [굵은]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1168,20206000000,Some people will offer a large amount of money for a stamp like this.,어떤 사람들은 이같은 우표에 대해 상당한 돈을 내겠다고 할 거야.,"""large""가 ""amount""와 함께 쓰여 수량을 나타내는 [많은]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1169,20206000000,He was a bright child.,그는 현명한 아이였다.,"“bright""가 [현명한]으로 번역되었습니까?",,,문법책-Hornby
+1170,20206000000,The bright light was shining on the building.,밝은 라이트가 건물을 비추고 있다.,"""bright""가 [밝은]으로 번역되었습니까?",,,문법책-Hornby
+1171,20207000000,He was angry with my advice.,그는 나의 조언에 화를 내고 있었다.,"""angry with""가 [∼에 화를 내고 있다]로 번역되었습니까?",,,문법책-Hornby
+1172,20207000000,"When I am with others, I take responsibility for my behavior.",나는 타인과 같이 있을 때는 자신의 행동에 책임을 진다.,[행동에 대한 책임]으로 번역되었습니까?,,,문법책-Hornby
+1173,20207000000,I am tired from talking.,나는 말을 해서 지쳤다.,"“tired from""이 [～해서 지치다]로 번역되었습니까?",,,문법책-Hornby
+1174,20207000000,I am tired of this movie.,나는 이 영화에 질려 있다.,"""tired of""가 [∼에 질려 있다]로 번역되었습니까?",,,문법책-Hornby
+1175,20208000000,A crane is a machine.,크레인은 기계이다.,"“crane""이 [크레인(기중기)]으로 번역되었습니까?",,,문법책-Hornby
+1176,20208000000,A crane is a bird.,학은 새이다.,"""crane""이 [학]으로 번역되었습니까?",,,문법책-Hornby
+1177,20209000000,The ink in the pen is strange.,펜 속의 잉크가 이상하다.,"“pen""이 [펜]으로 번역되었습니까?",,,문법책-Hornby
+1178,20209000000,Some pigs in the pen are strange.,울타리 안의 몇마리 돼지가 이상하다.,"""pen""이 [우리]로 번역되었습니까?",,,문법책-Hornby
+1179,20301000000,But we have invented ways of bending rays of light.,그러나 우리는 광선을 굴절시키는 방법을 창안해 냈다.,"""way""가 [방법]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1180,20301000000,Economy of words is one of the principal sources of power in poetry.,말의 절약은 시의 중요한 힘의 원천 중의 하나이다.,"""economy""가 [절약]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1181,20301000000,He came across an old picture in the back of the drawer.,그는 서랍 뒤에서 오래된 사진 한 장을 우연히 발견했다.,"""in the back of the drawer""가 [서랍의 뒤에서]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1182,20301000000,He was in a bad mood and drove like a crazy man.,"그는 기분이 좋지 않았고, 미친 사람처럼 차를 몰더군요.","""mood""가 [기분]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1183,20301000000,"To know the reason, you have to understand the nature of poetic symbols.",그 이유를 알기 위해서는 시적 상징의 본질을 이해해야 한다.,"""nature""가 [본질]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1184,20302000000,He spread the map on the table.,그는 지도를 탁자 위에 펼쳤다.,"""spread""가 [펼치다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1185,20302000000,I wrote to him about the stamp.,내가 그에게 우표에 관해 편지를 썼지.,"""wrote""가 [편지를 쓰다]라고 번역되었습니까?",,,영어교과서-고교ii-a-1
+1186,20302000000,Indians spread throughout the continent.,인디언들이 그 대륙 전역에 퍼져 있다.,"""spread""가 [퍼져있다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1187,20302000000,"Ralph's father ran a small barbershop, where a shave cost a nickel and a haircut, a dime.","랠프의 아버지는 작은 이발소를 운영하고 있었는데, 거기서는 면도하는 데 5센트, 머리 깎는 데 10센트를 받았다.","""run""이 [~을 운영하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1188,20302000000,They gathered nickels and dimes to raise a thousand dollars.,"그들은 5센트, 10센트짜리 동전 몇 닢씩을 내서 1,000달러를 모금했다.","""raise""가 [모금하다]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1189,20303000000,"""Yes, sir. I'll work hard,"" Jeff said.","예, 할아버지. 열심히 할께요, 하고 제프가 말했다.","""hard""가 [열심히]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1190,20303000000,A great crowd came to watch.,많은 군중들이 구경하러 왔다.,"""great""가 [많은]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1191,20303000000,"But we do know that life becomes rich because of its subtle, varied meanings.",그러나 우리는 그 미묘하고 다양한 의미들 때문에 인생이 풍요로워진다는 것을 알고 있다.,"""rich""가 [풍요로운]으로 번역되었습니까?",,,영어교과서-고교ii-a-1
+1192,20303000000,"Well, she fell in the pond and was nearly drowned.","글세, 그 애가 연못에 빠져서 하마터면 죽을 뻔했어요.","""well""이 [글쎄]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1193,20303000000,Have you finished your breakfast yet?,아침식사를 벌써 끝냈니?,"""yet""이 [벌써]와 같이 번역이 되었습니까?",,,문법책-성문기본
+1194,20401000000,But why the repetition?,그런데 반복은 왜 하는가?,명사구가 [반복은 왜 하는가]로 완전한 문장으로 자연스럽게 번역되었습니까?,,,영어교과서-고교ii-a-1
+1195,20401000000,A children's book could be a good beginner.,처음 시작하는 것으로는 동화책이 좋을 수도 있다.,"""a children's book""이 [동화책]으로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1196,20401000000,"In ancient Greece, each winner in the Olympic Games was crowned with a wreath of olives.",고대 그리스에서는 올림픽 경기의 승자에게 월계관을 씌웠다.,""" a wreath of olives""가 [월계관]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1197,20401000000,"A poor public speaker, Jefferson avoided the platform and sought the desk.","대중 앞에서 연설이 서툴렀기 때문에, 제퍼슨은 연단에 오르는 것을  피하고 책상에 앉는 것을 택했다.","""A poor public speaker"" 가 [대중앞에서의 연설이 서툴렀기 때문에]로 자연스럽게 번역이 되었습니까?",,,문법책-맨투맨
+1198,20401000000,His refusal to help was obvious.,그가 원조를 거부하는 것은 눈에 보였다.,[도와주는 것을 그가 거절한 것]과 같이 명사형이 동사로 번역되었습니까?,,,문법책-Hornby
+1199,20401000000,His carelessness caused the accident.,그 사고는 그의 부주의로 일어났다.,[부주의로]와 같이 부주의가 사고의 원인으로 번역되었습니까?,,,문법책-Hornby
+1200,20401000000,A little reflection might have reminded me that my own talk was no better than theirs.,그런데 조금만 더 생각해 보았더라면 나는 내 자신의 이야기도 그들의 이야기보다 더 나을 게 없다는 것을 깨달았을지도 모른다.,"""A little reflection""이 [조금만 더 생각해 보았더라면]으로 번역이 되었습니까?",,,문법책-맨투맨
+1201,20402000000,I'm surprised.,놀랍군요.,"""be surprised""가 [놀라다]라고 자연스럽게 번역되었습니까?",,,영어교과서-고교ii-a-1
+1202,20402000000,Martin is busy with glasses and drinks.,마틴은 잔과 음료를 준비하느라 분주하다.,동사구가 [마틴은 잔과 음료를 준비하는데 바쁘다]로 자연스럽게 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1203,20402000000,My father was still kept at the prison house thirty miles west of our town.,아버지는 아직도 우리 마을에서 서쪽으로 30마일 떨어져 있는 감옥에 수감 중이었다.,"""kept at the prison""이 [감옥에 수감중었다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1204,20402000000,"She, too, flung herself on her knees beside her husband.",그녀도 역시 남편 옆에 털썩 무릎을 꿇었다.,"""fling herself on her knees""가 [털썩 무릎을 꿇다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1205,20402000000,We asked questions but the grown-ups were as confused and as frightened as ourselves.,우리는 질문을 했지만 어른들도 우리만큼이나 어리둥절하여 겁을 내고 있었다.,"""ask question""가 [질문을 하다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1206,20402000000,He caught me by the hand.,그는 나의 손을 잡았다.,"""caught me by the hand""가 [나의 손을 잡았다]와 같이 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+1207,20402000000,Come and see me this evening.,오늘 저녁에 나를 보러 오너라.,"""Come and see ""가 [보러오다]와 같이 ""come to see""의 의미로 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+1208,20402000000,That ship meal gave me my first acquaintance with coffee.,그 배에서 식사를 하면서 나는 처음으로 커피를 맛보게 되었다.,"""gave me my first acquaintance with coffee""가 [나는 처음으로 커피를 맛보게 되었다]로 번역이 되었습니까?",,,문법책-맨투맨
+1209,20403000000,It is no use crying over spilt milk.,엎지른 우유를 울어본들 소용없다.,문전체가 [엎지른 우유를 울어본들 소용없다]과 같이 자연스럽게 번역이 되었습니까?,,,문법책-성문기본
+1210,20403000000,Make hay while the sun shines.,해가 날때 풀을 말려라.,""" Make hay while the sun shines.""이 [해가 날때 풀을 말려라]와 같이 속담표현으로 번역이 되었습니까?",,,문법책-성문기본
+1211,20403000000,Good morning.,안녕.," ""Good morning.""이 [안녕]과 같이 일상적인 인사의 관용표현으로 번역이 되었습니까?",,,문법책-성문기본
+1212,20403000000,"Out of sight, out of mind.",눈에서 멀어지만 마음에서도 멀어진다.,"""Out of sight, out of mind.""가 [눈에서 멀어지만 마음에서도 멀어진다]와 같이 속담으로 번역이 되었습니까?",,,문법책-성문기본
+1213,20403000000,The burden is light on the shoulder of another.,남이 진 짐은 가볍게 보인다.,"""The burden is light on the shoulder of another.""이 [남이 진 짐은 가볍게 보인다]로 자연스럽게 번역이 되었습니까?",,,문법책-맨투맨
+1214,20403000000,"Nothing venture, nothing have.",호랑이 굴에 들어가야 호랑이를 잡는다.,"[호랑이 굴에 들어가야 호랑이를 잡는다]으로 , 속담으로 번역이 되었습니까?",,,문법책-맨투맨
+1215,20403000000,"Love never gives up ; and its faith, hope, and patience never fail.",사랑은 모든 것을 참으며 모든 것을 믿으며 모든 것을 바라고 모든 것을 견딥니다.,"[사랑은 모든 것을 참으며 모든 것을 믿으며 모든 것을 바라고 모든 것을 견딥니다]와 같이 , 속담으로 번역이 되었습니까?",,,문법책-맨투맨
+1216,20403000000,A little pot is soon hot.,소인은 화를 잘 낸다.,"[소인은 화를 잘 낸다.]으로 , 속담으로 번역이 되었습니까?",,,문법책-맨투맨
+1217,20404000000,In every thunderstorm we see a flash of lightning before we hear the thunder caused by the flash.,우리는 뇌우가 있을 때마다 섬광에 의해서 생긴 천둥 소리를 듣기 전에 번갯불을 보게 된다.,"""In every thunderstorm ""이 [뇌우가 있을 때마다]로 자연스럽게 번역되었습니까?",,,영어교과서-고교ii-a-1
+1218,20404000000,"Then, with the hermit's help, he carried the man into the hut and laid him on the bed.",그런 다음 은자의 도움을 받아 그는 그 남자를 오두막 안으로 옮겨서 침대에 눕혔다.,"전치사구 ""with the hermit's help""가 [은자의 도움을 받아]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1219,20404000000,Without those sparkling ripples a poem certainly loses much of its charm.,그러한 반짝이는 파문이 없다면 시는 분명히 많은 매력을 상실하게 된다.,"""without~""가 [~이 없다면]으로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1220,20404000000,I shall be lonely with you away.,네가 가고 나면 나는 외로울 것이다.,"""with you away""가 [네가 가고 나면]과 같이 ""with""가 이끄는 전치사구가 조건의 의미로 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+1221,20404000000,He was standing with a hat on.,그는 모자를 쓰고 서 있었다.,""" with a hat on""가 [모자를 쓰고서]와 같이 전치사구가 부대상황의 의미로 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+1222,20405000000,"""Mom! Quick!"" he shouted.","엄마, 빨리요!라고 그가 외쳤다.","""quick!""이 [빨리요]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+2861,20405000000,"Several days before commencement, Ralph was offered a four-year scholarship.",졸업하기 며칠 전에 랠프는 4년 장학금을 받게 되었다.,"""Several days before commencement""가 [졸업하기 며칠전에]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1224,20405000000,A minute later the doorbell rang at the doctor's office.,잠시 후 의사의 진료실에 초인종이 울렸다.,"""a minute later""가 [잠시후]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1225,20405000000,"Only two months after the Montgolfiers' success, Charles's hydrogen balloon rose from a Paris square.",몽골피에 형제의 성공이 있은 지 불과 두 달 후에 샤를의 수소 기구가 파리 광장으로부터 하늘로 올랐다.,[몽골피에 형제의 성공이 있은 지 불과 두 달 후에]으로 자연스럽게 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1226,20405000000,"Yes, nearly always.","예, 거의 언제나 그렇지요.","""nealy always""가 [거의 항상 그렇습니다]로 자연스럽게 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1227,20406000000,Who knows?,누가 알겠는가?,문장이 [누가 알겠는가?]로 자연스럽게 번역이 되었습니까?,,,영어교과서-고교ii-a-1
+1228,20406000000,The snow prevented us from starting the trip.,눈 때문에 우리들은 여행에 출발할 수 없었다.,"""prevented us from starting∼""이 [우리들은 ∼하러 출발할 수 없었다]의 의미로 번역되었습니까?",,,문법책-Hornby
+1229,20406000000,This medicine will make you feel better.,이 약을 복용하면 당신은 기분이 나아질것 입니다.,주어가 술부 내용의 조건이 되도록 번역되었습니까?,,,문법책-Hornby
+1230,20406000000,The traffic jam caused him to be late.,교통 체증때문에 그는 지각을 했습니다.,[교통 체증]이 [지각]의 원인으로 번역되었습니까?,,,문법책-Hornby
+1231,20406000000,He ran himself out of breath.,그는 너무 뛰어 숨이 찼다.,문전체가 [그는 너무 뛰어 숨이 찼다]와 같이 자연스럽게 번역이 되었습니까?,,,문법책-성문기본
+1232,20406000000,I think not.,나는 그렇게 생각하지 않는다.,"""I think not.""이 [나는 그렇게 생각하지 않는다]와 같이 자연스럽게 번역이 되었습니까?",,,문법책-성문기본
+1233,20406000000,Spring catches up with winter.,겨을이 가면 봄이 온다.,"""Spring catches up with winter""가 [겨을이 가면 봄이 온다]로 번역이 되었습니까?",,,문법책-맨투맨
+1234,20406000000,The sharp air brought life to his senses.,찬 공기를 쏘이니까 정신이 바짝 들었다.,"""The sharp air brought life to his senses.""가 [찬 공기를 쏘이니까 정신이 바짝 들었다.]으로 자연스런 문장으로 번역이 되었습니까?",,,문법책-맨투맨
+1235,20600000000,All items are distributed with permission to copy.,모든 항목은 복사해도 좋다고 하는 허가와 함께 배포된다.,"[복사하는 허가와 함께]로, ""to copy""가 ""permission""에 걸리도록 번역되었습니까?",,,문법책-Hornby
+1236,20500000000,The art of reading faces goes back to ancient times.,관상술은 고대까지 거슬러 올라간다.,"""times""가 [시대]의 의미로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1237,20500000000,The moon is 20 times as far away as America.,달은 미국보다 20배나 멀리 떨어져 있다.,"""20 times""가 [20배]로 번역이 되었습니까?",,,영어교과서-고교ii-a-1
+1238,20500000000,It is bad manners to make a noise when you are eating soup.,스프를 먹을 때 소리를 내는 것은 나쁜 예의범절이다.,"""manners""가 [예의범절, 습관]이라고 번역되었습니까?",,,문법책-Hornby
+1239,20500000000,We tried every means available.,우리는 이용가는한 모든 수단을 사용했다.,"""means""가 [수단]이라고 번역되었습니까?",,,문법책-Hornby
