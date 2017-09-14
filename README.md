@@ -23,5 +23,6 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 ## notes04: StructModel
 1. notes_04.pdf
 2. slides_04.pdf
-3. ex04_ex04_structModel.py – word2vec(skip-gram) 구축 연습. Tensorboard에 임베딩 결과물 시각화
-
+3. ex04_1_structModel.py – word2vec(skip-gram) 모형 구축 class 정의, 학습 function 정의
+4. ex04_2_trainModel.py – 모형 학습 및 파라미터 저장(graph/notes04/skip_gram_checkpoints에 저장)
+5. ex04_3_visualization.py - Tensorboard에 임베딩 결과물 시각화
