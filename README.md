@@ -27,3 +27,13 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 4. ex04_2_trainModel.py – 모형 학습 및 파라미터 저장(graphs/notes04/skip_gram_checkpoints에 저장)
 5. ex04_3_visualization.py - Tensorboard에 임베딩 결과물 시각화(graphs/notes04/skip_gram_visualization 에 저장)
 
+## notes05: Save and Restore
+1. notes_05.pdf
+2. slides_05.pdf
+3. ex05_1_saveAndRestore.py – 학습한 모형의 parameter를 저장하는 방법과 읽어오는 방법
+4. ex05_2_summary.py – tensorboard에 학습 결과를 시각화 하기 위한 summary 사용법
+5. ex05_3_randomization.py – variable 정의할 때 많이 사용되는 random에 대한 공부
+6. ex05_6_csvReader.py – csv 파일을 feed_dict 형태가 아닌 tensor에서 queue로 읽는 방법
+
+## notes06: CNN and Neural style
+1. slides_06
