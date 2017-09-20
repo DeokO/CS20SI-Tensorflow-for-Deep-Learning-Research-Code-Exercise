@@ -13,23 +13,23 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 1. notes_02.pdf
 2. slides_02.pdf
 3. ex02_operations.py
-    – tensorflow 객체 생성, 기본 method 사용, graph 저장 등
+    - tensorflow 객체 생성, 기본 method 사용, graph 저장 등
 
 ## notes03: Regression
 1. notes_03.pdf
 2. slides_03.pdf
 3. ex03_1_regression.py
-    – 기본 회귀 모형 적합. 1차 함수 fitting, 2차 함수 fitting, plotting, optimizer 종류
+    - 기본 회귀 모형 적합. 1차 함수 fitting, 2차 함수 fitting, plotting, optimizer 종류
 4. ex03_2_logisticRegression.py
-    – 기본 분류 모형 적합. softmax_cross_entropy_with_logits 이용한 학습
+    - 기본 분류 모형 적합. softmax_cross_entropy_with_logits 이용한 학습
 
 ## notes04: StructModel
 1. notes_04.pdf
 2. slides_04.pdf
 3. ex04_1_structModel.py
-    – word2vec(skip-gram) 모형 구축 class 정의, 학습 function 정의
+    - word2vec(skip-gram) 모형 구축 class 정의, 학습 function 정의
 4. ex04_2_trainModel.py
-    – 모형 학습 및 파라미터 저장(graphs/notes04/skip_gram_checkpoints에 저장)
+    - 모형 학습 및 파라미터 저장(graphs/notes04/skip_gram_checkpoints에 저장)
 5. ex04_3_visualization.py
     - Tensorboard에 임베딩 결과물 시각화(graphs/notes04/skip_gram_visualization 에 저장)
 
@@ -37,13 +37,13 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 1. notes_05.pdf
 2. slides_05.pdf
 3. ex05_1_saveAndRestore.py
-    – 학습한 모형의 parameter를 저장하는 방법과 읽어오는 방법
+    - 학습한 모형의 parameter를 저장하는 방법과 읽어오는 방법
 4. ex05_2_summary.py
-    – tensorboard에 학습 결과를 시각화 하기 위한 summary 사용법
+    - tensorboard에 학습 결과를 시각화 하기 위한 summary 사용법
 5. ex05_3_randomization.py
-    – variable 정의할 때 많이 사용되는 random에 대한 공부
+    - variable 정의할 때 많이 사용되는 random에 대한 공부
 6. ex05_6_csvReader.py
-    – csv 파일을 feed_dict 형태가 아닌 tensor에서 queue로 읽는 방법
+    - csv 파일을 feed_dict 형태가 아닌 tensor에서 queue로 읽는 방법
 
 ## notes06: CNN and Neural style
 1. slides_06
