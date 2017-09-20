@@ -48,7 +48,7 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 ## notes06: CNN and Neural style
 1. slides_06
 
-## notes07: Convolutional Network
+## notes07: Convolutional Neural Network
 1. notes_07.pdf
 2. slides_07.pdf
 3. ex07_convNet.py
