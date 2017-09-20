@@ -43,7 +43,7 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 2. slides_07.pdf
 3. ex07_convNet.py
   - conv2d에 대한 설명
-  – convNet 구조 생성 및 학습, summary, parameter 저장까지 모두 포함돼 있는 코드
-  - input, output의 size를 명시해두어 이해하기에 편리
-  - tf.variable_scope를 이용해 tensorboard에서 graph를 가독성 좋게 보도록 구성
+  - convNet 구조 생성 및 학습, summary, parameter 저장까지 모두 포함돼 있는 코드
+  - input, output의 size를 명시해두어 이해하기에 편리
+  - tf.variable_scope를 이용해 tensorboard에서 graph를 가독성 좋게 보도록 구성
   - 강의에서 제공하는 코드에서 많은 부분 추가됨
