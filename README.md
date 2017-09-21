@@ -64,4 +64,4 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 3. ex09_Reader.py
     - ex05_4_csvReader.py 파일과 동일한 파일
     - 이 코드를 기준으로 csv에 대한 Reader를 실습
-    - slide에는 Reader내용에 추가로 style transfer의 loss, optimization와 관련한 내용이 있음
+    - slide에는 Reader내용에 추가로 style transfer의 loss, optimization와 관련한 내용이 있음
