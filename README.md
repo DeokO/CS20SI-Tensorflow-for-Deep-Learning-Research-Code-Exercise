@@ -57,3 +57,11 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
     - input, output의 size를 명시해두어 이해하기에 편리
     - tf.variable_scope를 이용해 tensorboard에서 graph를 가독성 좋게 보도록 구성
     - 강의에서 제공하는 코드에서 많은 부분 추가됨
+
+## notes09: Pipeline
+1. notes_09.pdf
+2. slides_09.pdf
+3. ex09_Reader.py
+    - ex05_4_csvReader.py 파일과 동일한 파일
+    - 이 코드를 기준으로 csv에 대한 Reader를 실습
+    - slide에는 style transfer의 loss, optimization와 관련한 내용이 있
