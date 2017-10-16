@@ -71,7 +71,7 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 2. extra01_MNIST_GRUCell.py
     - cs20si 11장에서는 chatbot 설명함
     - chatbot에 들어가기 앞서 기본 RNN 모형을 공부
-    - golbin님의 코드를 참고하여 작성
+    - golbin님의 코드를 참고하여 아래 내용을 추가
         - vanilla RNN, LSTM, GRU cell 모두를 적용 가능하게 접근
         - RNN cell에 대해 dropout 적용(tf.contrib.rnn.DropoutWrapper 이용)
         - Fully connected 파트는 tf.contrib.layers를 이용하였으며, batch normalization 적용
