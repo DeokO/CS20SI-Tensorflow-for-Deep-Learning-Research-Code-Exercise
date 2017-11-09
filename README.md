@@ -70,8 +70,8 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 1. slides_11.pdf
     - cs20si 11장에서는 RNN의 cell과 language modeling을 설명
 2. RNN01_MNIST_GRUCell.py
-    - 강의에서 제공하는 코드보다는 golbin 님의 코드가 단계적으로 잘 설명돼있으므로 참고해서 코딩
-    - MNIST에 대해 GRU cell을 이용해 모델링 하는 방법 작성
+    - 강의에서 제공하는 코드보다는 golbin 님의 코드가 단계적으로 잘 설명돼있으므로 참고해서 코딩
+    - MNIST에 대해 GRU cell을 이용해 모델링 하는 방법 작성
     - golbin 님의 코드에 아래 내용을 추가
         - vanilla RNN, LSTM, GRU cell 모두를 적용 가능하게 접근
         - RNN cell에 대해 dropout 적용(tf.contrib.rnn.DropoutWrapper 이용)
