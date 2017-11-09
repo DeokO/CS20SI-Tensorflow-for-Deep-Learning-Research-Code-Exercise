@@ -69,19 +69,20 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
 ## notes11: RNN
 1. slides_11.pdf
     - cs20si 11장에서는 RNN의 cell과 language modeling을 설명
-2. RNN01_MNIST_GRUcell.py
+2. RNN01_MNIST_GRUCell.py
     - 강의에서 제공하는 코드보다는 golbin 님의 코드가 단계적으로 잘 설명돼있으므로 참고해서 코딩
     - MNIST에 대해 GRU cell을 이용해 모델링 하는 방법 작성
     - golbin 님의 코드에 아래 내용을 추가
         - vanilla RNN, LSTM, GRU cell 모두를 적용 가능하게 접근
         - RNN cell에 대해 dropout 적용(tf.contrib.rnn.DropoutWrapper 이용)
         - Fully connected 파트는 tf.contrib.layers를 이용하였으며, batch normalization 적용
-3. RNN02_word_Autocomplete.py
+3. RNN02_word_Autocomplete_dynamicLSTM.py
     - 영어 단어에서 앞의 character들을 이용해 마지막 character를 예측하는 모형을 코딩
-    - golbin 님의 코드를 참고하여 아래 내용을 추가
+    - golbin 님과 Danijar 님의 코드를 참고하여 아래 내용을 추가
         - vanilla RNN, LSTM, GRU cell 모두를 적용 가능하게 접근
-        - LSTM cell을 이용하고, RNN을 2층으로 쌓고 Dropout을 적용
+        - LSTM cell을 이용하고, RNN을 1층만 쌓고 Dropout 적용
         - dynamic_rnn에서 sequence_length를 사용하기 위해 예제 단어 추가
-        - dynamic_rnn은 길이가 다른 input을 dynamic하게 처리
+        - dynamic_rnn은 길이가 다른 input을 dynamic하게 처리해주는데, 이해하기 쉽도록 정리
+
 
 
