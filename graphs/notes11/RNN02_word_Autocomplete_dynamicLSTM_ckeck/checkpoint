@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\DeokseongSeo\\Desktop\\tensor_tmp\\dynamic_LSTMmodel.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\DeokseongSeo\\Desktop\\tensor_tmp\\dynamic_LSTMmodel.ckpt"
