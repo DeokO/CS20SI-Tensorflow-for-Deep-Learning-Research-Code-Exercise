@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Users\\DeokseongSeo\\Desktop/dynamic_GRU_EncoderDecoder_translator.ckpt"
+all_model_checkpoint_paths: "./graphs/notes11/RNN03_EncoderDecoderTranslator_check/dynamic_GRU_EncoderDecoder_translator.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\DeokseongSeo\\Desktop/dynamic_GRU_EncoderDecoder_translator.ckpt"
