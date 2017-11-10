@@ -83,6 +83,14 @@ CS 20SI: Tensorflow for Deep Learning Research 강의를 공부하면서 정리�
         - LSTM cell을 이용하고, RNN을 1층만 쌓고 Dropout 적용
         - dynamic_rnn에서 sequence_length를 사용하기 위해 예제 단어 추가
         - dynamic_rnn은 길이가 다른 input을 dynamic하게 처리해주는데, 이해하기 쉽도록 정리
+4. RNN03_EncoderDecoderTranslator.py
+    - 여러 길이를 가진 단어들에 대해 영어 단어를 한국어 단어로 번역하는 코드
+    - **tensorflow에서 제공하는 seq2seq를 사용하지 않고**, 2개의 RNN을 연결하는 형태로 접근
+    - golbin 님의 코드를 참고하여 아래 내용을 추가
+        - GRU cell 을 이용하여 Encoder와 Decoder를 생성
+        - RNN을 1층만 쌓고 Dropout 적용 (이는 유동적으로 변경 가능)
+        - dynamic_rnn에서 sequence_length를 사용하기 위해 예제 단어 추가
+        - dynamic_rnn은 길이가 다른 input을 dynamic하게 처리해주는데, 이해하기 쉽도록 정리 
 
 
 
