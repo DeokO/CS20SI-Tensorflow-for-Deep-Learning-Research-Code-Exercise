@@ -129,7 +129,7 @@ TRAIN_BOOL = tf.placeholder(tf.bool)
 # 인코더 셀을 구성한다.
 # 인코더의 input으로 ENC_INPUT: input_batch가 나중에 feed_dict를 통해 들어오고,
 # 마지막 코드에서 enc_states를 디코더 셀에 전달해 줘야 하는데, 이부분이 중요
-with tf.variable_scope('Encode'):
+with tf.variable_scope('Encoder'):
     enc_cell = tf.contrib.rnn.GRUCell(num_units=n_hidden)
     enc_cell = tf.contrib.rnn.DropoutWrapper(enc_cell, input_keep_prob=Dropout_Rate1, output_keep_prob=Dropout_Rate2)
 
@@ -139,7 +139,7 @@ with tf.variable_scope('Encode'):
 # 디코더 셀을 구성한다.
 # 디코더의 input으로 DEC_INPUT: output_batch가 나중에 feed_dict를 통해 들어오고,
 # 인코더로부터 얻은 enc_states를 initial_state에 전달해줌
-with tf.variable_scope('Decode'):
+with tf.variable_scope('Decoder'):
     dec_cell = tf.contrib.rnn.GRUCell(num_units=n_hidden)
     dec_cell = tf.contrib.rnn.DropoutWrapper(dec_cell, input_keep_prob=Dropout_Rate1, output_keep_prob=Dropout_Rate2)
 
