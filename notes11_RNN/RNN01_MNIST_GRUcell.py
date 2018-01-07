@@ -1,4 +1,4 @@
-# 이 코드는 RNN에 대해 익히기 위해 golbin님의 git에있는 코드를 참조해서 응용
+# 이 코드는 RNN에 대해 익히기 위해 golbin님의 git에있는 코드를 참고해서 응용
 # GRU cell을 이용하고, RNN을 2층으로 쌓고 Dropout을 적용
 # Fully connected는 tf.contrib.layers를 이용, dropout
 # https://github.com/golbin/TensorFlow-Tutorials/blob/master/10%20-%20RNN/01%20-%20MNIST.py
