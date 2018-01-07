@@ -49,15 +49,15 @@ TRAIN_BOOL = tf.placeholder(tf.bool)
 # RNN 에 학습에 사용할 셀을 생성
 # BasicRNNCell, BasicLSTMCell, GRUCell 들을 사용하면 다른 구조의 셀로 간단하게 변경 가능하며
 # 본 코드에서는 gru를 이용하고, 과적합 방지를 위해 dropout을 적용해 주었음
-def GRU_cell():
+def GRU_cell(n_hidden, Dropout_Rate1, Dropout_Rate2):
     cell = tf.contrib.rnn.GRUCell(num_units=n_hidden)
     cell = tf.contrib.rnn.DropoutWrapper(cell, input_keep_prob=Dropout_Rate1, output_keep_prob=Dropout_Rate2)
     return cell
-def LSTM_cell():
+def LSTM_cell(n_hidden, Dropout_Rate1, Dropout_Rate2):
     cell = tf.contrib.rnn.BasicLSTMCell(num_units=n_hidden)
     cell = tf.contrib.rnn.DropoutWrapper(cell, input_keep_prob=Dropout_Rate1, output_keep_prob=Dropout_Rate2)
     return cell
-def RNN_cell():
+def RNN_cell(n_hidden, Dropout_Rate1, Dropout_Rate2):
     cell = tf.contrib.rnn.BasicRNNCell(num_units=n_hidden)
     cell = tf.contrib.rnn.DropoutWrapper(cell, input_keep_prob=Dropout_Rate1, output_keep_prob=Dropout_Rate2)
     return cell
