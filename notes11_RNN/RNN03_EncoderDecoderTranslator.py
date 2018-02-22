@@ -103,7 +103,7 @@ fc1_hidden = 256
 #encoder와 decoder의 input max step수 산출
 enc_step = np.max(list(map(lambda x: len(x[0]), seq_data)))
 # 'S'에 해당하는 한개가 무조건 있으므로 max에도 1을 더해줌
-dec_step = np.max(list(map(lambda x: len(x[1]), seq_data)))
+dec_step = np.max(list(map(lambda x: len(x[1]), seq_data))) + 1
 
 
 
